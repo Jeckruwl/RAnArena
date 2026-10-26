@@ -1,5 +1,11 @@
 # Piano d'azione — risalire alla fonte dei rallentamenti (finestra 20:30–21:50)
 
+> **AGGIORNAMENTO — identificazione avvenuta:** il proprietario della rete ha confermato che
+> **44:d3:ad è il cellulare di sua madre** (Android 8.1, sempre su 2,4 GHz, IP 192.168.1.8).
+> Le sere 2 e 3 del piano cambiano: non serve più "scoprire chi è", ma **testare la mitigazione**
+> (v. §3-bis).
+
+
 Base: `analisi/report-rallentamenti.md`. Quadro: WAN viva (344/344 LCP ok), sospettati lato radio/LAN:
 client **44:d3:ad** (Android 8.1, cronico su 2,4 GHz), **30:32:35** (IoT `udhcp`, fallisce il band‑steering),
 aria 2,4 GHz affollata (12 BSS vicini, noi su canale 9), **LAN Port 1** che rimbalza (bc:24:11 + 18:60:24
@@ -44,6 +50,19 @@ Le ore locali vanno sempre annotate; il router ha l'ora corretta, così possiamo
 Nota: bc:24:11 è un prefisso tipicamente usato da macchine virtuali Proxmox [inferito, da verificare
 a casa]: se bc:24:11 è una VM/host sempre acceso, è il posto perfetto per il server iperf3 e per il
 monitoraggio del punto 5.
+
+## 3-bis. Mitigazione mirata sul cellulare di mamma (44:d3:ad, Android 8.1)
+
+Sul telefono, in ordine di efficacia:
+
+1. **Dimentica la rete Wi‑Fi e riconnettila** (Impostazioni → Wi‑Fi → simbolo rete → "Elimina"): pulisce configurazione corrotta, spesso è causa di loop di riconnessione.
+2. **Disattiva le scansioni aggressive**: Impostazioni → Posizione → *Scansione Wi‑Fi* OFF; e Rete e Internet → Wi‑Fi → Preferenze → *Attiva Wi‑Fi automaticamente* OFF.
+3. **Tienilo in carica o fuori risparmio energetico la sera**: il risparmio batteria di Android 8.1 mette il Wi‑Fi in deep sleep aggressivo → cade e si riaggancia (esattamente il pattern dei log).
+4. **Dove sta il telefono**: se resta in una stanza lontana dal router, il segnale debole fa partire il ciclo deauth→reassoc. Prova a spostarlo (o il router) e confronta i deauth nei log.
+5. **Test di conferma** (la vecchia "sera 2"): modalità aereo 20:30–21:50 per 2–3 sere. Se i rallentamenti spariscono → colpa confermata; se restano → passa agli altri sospetti (30:32:35, canale 2,4, porta LAN 1).
+6. In app/GUI Vodafone: se presente, imposta sul dispositivo **"Metti in pausa"** nelle ore serali o priorità QoS bassa — il router Vodafone di solito lo permette per singolo client.
+
+Nota: il 2,4 GHz resta affollato anche senza di lui (12 reti vicine, noi sul 9): **canale fisso 1 o 13** consigliato comunque.
 
 ## 4. Albero decisionale (come leggere i risultati)
 
