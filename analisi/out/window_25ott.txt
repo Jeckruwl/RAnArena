@@ -1,0 +1,191 @@
+[IPTV] 2026-10-25 20:30:45 LAN send out a general query.
+[DNS] 2026-10-25 20:30:51 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 20:30:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:30:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:32:50 LAN send out a general query.
+[IPTV] 2026-10-25 20:34:55 LAN send out a general query.
+[WAN] 2026-10-25 20:35:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:35:54 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 20:36:52 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:37:00 LAN send out a general query.
+[IPTV] 2026-10-25 20:39:05 LAN send out a general query.
+[WAN] 2026-10-25 20:41:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:41:04 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:41:10 LAN send out a general query.
+[WAN] 2026-10-25 20:41:45 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:41:45 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 20:41:52 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 20:42:29 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:42:29 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:42:29 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:42:29 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:29 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:30 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:30 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x5deac690 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 20:42:30 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:42:30 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 20:42:30 Send Signal to Networkmap update
+[IPTV] 2026-10-25 20:43:15 LAN send out a general query.
+[WIFI] 2026-10-25 20:43:35 DEAUTH(5) reason4 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:43:35 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:44:03 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:03 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:04 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:04 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x40159005 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 20:44:04 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:44:04 Send Signal to Networkmap update
+[LAN] 2026-10-25 20:44:04 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 20:45:20 LAN send out a general query.
+[WAN] 2026-10-25 20:46:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:46:46 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:47:25 LAN send out a general query.
+[DNS] 2026-10-25 20:48:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:49:30 LAN send out a general query.
+[IPTV] 2026-10-25 20:51:35 LAN send out a general query.
+[WAN] 2026-10-25 20:51:47 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:51:47 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:53:40 LAN send out a general query.
+[DNS] 2026-10-25 20:54:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:55:45 LAN send out a general query.
+[WAN] 2026-10-25 20:56:48 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:56:48 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:57:50 LAN send out a general query.
+[WIFI] 2026-10-25 20:58:15 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:15 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:15 Authorized sta:30:32:35:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:58:15 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x6114f912 Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-25 20:58:16 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:58:16 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 20:58:16 Send Signal to Networkmap update
+[WIFI] 2026-10-25 20:58:23 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:23 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:23 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:23 (BSD)ASSOC(10) send to sta:30:32:35:XX:XX:XX on wl0
+[LAN] 2026-10-25 20:58:27 Received RELEASE from client ip [192.168.1.XX] mac [30:32:35:XX:XX:XX]
+[WIFI] 2026-10-25 20:58:27 DEAUTH(5) reason15 from sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 20:58:27 (BSD)deauth(5) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:27 DEAUTH(5) reason4 from sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 20:58:27 (BSD)deauth(5) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:32 DEAUTH(6) reason3 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:58:32 (BSD)deauth(6) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:32 DISASSOC(12) reason8 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:58:32 (BSD)disassoc(12) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 Authorized sta:30:32:35:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:58:35 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:35 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:36 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:36 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x07d8b094 Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-25 20:58:36 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:58:36 Send Signal to Networkmap update
+[LAN] 2026-10-25 20:58:37 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 20:59:55 LAN send out a general query.
+[DNS] 2026-10-25 21:00:53 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 21:01:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:01:49 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:02:00 LAN send out a general query.
+[IPTV] 2026-10-25 21:04:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:06:10 LAN send out a general query.
+[WAN] 2026-10-25 21:06:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:06:49 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 21:07:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:08:15 LAN send out a general query.
+[IPTV] 2026-10-25 21:10:20 LAN send out a general query.
+[WAN] 2026-10-25 21:12:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:12:00 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-25 21:12:01 LAN Port [1] link is down.
+[LAN] 2026-10-25 21:12:08 Device: bc:24:11:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 21:12:08 Device: 18:60:24:XX:XX:XX disconnected. 
+[IPTV] 2026-10-25 21:12:25 LAN send out a general query.
+[DNS] 2026-10-25 21:13:24 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 21:13:46 DEAUTH(6) reason3 send to sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:13:46 (BSD)deauth(6) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:13:46 DISASSOC(12) reason8 send to sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:13:46 (BSD)disassoc(12) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[IPTV] 2026-10-25 21:14:30 LAN send out a general query.
+[IPTV] 2026-10-25 21:16:35 LAN send out a general query.
+[WAN] 2026-10-25 21:17:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:17:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:18:40 LAN send out a general query.
+[DNS] 2026-10-25 21:19:37 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:20:45 LAN send out a general query.
+[WAN] 2026-10-25 21:22:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:22:02 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:22:50 LAN send out a general query.
+[IPTV] 2026-10-25 21:24:55 LAN send out a general query.
+[DNS] 2026-10-25 21:25:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:27:00 LAN send out a general query.
+[WAN] 2026-10-25 21:27:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:27:02 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:29:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:31:10 LAN send out a general query.
+[WAN] 2026-10-25 21:32:13 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:32:13 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-25 21:32:13 wl0: Auto channel timer cancel & reset timer, because total_frame(1859) larger than total_frame_threshold(600),and exist assoclated client
+[DNS] 2026-10-25 21:32:25 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:33:15 LAN send out a general query.
+[IPTV] 2026-10-25 21:35:20 LAN send out a general query.
+[WAN] 2026-10-25 21:37:14 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:37:14 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:37:25 LAN send out a general query.
+[DNS] 2026-10-25 21:38:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:39:30 LAN send out a general query.
+[IPTV] 2026-10-25 21:41:35 LAN send out a general query.
+[WAN] 2026-10-25 21:42:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:42:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:43:40 LAN send out a general query.
+[DNS] 2026-10-25 21:44:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:45:45 LAN send out a general query.
+[WAN] 2026-10-25 21:47:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:47:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:47:50 LAN send out a general query.
+[IPTV] 2026-10-25 21:49:55 LAN send out a general query.
+[WIFI] 2026-10-25 21:50:33 DISASSOC(12) reason8 send to sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:50:33 (BSD)disassoc(12) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:50:33 DEAUTH(5) reason3 from sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:50:33 (BSD)deauth(5) send to sta:70:56:81:XX:XX:XX on wl0
+[DNS] 2026-10-25 21:51:06 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 21:51:06 AUTH(4) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 (BSD)AUTH(4) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:51:06 ASSOC(7) from sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 ASSOC(8) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 (BSD)ASSOC(8) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:51:06 Authorized sta:70:56:81:XX:XX:XX intf wl0
+[LAN] 2026-10-25 21:51:07 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-25 21:51:07 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x76601c88 Unicast cip:[0.0.0.0] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option50:[c0a80103] option51:[0076a700] 
+[LAN] 2026-10-25 21:51:07 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 21:51:07 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 21:51:07 Send Signal to Networkmap update
+[LAN] 2026-10-25 21:51:10 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-25 21:51:10 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x76601c88 Unicast cip:[0.0.0.0] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option50:[c0a80103] option51:[0076a700] 
+[LAN] 2026-10-25 21:51:10 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 21:51:10 Send Signal to Networkmap update
+[LAN] 2026-10-25 21:51:10 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 21:52:00 LAN send out a general query.
+[WAN] 2026-10-25 21:52:26 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:52:26 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 21:54:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:56:10 LAN send out a general query.
+[DNS] 2026-10-25 21:57:22 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 21:57:27 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:57:27 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:58:15 LAN send out a general query.

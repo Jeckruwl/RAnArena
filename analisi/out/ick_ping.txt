@@ -1,0 +1,64 @@
+3: Mon Oct 27 10:24:27 CET 2025
+1425:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+1426:   RTT : round-trip min/avg/max = 5.596/5.596/5.596 ms
+1428: Wed Nov  5 08:26:59 CET 2025
+2794:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+2795:   RTT : round-trip min/avg/max = 5.504/5.504/5.504 ms
+2797: Wed Nov  5 08:27:46 CET 2025
+4163:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+4164:   RTT : round-trip min/avg/max = 5.088/5.088/5.088 ms
+4166: Wed Nov  5 22:38:26 CET 2025
+5532:   PING: 1 packets transmitted, 0 packets received, 100% packet loss
+5534: Wed Nov  5 22:42:28 CET 2025
+6900:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+6901:   RTT : round-trip min/avg/max = 200.838/200.838/200.838 ms
+6904: Sun Nov 16 02:16:41 CET 2025
+8345:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+8346:   RTT : round-trip min/avg/max = 5.537/5.537/5.537 ms
+8349: Wed Nov 19 08:52:50 CET 2025
+9807:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+9808:   RTT : round-trip min/avg/max = 5.758/5.758/5.758 ms
+9811: Fri Jan 16 18:05:58 CET 2026
+11249:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+11250:   RTT : round-trip min/avg/max = 5.692/5.692/5.692 ms
+11253: Tue Jan 20 08:24:09 CET 2026
+12697:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+12698:   RTT : round-trip min/avg/max = 5.536/5.536/5.536 ms
+12701: Thu Jan 29 08:27:32 CET 2026
+14137:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+14138:   RTT : round-trip min/avg/max = 5.401/5.401/5.401 ms
+14141: Fri Jan 30 10:34:53 CET 2026
+15577:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+15578:   RTT : round-trip min/avg/max = 5.966/5.966/5.966 ms
+15581: Wed Feb 18 23:13:00 CET 2026
+17006:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+17007:   RTT : round-trip min/avg/max = 4.755/4.755/4.755 ms
+18443:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+18444:   RTT : round-trip min/avg/max = 5.932/5.932/5.932 ms
+19892:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+19893:   RTT : round-trip min/avg/max = 5.773/5.773/5.773 ms
+21269:   PING: 1 packets transmitted, 0 packets received, 100% packet loss
+22646:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+22647:   RTT : round-trip min/avg/max = 5.240/5.240/5.240 ms
+24091:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+24092:   RTT : round-trip min/avg/max = 5.513/5.513/5.513 ms
+25529:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+25530:   RTT : round-trip min/avg/max = 4.950/4.950/4.950 ms
+27942:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+27943:   RTT : round-trip min/avg/max = 5.265/5.265/5.265 ms
+29395:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+29396:   RTT : round-trip min/avg/max = 5.336/5.336/5.336 ms
+31768:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+31769:   RTT : round-trip min/avg/max = 5.426/5.426/5.426 ms
+33210:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+33211:   RTT : round-trip min/avg/max = 5.495/5.495/5.495 ms
+34657:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+34658:   RTT : round-trip min/avg/max = 5.781/5.781/5.781 ms
+36111:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+36112:   RTT : round-trip min/avg/max = 5.125/5.125/5.125 ms
+37592:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+37593:   RTT : round-trip min/avg/max = 4.972/4.972/4.972 ms
+40005:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+40006:   RTT : round-trip min/avg/max = 5.626/5.626/5.626 ms
+41483:   PING: 1 packets transmitted, 1 packets received, 0% packet loss
+41484:   RTT : round-trip min/avg/max = 5.025/5.025/5.025 ms

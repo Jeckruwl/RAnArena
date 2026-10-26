@@ -1,0 +1,2678 @@
+[WAN] 2026-10-25 10:43:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 10:43:00 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 10:43:15 LAN send out a general query.
+[DNS] 2026-10-25 10:43:18 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 10:43:53 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:43:53 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:43:53 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:43:53 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:43:53 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 10:44:09 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:44:09 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:44:09 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:44:09 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:44:09 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:44:09 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:44:09 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:44:09 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:44:09 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:44:09 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:44:09 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:44:31 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 10:44:31 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:44:58 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:44:58 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:44:58 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:44:58 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:44:58 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[IPTV] 2026-10-25 10:45:20 LAN send out a general query.
+[WIFI] 2026-10-25 10:45:23 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:45:23 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:46:47 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:46:47 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:46:47 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:46:47 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:46:47 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:46:47 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 10:46:47 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:46:47 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:46:47 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:46:47 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x640f8a62 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 10:46:47 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 10:46:48 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 10:46:48 Send Signal to Networkmap update
+[WIFI] 2026-10-25 10:47:22 DEAUTH(5) reason4 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:47:22 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[IPTV] 2026-10-25 10:47:25 LAN send out a general query.
+[WAN] 2026-10-25 10:48:01 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 10:48:01 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-25 10:48:12 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:48:12 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:48:12 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:48:12 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 10:48:12 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:48:12 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 10:48:12 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:48:12 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:48:13 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 10:48:13 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x086141d9 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 10:48:13 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 10:48:13 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 10:48:13 Send Signal to Networkmap update
+[DNS] 2026-10-25 10:49:19 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 10:49:30 LAN send out a general query.
+[WIFI] 2026-10-25 10:50:52 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:50:52 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:50:57 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:50:57 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:50:57 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:50:57 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:51:02 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:51:02 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:51:02 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:51:02 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:51:02 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:51:02 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 10:51:02 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:51:29 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 10:51:29 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:51:29 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:51:29 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:51:29 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 10:51:29 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 10:51:30 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[IPTV] 2026-10-25 10:51:35 LAN send out a general query.
+[WIFI] 2026-10-25 10:52:03 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 10:52:03 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WAN] 2026-10-25 10:53:03 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 10:53:03 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 10:53:40 LAN send out a general query.
+[DNS] 2026-10-25 10:55:44 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 10:55:45 LAN send out a general query.
+[IPTV] 2026-10-25 10:57:50 LAN send out a general query.
+[WAN] 2026-10-25 10:58:03 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 10:58:03 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 10:59:55 LAN send out a general query.
+[WIFI] 2026-10-25 11:00:22 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 11:00:22 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[DNS] 2026-10-25 11:01:50 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:02:00 LAN send out a general query.
+[WAN] 2026-10-25 11:03:04 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:03:04 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:04:05 LAN send out a general query.
+[IPTV] 2026-10-25 11:06:10 LAN send out a general query.
+[DNS] 2026-10-25 11:07:50 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 11:08:05 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:08:05 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:08:15 LAN send out a general query.
+[IPTV] 2026-10-25 11:10:20 LAN send out a general query.
+[IPTV] 2026-10-25 11:12:25 LAN send out a general query.
+[WAN] 2026-10-25 11:13:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 11:13:15 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 11:14:20 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:14:30 LAN send out a general query.
+[IPTV] 2026-10-25 11:16:35 LAN send out a general query.
+[WAN] 2026-10-25 11:18:17 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:18:17 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:18:40 LAN send out a general query.
+[IPTV] 2026-10-25 11:20:45 LAN send out a general query.
+[DNS] 2026-10-25 11:20:47 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:22:50 LAN send out a general query.
+[WAN] 2026-10-25 11:23:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:23:18 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:24:55 LAN send out a general query.
+[DNS] 2026-10-25 11:26:51 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:27:00 LAN send out a general query.
+[WAN] 2026-10-25 11:28:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:28:18 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:29:05 LAN send out a general query.
+[IPTV] 2026-10-25 11:31:10 LAN send out a general query.
+[IPTV] 2026-10-25 11:33:15 LAN send out a general query.
+[WAN] 2026-10-25 11:33:19 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:33:19 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 11:33:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:35:20 LAN send out a general query.
+[IPTV] 2026-10-25 11:37:25 LAN send out a general query.
+[WAN] 2026-10-25 11:38:20 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:38:20 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:39:30 LAN send out a general query.
+[DNS] 2026-10-25 11:39:52 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:41:35 LAN send out a general query.
+[WAN] 2026-10-25 11:43:30 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 11:43:30 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 11:43:40 LAN send out a general query.
+[IPTV] 2026-10-25 11:45:45 LAN send out a general query.
+[DNS] 2026-10-25 11:46:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 11:47:50 LAN send out a general query.
+[WAN] 2026-10-25 11:48:32 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:48:32 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:49:55 LAN send out a general query.
+[IPTV] 2026-10-25 11:52:00 LAN send out a general query.
+[DNS] 2026-10-25 11:52:27 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 11:53:32 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:53:32 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 11:54:05 LAN send out a general query.
+[IPTV] 2026-10-25 11:56:10 LAN send out a general query.
+[IPTV] 2026-10-25 11:58:15 LAN send out a general query.
+[WAN] 2026-10-25 11:58:33 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 11:58:33 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 11:58:53 DNS relay failed, DNS reply error
+[LAN] 2026-10-25 12:00:06 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 12:00:06 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x2ee9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 12:00:06 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 12:00:06 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 12:00:06 Send Signal to Networkmap update
+[IPTV] 2026-10-25 12:00:20 LAN send out a general query.
+[WIFI] 2026-10-25 12:00:32 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 12:00:32 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 12:00:32 DEAUTH(5) reason3 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 12:00:32 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[IPTV] 2026-10-25 12:02:25 LAN send out a general query.
+[WAN] 2026-10-25 12:03:43 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:03:43 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:04:30 LAN send out a general query.
+[DNS] 2026-10-25 12:05:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:06:35 LAN send out a general query.
+[DNS] 2026-10-25 12:07:51 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 12:07:54 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:07:54 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:08:40 LAN send out a general query.
+[LAN] 2026-10-25 12:10:17 Received REQUEST from client mac [98:01:a7:XX:XX:XX]
+[LAN] 2026-10-25 12:10:17 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x05cefa5c Unicast cip:[192.168.1.X] cmac:[98:01:a7:XX:XX:XX] hostname:[MBPdiPaolo681] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[019801a7907153] option51:[0076a700] 
+[LAN] 2026-10-25 12:10:17 Successfully assign IP [192.168.1.X] to client mac [98:01:a7:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 12:10:17 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 12:10:17 Send Signal to Networkmap update
+[IPTV] 2026-10-25 12:10:45 LAN send out a general query.
+[IPTV] 2026-10-25 12:12:50 LAN send out a general query.
+[WAN] 2026-10-25 12:12:55 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:12:55 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 12:13:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:14:55 LAN send out a general query.
+[IPTV] 2026-10-25 12:17:00 LAN send out a general query.
+[WAN] 2026-10-25 12:17:55 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:17:55 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:19:05 LAN send out a general query.
+[DNS] 2026-10-25 12:19:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:21:10 LAN send out a general query.
+[WAN] 2026-10-25 12:22:56 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:22:56 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:23:15 LAN send out a general query.
+[IPTV] 2026-10-25 12:25:20 LAN send out a general query.
+[DNS] 2026-10-25 12:26:24 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:27:25 LAN send out a general query.
+[WAN] 2026-10-25 12:27:57 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:27:57 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:29:30 LAN send out a general query.
+[IPTV] 2026-10-25 12:31:35 LAN send out a general query.
+[DNS] 2026-10-25 12:32:55 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 12:32:58 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:32:58 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-25 12:33:14 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 12:33:14 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[IPTV] 2026-10-25 12:33:40 LAN send out a general query.
+[IPTV] 2026-10-25 12:35:45 LAN send out a general query.
+[IPTV] 2026-10-25 12:37:50 LAN send out a general query.
+[WAN] 2026-10-25 12:38:00 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 12:38:00 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 12:38:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:39:55 LAN send out a general query.
+[IPTV] 2026-10-25 12:42:00 LAN send out a general query.
+[WAN] 2026-10-25 12:43:00 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 12:43:00 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 12:44:05 LAN send out a general query.
+[DNS] 2026-10-25 12:45:26 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:46:10 LAN send out a general query.
+[LAN] 2026-10-25 12:46:22 Device: bc:24:11:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 12:46:22 Device: 18:60:24:XX:XX:XX disconnected. 
+[WIFI] 2026-10-25 12:47:06 wl1: Auto channel timer cancel & reset timer, because total_frame(1980) larger than total_frame_threshold(600),and exist assoclated client
+[WAN] 2026-10-25 12:48:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 12:48:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 12:48:15 LAN send out a general query.
+[IPTV] 2026-10-25 12:50:20 LAN send out a general query.
+[DNS] 2026-10-25 12:51:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 12:52:25 LAN send out a general query.
+[WAN] 2026-10-25 12:53:11 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 12:53:11 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 12:54:30 LAN send out a general query.
+[IPTV] 2026-10-25 12:56:35 LAN send out a general query.
+[DNS] 2026-10-25 12:57:56 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 12:58:13 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 12:58:13 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 12:58:40 LAN send out a general query.
+[IPTV] 2026-10-25 13:00:45 LAN send out a general query.
+[IPTV] 2026-10-25 13:02:50 LAN send out a general query.
+[WAN] 2026-10-25 13:03:13 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:03:13 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 13:04:27 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:04:55 LAN send out a general query.
+[IPTV] 2026-10-25 13:07:00 LAN send out a general query.
+[WIFI] 2026-10-25 13:07:12 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 13:07:12 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:07:12 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 13:07:12 ASSOC(8) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 13:07:12 (BSD)ASSOC(8) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:07:12 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[LAN] 2026-10-25 13:07:12 Received DISCOVER from client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-25 13:07:12 Send OFFER of ip [192.168.1.X] to client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-25 13:07:12 Received REQUEST from client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-25 13:07:12 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xbb5cb7a4 Unicast cip:[0.0.0.0] cmac:[0c:c6:fd:XX:XX:XX] hostname:[21061119DG] Vendor Class:[android-dhcp-13] Request Parameters List:[1,3,6,15,26,28,51,58,59,43,114,108,]option61:[010cc6fded2c9a] option50:[c0a80107] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 13:07:12 Successfully assign IP [192.168.1.X] to client mac [0c:c6:fd:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 13:07:12 Send Signal to Networkmap update
+[LAN] 2026-10-25 13:07:14 networkmap receive update signal from udhcp
+[WAN] 2026-10-25 13:08:14 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:08:14 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 13:09:05 LAN send out a general query.
+[DNS] 2026-10-25 13:10:57 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:11:10 LAN send out a general query.
+[IPTV] 2026-10-25 13:13:15 LAN send out a general query.
+[WAN] 2026-10-25 13:13:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:13:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 13:15:20 LAN send out a general query.
+[DNS] 2026-10-25 13:16:57 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:17:25 LAN send out a general query.
+[WAN] 2026-10-25 13:18:25 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:18:25 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 13:19:30 LAN send out a general query.
+[IPTV] 2026-10-25 13:21:35 LAN send out a general query.
+[WAN] 2026-10-25 13:23:26 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:23:26 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 13:23:28 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:23:40 LAN send out a general query.
+[IPTV] 2026-10-25 13:25:45 LAN send out a general query.
+[IPTV] 2026-10-25 13:27:50 LAN send out a general query.
+[WAN] 2026-10-25 13:28:28 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:28:28 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 13:29:55 LAN send out a general query.
+[DNS] 2026-10-25 13:29:58 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:32:00 LAN send out a general query.
+[WAN] 2026-10-25 13:33:28 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:33:28 LCP echo-reply has been received from WAN WAN1
+[WAN] 2026-10-25 13:33:58 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:33:58 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 13:33:58 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:34:05 LAN send out a general query.
+[WIFI] 2026-10-25 13:35:51 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:35:51 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:35:51 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:35:51 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:35:51 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:35:58 DEAUTH(5) reason1 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 13:35:58 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:35:58 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:35:58 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:35:58 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:35:58 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:35:58 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[IPTV] 2026-10-25 13:36:10 LAN send out a general query.
+[WIFI] 2026-10-25 13:36:25 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:36:25 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:36:57 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:36:57 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:36:57 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:36:57 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:36:57 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:37:14 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 13:37:14 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:37:31 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:37:31 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:37:31 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:37:31 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:37:31 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 13:37:59 DEAUTH(5) reason1 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:37:59 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:37:59 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:37:59 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:37:59 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:37:59 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 13:37:59 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:38:15 DEAUTH(5) reason1 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 13:38:15 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:38:15 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:38:15 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:38:15 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 13:38:15 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 13:38:15 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[IPTV] 2026-10-25 13:38:15 LAN send out a general query.
+[WIFI] 2026-10-25 13:38:46 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 13:38:46 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WAN] 2026-10-25 13:38:59 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:38:59 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 13:40:20 LAN send out a general query.
+[DNS] 2026-10-25 13:40:28 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:42:25 LAN send out a general query.
+[WAN] 2026-10-25 13:44:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:44:00 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 13:44:30 LAN send out a general query.
+[IPTV] 2026-10-25 13:46:35 LAN send out a general query.
+[DNS] 2026-10-25 13:46:59 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 13:48:40 LAN send out a general query.
+[WAN] 2026-10-25 13:49:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:49:00 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 13:50:45 LAN send out a general query.
+[IPTV] 2026-10-25 13:52:50 LAN send out a general query.
+[DNS] 2026-10-25 13:52:59 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 13:54:01 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 13:54:01 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 13:54:55 LAN send out a general query.
+[IPTV] 2026-10-25 13:57:00 LAN send out a general query.
+[WAN] 2026-10-25 13:59:03 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 13:59:03 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 13:59:05 LAN send out a general query.
+[DNS] 2026-10-25 13:59:30 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:01:10 LAN send out a general query.
+[IPTV] 2026-10-25 14:03:15 LAN send out a general query.
+[WAN] 2026-10-25 14:04:03 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:04:03 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 14:05:20 LAN send out a general query.
+[DNS] 2026-10-25 14:05:30 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:07:25 LAN send out a general query.
+[WAN] 2026-10-25 14:09:04 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:09:04 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 14:09:30 LAN send out a general query.
+[IPTV] 2026-10-25 14:11:35 LAN send out a general query.
+[DNS] 2026-10-25 14:12:00 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:13:40 LAN send out a general query.
+[WAN] 2026-10-25 14:14:14 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 14:14:14 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-25 14:14:56 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 14:14:56 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x2fe9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 14:14:56 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 14:14:56 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 14:14:56 Send Signal to Networkmap update
+[IPTV] 2026-10-25 14:15:45 LAN send out a general query.
+[IPTV] 2026-10-25 14:17:50 LAN send out a general query.
+[DNS] 2026-10-25 14:18:29 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 14:19:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 14:19:15 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 14:19:55 LAN send out a general query.
+[IPTV] 2026-10-25 14:22:00 LAN send out a general query.
+[IPTV] 2026-10-25 14:24:05 LAN send out a general query.
+[WAN] 2026-10-25 14:24:16 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:24:16 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 14:24:31 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:26:10 LAN send out a general query.
+[IPTV] 2026-10-25 14:28:15 LAN send out a general query.
+[WAN] 2026-10-25 14:29:17 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:29:17 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 14:30:20 LAN send out a general query.
+[DNS] 2026-10-25 14:31:02 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:32:25 LAN send out a general query.
+[WAN] 2026-10-25 14:34:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:34:18 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 14:34:30 LAN send out a general query.
+[IPTV] 2026-10-25 14:36:35 LAN send out a general query.
+[DNS] 2026-10-25 14:37:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:38:40 LAN send out a general query.
+[WAN] 2026-10-25 14:39:28 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 14:39:28 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 14:40:45 LAN send out a general query.
+[IPTV] 2026-10-25 14:42:50 LAN send out a general query.
+[DNS] 2026-10-25 14:43:32 DNS relay failed, DNS reply error
+[LAN] 2026-10-25 14:44:22 Device: 18:60:24:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 14:44:22 Device: bc:24:11:XX:XX:XX disconnected. 
+[WAN] 2026-10-25 14:44:29 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 14:44:29 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 14:44:55 LAN send out a general query.
+[IPTV] 2026-10-25 14:47:00 LAN send out a general query.
+[IPTV] 2026-10-25 14:49:05 LAN send out a general query.
+[WAN] 2026-10-25 14:49:31 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:49:31 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 14:50:03 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:51:10 LAN send out a general query.
+[IPTV] 2026-10-25 14:53:15 LAN send out a general query.
+[WAN] 2026-10-25 14:54:31 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 14:54:31 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 14:55:20 LAN send out a general query.
+[DNS] 2026-10-25 14:56:33 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 14:57:25 LAN send out a general query.
+[IPTV] 2026-10-25 14:59:30 LAN send out a general query.
+[WAN] 2026-10-25 14:59:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 14:59:32 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 14:59:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:01:35 LAN send out a general query.
+[IPTV] 2026-10-25 15:03:40 LAN send out a general query.
+[WAN] 2026-10-25 15:04:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:04:32 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 15:05:33 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:05:45 LAN send out a general query.
+[LAN] 2026-10-25 15:06:16 Device: bc:24:11:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 15:06:16 Device: 18:60:24:XX:XX:XX disconnected. 
+[IPTV] 2026-10-25 15:07:50 LAN send out a general query.
+[WAN] 2026-10-25 15:09:34 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:09:34 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:09:55 LAN send out a general query.
+[IPTV] 2026-10-25 15:12:00 LAN send out a general query.
+[DNS] 2026-10-25 15:12:04 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:14:06 LAN send out a general query.
+[WAN] 2026-10-25 15:14:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:14:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:16:10 LAN send out a general query.
+[IPTV] 2026-10-25 15:18:15 LAN send out a general query.
+[DNS] 2026-10-25 15:18:32 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 15:19:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:19:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:20:20 LAN send out a general query.
+[LAN] 2026-10-25 15:21:47 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 15:21:47 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x30e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 15:21:47 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 15:21:47 Send Signal to Networkmap update
+[LAN] 2026-10-25 15:21:48 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 15:22:25 LAN send out a general query.
+[IPTV] 2026-10-25 15:24:30 LAN send out a general query.
+[DNS] 2026-10-25 15:24:35 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 15:24:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:24:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:26:35 LAN send out a general query.
+[IPTV] 2026-10-25 15:28:40 LAN send out a general query.
+[WAN] 2026-10-25 15:29:37 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:29:37 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:30:45 LAN send out a general query.
+[DNS] 2026-10-25 15:31:05 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:32:50 LAN send out a general query.
+[WAN] 2026-10-25 15:34:47 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:34:47 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 15:34:55 LAN send out a general query.
+[IPTV] 2026-10-25 15:37:00 LAN send out a general query.
+[DNS] 2026-10-25 15:37:05 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:39:05 LAN send out a general query.
+[WAN] 2026-10-25 15:39:48 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:39:48 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 15:41:10 LAN send out a general query.
+[IPTV] 2026-10-25 15:43:15 LAN send out a general query.
+[DNS] 2026-10-25 15:43:36 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 15:44:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:44:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 15:45:20 LAN send out a general query.
+[IPTV] 2026-10-25 15:47:25 LAN send out a general query.
+[IPTV] 2026-10-25 15:49:30 LAN send out a general query.
+[DNS] 2026-10-25 15:49:38 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 15:49:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:49:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 15:51:35 LAN send out a general query.
+[IPTV] 2026-10-25 15:53:40 LAN send out a general query.
+[WAN] 2026-10-25 15:54:50 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 15:54:50 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-25 15:55:12 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 15:55:12 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x31e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 15:55:12 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 15:55:12 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 15:55:12 Send Signal to Networkmap update
+[IPTV] 2026-10-25 15:55:45 LAN send out a general query.
+[DNS] 2026-10-25 15:56:06 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 15:57:50 LAN send out a general query.
+[LAN] 2026-10-25 15:58:27 Device: bc:24:11:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 15:58:27 Device: 18:60:24:XX:XX:XX disconnected. 
+[WAN] 2026-10-25 15:59:52 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 15:59:52 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 15:59:55 LAN send out a general query.
+[IPTV] 2026-10-25 16:02:00 LAN send out a general query.
+[DNS] 2026-10-25 16:02:37 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:04:05 LAN send out a general query.
+[WAN] 2026-10-25 16:04:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 16:04:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 16:06:10 LAN send out a general query.
+[IPTV] 2026-10-25 16:08:15 LAN send out a general query.
+[DNS] 2026-10-25 16:09:07 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 16:09:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 16:09:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 16:10:20 LAN send out a general query.
+[LAN] 2026-10-25 16:11:54 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 16:11:54 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x32e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 16:11:55 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 16:11:55 Send Signal to Networkmap update
+[LAN] 2026-10-25 16:11:56 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 16:12:25 LAN send out a general query.
+[WIFI] 2026-10-25 16:12:27 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 16:12:27 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 16:12:27 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 16:12:27 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 16:12:27 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 16:12:27 Authorized sta:30:32:35:XX:XX:XX intf wl0
+[LAN] 2026-10-25 16:12:28 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 16:12:28 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 16:12:28 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 16:12:28 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x068e79b8 Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-25 16:12:28 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 16:12:28 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 16:12:28 Send Signal to Networkmap update
+[IPTV] 2026-10-25 16:14:30 LAN send out a general query.
+[WAN] 2026-10-25 16:14:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 16:14:54 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 16:15:07 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:16:35 LAN send out a general query.
+[IPTV] 2026-10-25 16:18:40 LAN send out a general query.
+[WAN] 2026-10-25 16:20:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:20:04 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 16:20:45 LAN send out a general query.
+[DNS] 2026-10-25 16:21:38 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:22:50 LAN send out a general query.
+[LAN] 2026-10-25 16:23:03 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 16:23:03 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x33e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 16:23:03 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 16:23:03 Send Signal to Networkmap update
+[LAN] 2026-10-25 16:23:03 networkmap receive update signal from udhcp
+[WAN] 2026-10-25 16:24:25 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:24:25 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 16:24:38 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:24:55 LAN send out a general query.
+[IPTV] 2026-10-25 16:27:00 LAN send out a general query.
+[LAN] 2026-10-25 16:28:35 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 16:28:35 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x34e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 16:28:35 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 16:28:35 Send Signal to Networkmap update
+[LAN] 2026-10-25 16:28:36 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 16:29:05 LAN send out a general query.
+[WAN] 2026-10-25 16:29:26 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:29:26 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 16:31:08 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:31:10 LAN send out a general query.
+[IPTV] 2026-10-25 16:33:15 LAN send out a general query.
+[WAN] 2026-10-25 16:34:26 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:34:26 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 16:35:20 LAN send out a general query.
+[DNS] 2026-10-25 16:37:08 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:37:25 LAN send out a general query.
+[WAN] 2026-10-25 16:39:28 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 16:39:28 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 16:39:30 LAN send out a general query.
+[IPTV] 2026-10-25 16:41:35 LAN send out a general query.
+[DNS] 2026-10-25 16:43:39 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:43:40 LAN send out a general query.
+[WAN] 2026-10-25 16:44:38 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:44:38 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 16:45:45 LAN send out a general query.
+[IPTV] 2026-10-25 16:47:50 LAN send out a general query.
+[WAN] 2026-10-25 16:49:39 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:49:39 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 16:49:55 LAN send out a general query.
+[DNS] 2026-10-25 16:50:01 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:52:00 LAN send out a general query.
+[IPTV] 2026-10-25 16:54:05 LAN send out a general query.
+[WAN] 2026-10-25 16:54:40 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:54:40 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 16:56:09 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 16:56:10 LAN send out a general query.
+[IPTV] 2026-10-25 16:58:15 LAN send out a general query.
+[WAN] 2026-10-25 16:59:40 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 16:59:40 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 17:00:20 LAN send out a general query.
+[IPTV] 2026-10-25 17:02:25 LAN send out a general query.
+[DNS] 2026-10-25 17:02:40 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:04:30 LAN send out a general query.
+[WAN] 2026-10-25 17:04:41 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 17:04:41 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-25 17:05:13 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:13 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 17:05:13 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:13 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 17:05:13 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 17:05:16 DEAUTH(5) reason1 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 17:05:16 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 17:05:16 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:16 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 17:05:16 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:16 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 17:05:16 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 17:05:25 DEAUTH(5) reason1 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 17:05:25 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 17:05:25 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:25 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 17:05:25 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 17:05:25 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 17:05:25 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 17:05:59 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 17:05:59 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[IPTV] 2026-10-25 17:06:35 LAN send out a general query.
+[WIFI] 2026-10-25 17:06:50 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 17:06:50 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[IPTV] 2026-10-25 17:08:40 LAN send out a general query.
+[DNS] 2026-10-25 17:09:10 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 17:09:43 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:09:43 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 17:10:45 LAN send out a general query.
+[IPTV] 2026-10-25 17:12:50 LAN send out a general query.
+[WAN] 2026-10-25 17:14:43 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:14:43 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 17:14:55 LAN send out a general query.
+[DNS] 2026-10-25 17:15:10 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:17:00 LAN send out a general query.
+[IPTV] 2026-10-25 17:19:05 LAN send out a general query.
+[WAN] 2026-10-25 17:19:44 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:19:44 LCP echo-reply has been received from WAN WAN1
+[VoIP] 2026-10-25 17:20:01 New call from 342180**** to +390332284296
+[VoIP] 2026-10-25 17:20:01 dpm: Call rounting dest is *3
+[VoIP] 2026-10-25 17:20:01 dpm: Call rounting dest is *4
+[VoIP] 2026-10-25 17:20:01 dpm: Call rounting dest is *5
+[VoIP] 2026-10-25 17:20:01 dpm: Call rounting dest is *6
+[VoIP] 2026-10-25 17:20:01 dpm: Call rounting dest is #1
+[IPTV] 2026-10-25 17:21:10 LAN send out a general query.
+[DNS] 2026-10-25 17:21:25 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:23:15 LAN send out a general query.
+[WAN] 2026-10-25 17:24:54 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 17:24:54 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 17:25:20 LAN send out a general query.
+[IPTV] 2026-10-25 17:27:25 LAN send out a general query.
+[DNS] 2026-10-25 17:27:41 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:29:30 LAN send out a general query.
+[WAN] 2026-10-25 17:29:56 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:29:56 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 17:31:35 LAN send out a general query.
+[IPTV] 2026-10-25 17:33:40 LAN send out a general query.
+[DNS] 2026-10-25 17:33:41 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 17:34:56 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:34:56 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 17:35:45 LAN send out a general query.
+[IPTV] 2026-10-25 17:37:50 LAN send out a general query.
+[IPTV] 2026-10-25 17:39:55 LAN send out a general query.
+[WAN] 2026-10-25 17:39:57 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:39:57 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 17:40:12 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:42:00 LAN send out a general query.
+[IPTV] 2026-10-25 17:44:05 LAN send out a general query.
+[WAN] 2026-10-25 17:45:07 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 17:45:07 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 17:46:10 LAN send out a general query.
+[DNS] 2026-10-25 17:46:42 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:48:15 LAN send out a general query.
+[WAN] 2026-10-25 17:50:08 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 17:50:08 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 17:50:20 LAN send out a general query.
+[WAN] 2026-10-25 17:50:39 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:50:39 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 17:50:42 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 17:52:25 LAN send out a general query.
+[IPTV] 2026-10-25 17:54:30 LAN send out a general query.
+[WAN] 2026-10-25 17:55:40 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 17:55:40 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 17:56:35 LAN send out a general query.
+[DNS] 2026-10-25 17:57:02 DNS relay failed, DNS reply error
+[LAN] 2026-10-25 17:57:42 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 17:57:42 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x35e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 17:57:43 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 17:57:43 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 17:57:43 Send Signal to Networkmap update
+[IPTV] 2026-10-25 17:58:40 LAN send out a general query.
+[WAN] 2026-10-25 18:00:40 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:00:40 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:00:45 LAN send out a general query.
+[IPTV] 2026-10-25 18:02:50 LAN send out a general query.
+[DNS] 2026-10-25 18:03:13 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:04:55 LAN send out a general query.
+[WAN] 2026-10-25 18:05:41 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:05:41 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:07:00 LAN send out a general query.
+[LAN] 2026-10-25 18:07:31 Received RELEASE from client ip [192.168.1.XX] mac [30:32:35:XX:XX:XX]
+[WIFI] 2026-10-25 18:07:31 DEAUTH(6) reason3 send to sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 18:07:31 (BSD)deauth(6) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 18:07:31 DISASSOC(12) reason8 send to sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 18:07:31 (BSD)disassoc(12) send to sta:30:32:35:XX:XX:XX on wl0
+[IPTV] 2026-10-25 18:09:05 LAN send out a general query.
+[DNS] 2026-10-25 18:09:43 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 18:10:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 18:10:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 18:11:10 LAN send out a general query.
+[IPTV] 2026-10-25 18:13:15 LAN send out a general query.
+[WIFI] 2026-10-25 18:13:49 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:13:49 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:13:49 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:13:49 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:13:49 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:49 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:13:49 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:13:53 DISASSOC(12) reason8 send to sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:13:53 (BSD)disassoc(12) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:15:02 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:02 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:02 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:03 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:03 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:15:03 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:15:03 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 18:15:03 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 18:15:03 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 18:15:03 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 18:15:03 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xcb2ce7bd Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 18:15:04 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 18:15:04 Send Signal to Networkmap update
+[LAN] 2026-10-25 18:15:05 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 18:15:20 LAN send out a general query.
+[DNS] 2026-10-25 18:15:43 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 18:15:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:15:53 LCP echo-reply has been received from WAN WAN1
+[WIFI] 2026-10-25 18:16:07 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 18:16:07 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 18:16:07 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 18:16:07 ASSOC(8) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-25 18:16:07 (BSD)ASSOC(8) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 18:16:07 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[LAN] 2026-10-25 18:16:07 Received REQUEST from client mac [fe:ba:bd:XX:XX:XX]
+[LAN] 2026-10-25 18:16:07 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xc2d0ca9c Unicast cip:[0.0.0.0] cmac:[fe:ba:bd:XX:XX:XX] hostname:[HONOR-200-Lite] Vendor Class:[android-dhcp-16] Request Parameters List:[1,3,6,15,26,28,51,58,59,43,114,108,]option61:[01febabdd7f70a] option50:[c0a80109] option57:[05dc] 
+[LAN] 2026-10-25 18:16:08 Successfully assign IP [192.168.1.X] to client mac [fe:ba:bd:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 18:16:08 Send Signal to Networkmap update
+[LAN] 2026-10-25 18:16:08 networkmap receive update signal from udhcp
+[WIFI] 2026-10-25 18:16:58 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:16:58 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:16:58 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:16:58 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:16:58 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 DEAUTH(5) reason1 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:16:58 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:16:58 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 18:16:58 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 18:17:03 DISASSOC(12) reason8 send to sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 18:17:04 (BSD)disassoc(12) send to sta:44:d3:ad:XX:XX:XX on wl1
+[IPTV] 2026-10-25 18:17:25 LAN send out a general query.
+[IPTV] 2026-10-25 18:19:30 LAN send out a general query.
+[WAN] 2026-10-25 18:20:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:20:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:21:35 LAN send out a general query.
+[DNS] 2026-10-25 18:22:14 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:23:40 LAN send out a general query.
+[IPTV] 2026-10-25 18:25:45 LAN send out a general query.
+[WAN] 2026-10-25 18:25:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:25:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:27:50 LAN send out a general query.
+[DNS] 2026-10-25 18:28:21 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:29:55 LAN send out a general query.
+[WAN] 2026-10-25 18:31:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 18:31:04 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 18:32:00 LAN send out a general query.
+[IPTV] 2026-10-25 18:34:05 LAN send out a general query.
+[DNS] 2026-10-25 18:34:45 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 18:36:06 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:36:06 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:36:10 LAN send out a general query.
+[IPTV] 2026-10-25 18:38:15 LAN send out a general query.
+[IPTV] 2026-10-25 18:40:20 LAN send out a general query.
+[WAN] 2026-10-25 18:41:07 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:41:07 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 18:41:15 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:42:25 LAN send out a general query.
+[LAN] 2026-10-25 18:42:44 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 18:42:44 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x36e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 18:42:44 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 18:42:44 Send Signal to Networkmap update
+[LAN] 2026-10-25 18:42:45 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 18:44:30 LAN send out a general query.
+[WAN] 2026-10-25 18:46:07 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:46:07 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:46:35 LAN send out a general query.
+[DNS] 2026-10-25 18:47:15 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:48:40 LAN send out a general query.
+[IPTV] 2026-10-25 18:50:45 LAN send out a general query.
+[WAN] 2026-10-25 18:51:08 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 18:51:08 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 18:52:50 LAN send out a general query.
+[DNS] 2026-10-25 18:53:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 18:54:55 LAN send out a general query.
+[WAN] 2026-10-25 18:56:18 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 18:56:18 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 18:57:00 LAN send out a general query.
+[IPTV] 2026-10-25 18:59:05 LAN send out a general query.
+[DNS] 2026-10-25 18:59:46 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:01:10 LAN send out a general query.
+[WAN] 2026-10-25 19:01:19 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 19:01:19 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 19:03:15 LAN send out a general query.
+[LAN] 2026-10-25 19:05:15 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:05:15 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x37e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:05:15 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:05:15 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 19:05:15 Send Signal to Networkmap update
+[IPTV] 2026-10-25 19:05:20 LAN send out a general query.
+[DNS] 2026-10-25 19:05:46 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 19:06:20 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 19:06:20 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 19:07:25 LAN send out a general query.
+[IPTV] 2026-10-25 19:09:30 LAN send out a general query.
+[WAN] 2026-10-25 19:11:20 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 19:11:20 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 19:11:35 LAN send out a general query.
+[DNS] 2026-10-25 19:12:17 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:13:40 LAN send out a general query.
+[DNS] 2026-10-25 19:15:17 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 19:15:21 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 19:15:21 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 19:15:45 LAN send out a general query.
+[LAN] 2026-10-25 19:16:30 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:16:30 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x38e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:16:30 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:16:30 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 19:16:30 Send Signal to Networkmap update
+[IPTV] 2026-10-25 19:17:50 LAN send out a general query.
+[IPTV] 2026-10-25 19:19:55 LAN send out a general query.
+[WAN] 2026-10-25 19:20:23 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:20:23 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 19:21:27 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:22:00 LAN send out a general query.
+[LAN] 2026-10-25 19:22:08 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:22:08 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x39e9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:22:08 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:22:08 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 19:22:08 Send Signal to Networkmap update
+[IPTV] 2026-10-25 19:24:05 LAN send out a general query.
+[LAN] 2026-10-25 19:24:57 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:24:57 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3ae9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:24:57 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:24:57 Send Signal to Networkmap update
+[LAN] 2026-10-25 19:24:57 networkmap receive update signal from udhcp
+[WAN] 2026-10-25 19:25:23 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:25:23 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 19:26:10 LAN send out a general query.
+[LAN] 2026-10-25 19:26:21 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:26:21 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3be9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:26:21 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:26:21 Send Signal to Networkmap update
+[LAN] 2026-10-25 19:26:22 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 19:27:21 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:27:21 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3ce9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-25 19:27:21 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:27:21 Send Signal to Networkmap update
+[LAN] 2026-10-25 19:27:21 networkmap receive update signal from udhcp
+[DNS] 2026-10-25 19:27:47 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:28:15 LAN send out a general query.
+[LAN] 2026-10-25 19:28:21 Received DISCOVER from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:28:21 Send OFFER of ip [192.168.1.X] to client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:28:22 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-25 19:28:22 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3de9b67a Broadcast cip:[0.0.0.0] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option50:[c0a80102] option54:[c0a80101] 
+[LAN] 2026-10-25 19:28:22 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:28:22 Send Signal to Networkmap update
+[LAN] 2026-10-25 19:28:23 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 19:30:20 LAN send out a general query.
+[WAN] 2026-10-25 19:30:24 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:30:24 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 19:32:25 LAN send out a general query.
+[DNS] 2026-10-25 19:34:18 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:34:30 LAN send out a general query.
+[WAN] 2026-10-25 19:35:34 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 19:35:34 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 19:36:35 LAN send out a general query.
+[IPTV] 2026-10-25 19:38:40 LAN send out a general query.
+[DNS] 2026-10-25 19:40:18 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 19:40:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:40:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 19:40:45 LAN send out a general query.
+[IPTV] 2026-10-25 19:42:50 LAN send out a general query.
+[IPTV] 2026-10-25 19:44:55 LAN send out a general query.
+[WAN] 2026-10-25 19:45:37 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:45:37 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 19:46:48 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:47:00 LAN send out a general query.
+[IPTV] 2026-10-25 19:49:05 LAN send out a general query.
+[WAN] 2026-10-25 19:50:37 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:50:37 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 19:51:10 LAN send out a general query.
+[DNS] 2026-10-25 19:53:08 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:53:15 LAN send out a general query.
+[LAN] 2026-10-25 19:54:10 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-25 19:54:10 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xd3c72609 Unicast cip:[192.168.1.X] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option51:[0076a700] 
+[LAN] 2026-10-25 19:54:10 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 19:54:10 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 19:54:10 Send Signal to Networkmap update
+[IPTV] 2026-10-25 19:55:20 LAN send out a general query.
+[WAN] 2026-10-25 19:55:38 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 19:55:38 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 19:57:25 LAN send out a general query.
+[DNS] 2026-10-25 19:59:19 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 19:59:30 LAN send out a general query.
+[WAN] 2026-10-25 20:00:48 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:00:48 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:01:35 LAN send out a general query.
+[IPTV] 2026-10-25 20:03:40 LAN send out a general query.
+[DNS] 2026-10-25 20:05:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:05:45 LAN send out a general query.
+[WAN] 2026-10-25 20:05:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:05:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:07:50 LAN send out a general query.
+[IPTV] 2026-10-25 20:09:55 LAN send out a general query.
+[WAN] 2026-10-25 20:10:50 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:10:50 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 20:11:50 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:12:00 LAN send out a general query.
+[IPTV] 2026-10-25 20:14:05 LAN send out a general query.
+[WAN] 2026-10-25 20:15:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:15:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:16:10 LAN send out a general query.
+[DNS] 2026-10-25 20:17:51 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:18:15 LAN send out a general query.
+[IPTV] 2026-10-25 20:20:20 LAN send out a general query.
+[WAN] 2026-10-25 20:20:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:20:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:22:25 LAN send out a general query.
+[DNS] 2026-10-25 20:24:21 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:24:30 LAN send out a general query.
+[WAN] 2026-10-25 20:25:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:25:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:26:35 LAN send out a general query.
+[IPTV] 2026-10-25 20:28:40 LAN send out a general query.
+[IPTV] 2026-10-25 20:30:45 LAN send out a general query.
+[DNS] 2026-10-25 20:30:51 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 20:30:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:30:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:32:50 LAN send out a general query.
+[IPTV] 2026-10-25 20:34:55 LAN send out a general query.
+[WAN] 2026-10-25 20:35:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:35:54 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 20:36:52 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:37:00 LAN send out a general query.
+[IPTV] 2026-10-25 20:39:05 LAN send out a general query.
+[WAN] 2026-10-25 20:41:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:41:04 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:41:10 LAN send out a general query.
+[WAN] 2026-10-25 20:41:45 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:41:45 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 20:41:52 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 20:42:29 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:42:29 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:42:29 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:42:29 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:42:29 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:29 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:30 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:42:30 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x5deac690 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 20:42:30 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:42:30 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 20:42:30 Send Signal to Networkmap update
+[IPTV] 2026-10-25 20:43:15 LAN send out a general query.
+[WIFI] 2026-10-25 20:43:35 DEAUTH(5) reason4 from sta:44:d3:ad:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:43:35 (BSD)deauth(5) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 AUTH(4) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 (BSD)AUTH(4) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 ASSOC(7) from sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 ASSOC(8) send to sta:44:d3:ad:XX:XX:XX
+[WIFI] 2026-10-25 20:44:03 (BSD)ASSOC(8) send to sta:44:d3:ad:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:44:03 Authorized sta:44:d3:ad:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:44:03 Received DISCOVER from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:03 Send OFFER of ip [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:04 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-25 20:44:04 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x40159005 Unicast cip:[0.0.0.0] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option50:[c0a80108] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-25 20:44:04 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:44:04 Send Signal to Networkmap update
+[LAN] 2026-10-25 20:44:04 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 20:45:20 LAN send out a general query.
+[WAN] 2026-10-25 20:46:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 20:46:46 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 20:47:25 LAN send out a general query.
+[DNS] 2026-10-25 20:48:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:49:30 LAN send out a general query.
+[IPTV] 2026-10-25 20:51:35 LAN send out a general query.
+[WAN] 2026-10-25 20:51:47 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:51:47 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:53:40 LAN send out a general query.
+[DNS] 2026-10-25 20:54:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 20:55:45 LAN send out a general query.
+[WAN] 2026-10-25 20:56:48 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 20:56:48 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 20:57:50 LAN send out a general query.
+[WIFI] 2026-10-25 20:58:15 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:15 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:15 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:15 Authorized sta:30:32:35:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:58:15 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:15 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x6114f912 Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-25 20:58:16 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:58:16 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 20:58:16 Send Signal to Networkmap update
+[WIFI] 2026-10-25 20:58:23 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:23 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:23 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:23 (BSD)ASSOC(10) send to sta:30:32:35:XX:XX:XX on wl0
+[LAN] 2026-10-25 20:58:27 Received RELEASE from client ip [192.168.1.XX] mac [30:32:35:XX:XX:XX]
+[WIFI] 2026-10-25 20:58:27 DEAUTH(5) reason15 from sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 20:58:27 (BSD)deauth(5) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:27 DEAUTH(5) reason4 from sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 20:58:27 (BSD)deauth(5) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-25 20:58:32 DEAUTH(6) reason3 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:58:32 (BSD)deauth(6) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:32 DISASSOC(12) reason8 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 20:58:32 (BSD)disassoc(12) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-25 20:58:35 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 20:58:35 Authorized sta:30:32:35:XX:XX:XX intf wl1
+[LAN] 2026-10-25 20:58:35 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:35 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:36 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-25 20:58:36 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x07d8b094 Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-25 20:58:36 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 20:58:36 Send Signal to Networkmap update
+[LAN] 2026-10-25 20:58:37 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 20:59:55 LAN send out a general query.
+[DNS] 2026-10-25 21:00:53 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 21:01:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:01:49 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:02:00 LAN send out a general query.
+[IPTV] 2026-10-25 21:04:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:06:10 LAN send out a general query.
+[WAN] 2026-10-25 21:06:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:06:49 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 21:07:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:08:15 LAN send out a general query.
+[IPTV] 2026-10-25 21:10:20 LAN send out a general query.
+[WAN] 2026-10-25 21:12:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:12:00 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-25 21:12:01 LAN Port [1] link is down.
+[LAN] 2026-10-25 21:12:08 Device: bc:24:11:XX:XX:XX disconnected. 
+[LAN] 2026-10-25 21:12:08 Device: 18:60:24:XX:XX:XX disconnected. 
+[IPTV] 2026-10-25 21:12:25 LAN send out a general query.
+[DNS] 2026-10-25 21:13:24 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 21:13:46 DEAUTH(6) reason3 send to sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:13:46 (BSD)deauth(6) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:13:46 DISASSOC(12) reason8 send to sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:13:46 (BSD)disassoc(12) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[IPTV] 2026-10-25 21:14:30 LAN send out a general query.
+[IPTV] 2026-10-25 21:16:35 LAN send out a general query.
+[WAN] 2026-10-25 21:17:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:17:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:18:40 LAN send out a general query.
+[DNS] 2026-10-25 21:19:37 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:20:45 LAN send out a general query.
+[WAN] 2026-10-25 21:22:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:22:02 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:22:50 LAN send out a general query.
+[IPTV] 2026-10-25 21:24:55 LAN send out a general query.
+[DNS] 2026-10-25 21:25:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:27:00 LAN send out a general query.
+[WAN] 2026-10-25 21:27:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:27:02 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:29:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:31:10 LAN send out a general query.
+[WAN] 2026-10-25 21:32:13 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:32:13 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-25 21:32:13 wl0: Auto channel timer cancel & reset timer, because total_frame(1859) larger than total_frame_threshold(600),and exist assoclated client
+[DNS] 2026-10-25 21:32:25 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:33:15 LAN send out a general query.
+[IPTV] 2026-10-25 21:35:20 LAN send out a general query.
+[WAN] 2026-10-25 21:37:14 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:37:14 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:37:25 LAN send out a general query.
+[DNS] 2026-10-25 21:38:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:39:30 LAN send out a general query.
+[IPTV] 2026-10-25 21:41:35 LAN send out a general query.
+[WAN] 2026-10-25 21:42:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:42:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:43:40 LAN send out a general query.
+[DNS] 2026-10-25 21:44:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 21:45:45 LAN send out a general query.
+[WAN] 2026-10-25 21:47:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:47:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:47:50 LAN send out a general query.
+[IPTV] 2026-10-25 21:49:55 LAN send out a general query.
+[WIFI] 2026-10-25 21:50:33 DISASSOC(12) reason8 send to sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:50:33 (BSD)disassoc(12) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:50:33 DEAUTH(5) reason3 from sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 21:50:33 (BSD)deauth(5) send to sta:70:56:81:XX:XX:XX on wl0
+[DNS] 2026-10-25 21:51:06 DNS relay failed, DNS reply error
+[WIFI] 2026-10-25 21:51:06 AUTH(4) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 (BSD)AUTH(4) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:51:06 ASSOC(7) from sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 ASSOC(8) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-25 21:51:06 (BSD)ASSOC(8) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 21:51:06 Authorized sta:70:56:81:XX:XX:XX intf wl0
+[LAN] 2026-10-25 21:51:07 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-25 21:51:07 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x76601c88 Unicast cip:[0.0.0.0] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option50:[c0a80103] option51:[0076a700] 
+[LAN] 2026-10-25 21:51:07 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 21:51:07 networkmap receive update signal from udhcp
+[LAN] 2026-10-25 21:51:07 Send Signal to Networkmap update
+[LAN] 2026-10-25 21:51:10 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-25 21:51:10 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x76601c88 Unicast cip:[0.0.0.0] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option50:[c0a80103] option51:[0076a700] 
+[LAN] 2026-10-25 21:51:10 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-25 21:51:10 Send Signal to Networkmap update
+[LAN] 2026-10-25 21:51:10 networkmap receive update signal from udhcp
+[IPTV] 2026-10-25 21:52:00 LAN send out a general query.
+[WAN] 2026-10-25 21:52:26 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 21:52:26 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 21:54:05 LAN send out a general query.
+[IPTV] 2026-10-25 21:56:10 LAN send out a general query.
+[DNS] 2026-10-25 21:57:22 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 21:57:27 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 21:57:27 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 21:58:15 LAN send out a general query.
+[IPTV] 2026-10-25 22:00:20 LAN send out a general query.
+[IPTV] 2026-10-25 22:02:25 LAN send out a general query.
+[WAN] 2026-10-25 22:02:28 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:02:28 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 22:03:26 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:04:30 LAN send out a general query.
+[WAN] 2026-10-25 22:06:18 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 22:06:18 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 22:06:21 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:06:35 LAN send out a general query.
+[IPTV] 2026-10-25 22:08:40 LAN send out a general query.
+[IPTV] 2026-10-25 22:10:45 LAN send out a general query.
+[WAN] 2026-10-25 22:11:19 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 22:11:19 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 22:12:27 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:12:50 LAN send out a general query.
+[IPTV] 2026-10-25 22:14:55 LAN send out a general query.
+[WAN] 2026-10-25 22:16:19 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 22:16:19 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 22:17:00 LAN send out a general query.
+[DNS] 2026-10-25 22:18:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:19:05 LAN send out a general query.
+[IPTV] 2026-10-25 22:21:10 LAN send out a general query.
+[WAN] 2026-10-25 22:21:21 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:21:21 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 22:23:15 LAN send out a general query.
+[DNS] 2026-10-25 22:24:58 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:25:20 LAN send out a general query.
+[WAN] 2026-10-25 22:26:22 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:26:22 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 22:27:25 LAN send out a general query.
+[IPTV] 2026-10-25 22:29:30 LAN send out a general query.
+[WAN] 2026-10-25 22:31:22 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:31:22 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-25 22:31:28 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:31:35 LAN send out a general query.
+[IPTV] 2026-10-25 22:33:40 LAN send out a general query.
+[IPTV] 2026-10-25 22:35:45 LAN send out a general query.
+[WAN] 2026-10-25 22:36:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 22:36:32 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 22:37:50 LAN send out a general query.
+[DNS] 2026-10-25 22:37:58 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:39:55 LAN send out a general query.
+[WAN] 2026-10-25 22:41:34 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:41:34 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 22:42:00 LAN send out a general query.
+[IPTV] 2026-10-25 22:44:05 LAN send out a general query.
+[DNS] 2026-10-25 22:44:29 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:46:10 LAN send out a general query.
+[WAN] 2026-10-25 22:46:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:46:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 22:48:15 LAN send out a general query.
+[IPTV] 2026-10-25 22:50:20 LAN send out a general query.
+[DNS] 2026-10-25 22:50:32 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 22:51:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 22:51:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 22:52:25 LAN send out a general query.
+[IPTV] 2026-10-25 22:54:30 LAN send out a general query.
+[IPTV] 2026-10-25 22:56:35 LAN send out a general query.
+[WAN] 2026-10-25 22:56:45 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 22:56:45 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 22:56:59 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 22:58:40 LAN send out a general query.
+[IPTV] 2026-10-25 23:00:45 LAN send out a general query.
+[WAN] 2026-10-25 23:01:47 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:01:47 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:02:50 LAN send out a general query.
+[DNS] 2026-10-25 23:03:01 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:04:55 LAN send out a general query.
+[WAN] 2026-10-25 23:06:48 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:06:48 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:07:00 LAN send out a general query.
+[WIFI] 2026-10-25 23:08:41 DISASSOC(12) reason8 send to sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 23:08:41 (BSD)disassoc(12) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-25 23:08:41 DEAUTH(5) reason3 from sta:70:56:81:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 23:08:41 (BSD)deauth(5) send to sta:70:56:81:XX:XX:XX on wl0
+[IPTV] 2026-10-25 23:09:05 LAN send out a general query.
+[DNS] 2026-10-25 23:09:30 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:11:10 LAN send out a general query.
+[WAN] 2026-10-25 23:11:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:11:49 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:13:15 LAN send out a general query.
+[IPTV] 2026-10-25 23:15:20 LAN send out a general query.
+[DNS] 2026-10-25 23:15:30 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 23:16:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:16:49 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:17:25 LAN send out a general query.
+[IPTV] 2026-10-25 23:19:30 LAN send out a general query.
+[IPTV] 2026-10-25 23:21:35 LAN send out a general query.
+[WAN] 2026-10-25 23:21:59 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:21:59 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 23:22:01 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:23:40 LAN send out a general query.
+[IPTV] 2026-10-25 23:25:45 LAN send out a general query.
+[WAN] 2026-10-25 23:27:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:27:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:27:50 LAN send out a general query.
+[DNS] 2026-10-25 23:28:31 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:29:55 LAN send out a general query.
+[IPTV] 2026-10-25 23:32:00 LAN send out a general query.
+[WAN] 2026-10-25 23:32:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:32:02 LCP echo-reply has been received from WAN WAN1
+[WAN] 2026-10-25 23:32:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:32:31 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 23:32:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:34:05 LAN send out a general query.
+[IPTV] 2026-10-25 23:36:10 LAN send out a general query.
+[WAN] 2026-10-25 23:37:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:37:32 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 23:38:15 LAN send out a general query.
+[DNS] 2026-10-25 23:39:03 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:40:20 LAN send out a general query.
+[IPTV] 2026-10-25 23:42:25 LAN send out a general query.
+[WAN] 2026-10-25 23:42:33 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:42:33 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 23:44:30 LAN send out a general query.
+[DNS] 2026-10-25 23:45:33 DNS relay failed, DNS reply error
+[IPTV] 2026-10-25 23:46:35 LAN send out a general query.
+[WIFI] 2026-10-25 23:47:07 wl1: Auto channel timer cancel & reset timer, because total_frame(22830) larger than total_frame_threshold(600),and exist assoclated client
+[WAN] 2026-10-25 23:47:33 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:47:33 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-25 23:48:40 LAN send out a general query.
+[WIFI] 2026-10-25 23:49:45 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 23:49:45 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 23:49:45 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-25 23:49:45 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-25 23:49:45 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 23:50:07 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-25 23:50:07 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[IPTV] 2026-10-25 23:50:45 LAN send out a general query.
+[DNS] 2026-10-25 23:51:33 DNS relay failed, DNS reply error
+[WAN] 2026-10-25 23:52:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-25 23:52:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-25 23:52:50 LAN send out a general query.
+[IPTV] 2026-10-25 23:54:55 LAN send out a general query.
+[IPTV] 2026-10-25 23:57:00 LAN send out a general query.
+[WAN] 2026-10-25 23:57:45 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-25 23:57:45 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-25 23:58:04 DNS relay failed, DNS reply error
+[LAN] 2026-10-25 23:58:53 Received RELEASE from client ip [192.168.1.XX] mac [30:32:35:XX:XX:XX]
+[WIFI] 2026-10-25 23:58:53 DEAUTH(6) reason3 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 23:58:53 (BSD)deauth(6) send to sta:30:32:35:XX:XX:XX on wl1
+[WIFI] 2026-10-25 23:58:53 DISASSOC(12) reason8 send to sta:30:32:35:XX:XX:XX intf wl1
+[WIFI] 2026-10-25 23:58:53 (BSD)disassoc(12) send to sta:30:32:35:XX:XX:XX on wl1
+[IPTV] 2026-10-25 23:59:05 LAN send out a general query.
+[IPTV] 2026-10-26 00:01:10 LAN send out a general query.
+[WAN] 2026-10-26 00:02:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:02:46 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:03:15 LAN send out a general query.
+[DNS] 2026-10-26 00:04:34 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:05:20 LAN send out a general query.
+[IPTV] 2026-10-26 00:07:25 LAN send out a general query.
+[WAN] 2026-10-26 00:07:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:07:46 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:09:30 LAN send out a general query.
+[LAN] 2026-10-26 00:10:10 Received REQUEST from client mac [98:01:a7:XX:XX:XX]
+[LAN] 2026-10-26 00:10:10 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x06cefa5c Unicast cip:[192.168.1.X] cmac:[98:01:a7:XX:XX:XX] hostname:[MBPdiPaolo681] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[019801a7907153] option51:[0076a700] 
+[LAN] 2026-10-26 00:10:10 Successfully assign IP [192.168.1.X] to client mac [98:01:a7:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 00:10:10 Send Signal to Networkmap update
+[LAN] 2026-10-26 00:10:11 networkmap receive update signal from udhcp
+[DNS] 2026-10-26 00:10:34 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:11:35 LAN send out a general query.
+[WAN] 2026-10-26 00:12:48 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 00:12:48 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 00:13:40 LAN send out a general query.
+[IPTV] 2026-10-26 00:15:45 LAN send out a general query.
+[WIFI] 2026-10-26 00:17:02 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:02 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 00:17:02 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:02 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 00:17:02 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[DNS] 2026-10-26 00:17:05 DNS relay failed, DNS reply error
+[WIFI] 2026-10-26 00:17:12 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:17:12 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:17:12 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:12 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:17:12 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:12 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:17:12 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:17:45 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 00:17:45 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 00:17:45 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:45 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 00:17:45 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 00:17:45 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 00:17:45 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[IPTV] 2026-10-26 00:17:50 LAN send out a general query.
+[WAN] 2026-10-26 00:17:58 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:17:58 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-26 00:18:01 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:18:01 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:18:47 AUTH(4) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 00:18:47 (BSD)AUTH(4) send to sta:70:56:81:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:18:47 ASSOC(7) from sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 00:18:47 ASSOC(8) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 00:18:47 (BSD)ASSOC(8) send to sta:70:56:81:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:18:48 Authorized sta:70:56:81:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:18:55 DISASSOC(12) reason8 send to sta:70:56:81:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:18:55 (BSD)disassoc(12) send to sta:70:56:81:XX:XX:XX on wl1
+[WIFI] 2026-10-26 00:18:55 DEAUTH(5) reason3 from sta:70:56:81:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 00:18:55 (BSD)deauth(5) send to sta:70:56:81:XX:XX:XX on wl1
+[IPTV] 2026-10-26 00:19:55 LAN send out a general query.
+[IPTV] 2026-10-26 00:22:00 LAN send out a general query.
+[WAN] 2026-10-26 00:22:59 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:22:59 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 00:23:35 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:24:05 LAN send out a general query.
+[IPTV] 2026-10-26 00:26:10 LAN send out a general query.
+[WAN] 2026-10-26 00:27:59 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:27:59 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:28:15 LAN send out a general query.
+[DNS] 2026-10-26 00:30:05 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:30:20 LAN send out a general query.
+[IPTV] 2026-10-26 00:32:25 LAN send out a general query.
+[WAN] 2026-10-26 00:33:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 00:33:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 00:34:30 LAN send out a general query.
+[DNS] 2026-10-26 00:36:29 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:36:35 LAN send out a general query.
+[WAN] 2026-10-26 00:38:11 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:38:11 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:38:40 LAN send out a general query.
+[IPTV] 2026-10-26 00:40:45 LAN send out a general query.
+[DNS] 2026-10-26 00:42:36 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:42:50 LAN send out a general query.
+[WAN] 2026-10-26 00:43:12 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:43:12 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:44:55 LAN send out a general query.
+[IPTV] 2026-10-26 00:47:00 LAN send out a general query.
+[WAN] 2026-10-26 00:48:13 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:48:13 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:49:05 LAN send out a general query.
+[DNS] 2026-10-26 00:49:06 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:51:10 LAN send out a general query.
+[WAN] 2026-10-26 00:53:13 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:53:13 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:53:15 LAN send out a general query.
+[IPTV] 2026-10-26 00:55:20 LAN send out a general query.
+[DNS] 2026-10-26 00:55:37 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 00:57:14 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 00:57:14 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 00:57:25 LAN send out a general query.
+[DNS] 2026-10-26 00:57:37 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 00:59:30 LAN send out a general query.
+[IPTV] 2026-10-26 01:01:35 LAN send out a general query.
+[WAN] 2026-10-26 01:02:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:02:15 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 01:03:40 LAN send out a general query.
+[DNS] 2026-10-26 01:04:07 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:05:45 LAN send out a general query.
+[WIFI] 2026-10-26 01:07:14 AUTH(4) send to sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:07:14 (BSD)AUTH(4) send to sta:98:01:a7:XX:XX:XX on wl1
+[WIFI] 2026-10-26 01:07:14 ASSOC(7) from sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:07:14 (BSD)ASSOC(10) send to sta:98:01:a7:XX:XX:XX on wl1
+[WIFI] 2026-10-26 01:07:14 Authorized sta:98:01:a7:XX:XX:XX intf wl1
+[WAN] 2026-10-26 01:07:16 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:07:16 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-26 01:07:30 Received REQUEST from client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-26 01:07:30 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x25c41928 Unicast cip:[192.168.1.X] cmac:[0c:c6:fd:XX:XX:XX] hostname:[21061119DG] Vendor Class:[android-dhcp-13] Request Parameters List:[1,3,6,15,26,28,51,58,59,43,114,108,]option61:[010cc6fded2c9a] option57:[05dc] 
+[LAN] 2026-10-26 01:07:30 Successfully assign IP [192.168.1.X] to client mac [0c:c6:fd:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 01:07:30 Send Signal to Networkmap update
+[LAN] 2026-10-26 01:07:30 networkmap receive update signal from udhcp
+[IPTV] 2026-10-26 01:07:50 LAN send out a general query.
+[WIFI] 2026-10-26 01:08:12 DEAUTH(5) reason4 from sta:98:01:a7:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 01:08:12 (BSD)deauth(5) send to sta:98:01:a7:XX:XX:XX on wl0
+[IPTV] 2026-10-26 01:09:55 LAN send out a general query.
+[DNS] 2026-10-26 01:10:07 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:12:00 LAN send out a general query.
+[WAN] 2026-10-26 01:12:16 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:12:16 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 01:14:05 LAN send out a general query.
+[IPTV] 2026-10-26 01:16:10 LAN send out a general query.
+[DNS] 2026-10-26 01:16:32 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 01:17:19 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 01:17:19 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 01:18:15 LAN send out a general query.
+[WIFI] 2026-10-26 01:19:54 AUTH(4) send to sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:19:54 (BSD)AUTH(4) send to sta:98:01:a7:XX:XX:XX on wl0
+[WIFI] 2026-10-26 01:19:54 ASSOC(7) from sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:19:54 (BSD)ASSOC(10) send to sta:98:01:a7:XX:XX:XX on wl0
+[WIFI] 2026-10-26 01:19:54 Authorized sta:98:01:a7:XX:XX:XX intf wl0
+[IPTV] 2026-10-26 01:20:20 LAN send out a general query.
+[WIFI] 2026-10-26 01:20:25 DEAUTH(5) reason4 from sta:98:01:a7:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 01:20:25 (BSD)deauth(5) send to sta:98:01:a7:XX:XX:XX on wl1
+[WIFI] 2026-10-26 01:21:22 AUTH(4) send to sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:21:22 (BSD)AUTH(4) send to sta:98:01:a7:XX:XX:XX on wl1
+[WIFI] 2026-10-26 01:21:22 ASSOC(7) from sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 01:21:22 (BSD)ASSOC(10) send to sta:98:01:a7:XX:XX:XX on wl1
+[WIFI] 2026-10-26 01:21:22 Authorized sta:98:01:a7:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 01:22:12 DEAUTH(5) reason4 from sta:98:01:a7:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 01:22:12 (BSD)deauth(5) send to sta:98:01:a7:XX:XX:XX on wl0
+[WAN] 2026-10-26 01:22:19 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 01:22:19 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 01:22:25 LAN send out a general query.
+[DNS] 2026-10-26 01:22:38 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:24:30 LAN send out a general query.
+[IPTV] 2026-10-26 01:26:35 LAN send out a general query.
+[WAN] 2026-10-26 01:27:29 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:27:29 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 01:28:38 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:28:40 LAN send out a general query.
+[IPTV] 2026-10-26 01:30:45 LAN send out a general query.
+[WAN] 2026-10-26 01:32:30 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:32:30 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 01:32:50 LAN send out a general query.
+[DNS] 2026-10-26 01:34:49 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:34:55 LAN send out a general query.
+[IPTV] 2026-10-26 01:37:00 LAN send out a general query.
+[WAN] 2026-10-26 01:37:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:37:31 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 01:39:05 LAN send out a general query.
+[DNS] 2026-10-26 01:41:09 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:41:10 LAN send out a general query.
+[WAN] 2026-10-26 01:42:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 01:42:31 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 01:43:15 LAN send out a general query.
+[IPTV] 2026-10-26 01:45:20 LAN send out a general query.
+[DNS] 2026-10-26 01:47:09 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:47:25 LAN send out a general query.
+[WAN] 2026-10-26 01:47:33 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 01:47:33 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 01:49:30 LAN send out a general query.
+[IPTV] 2026-10-26 01:51:35 LAN send out a general query.
+[WAN] 2026-10-26 01:52:34 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 01:52:34 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 01:53:40 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 01:53:40 LAN send out a general query.
+[IPTV] 2026-10-26 01:55:45 LAN send out a general query.
+[WAN] 2026-10-26 01:57:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 01:57:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 01:57:50 LAN send out a general query.
+[IPTV] 2026-10-26 01:59:55 LAN send out a general query.
+[DNS] 2026-10-26 02:00:10 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:02:00 LAN send out a general query.
+[WAN] 2026-10-26 02:02:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 02:02:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 02:04:05 LAN send out a general query.
+[IPTV] 2026-10-26 02:06:10 LAN send out a general query.
+[DNS] 2026-10-26 02:06:11 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 02:07:37 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 02:07:37 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 02:08:15 LAN send out a general query.
+[IPTV] 2026-10-26 02:10:20 LAN send out a general query.
+[IPTV] 2026-10-26 02:12:25 LAN send out a general query.
+[WAN] 2026-10-26 02:12:38 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 02:12:38 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 02:12:41 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:14:30 LAN send out a general query.
+[IPTV] 2026-10-26 02:16:35 LAN send out a general query.
+[WAN] 2026-10-26 02:17:47 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:17:47 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:18:40 LAN send out a general query.
+[DNS] 2026-10-26 02:18:44 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:20:45 LAN send out a general query.
+[WAN] 2026-10-26 02:21:38 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:21:38 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 02:21:42 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:22:50 LAN send out a general query.
+[IPTV] 2026-10-26 02:24:55 LAN send out a general query.
+[WAN] 2026-10-26 02:26:39 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:26:39 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:27:00 LAN send out a general query.
+[DNS] 2026-10-26 02:27:42 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:29:05 LAN send out a general query.
+[IPTV] 2026-10-26 02:31:10 LAN send out a general query.
+[WAN] 2026-10-26 02:31:40 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:31:40 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:33:15 LAN send out a general query.
+[DNS] 2026-10-26 02:34:12 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:35:20 LAN send out a general query.
+[WAN] 2026-10-26 02:36:42 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 02:36:42 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 02:37:25 LAN send out a general query.
+[IPTV] 2026-10-26 02:39:30 LAN send out a general query.
+[DNS] 2026-10-26 02:40:13 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:41:35 LAN send out a general query.
+[WAN] 2026-10-26 02:41:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:41:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:43:40 LAN send out a general query.
+[IPTV] 2026-10-26 02:45:45 LAN send out a general query.
+[DNS] 2026-10-26 02:46:32 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 02:46:52 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:46:52 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:47:50 LAN send out a general query.
+[IPTV] 2026-10-26 02:49:55 LAN send out a general query.
+[WAN] 2026-10-26 02:51:53 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:51:53 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:52:00 LAN send out a general query.
+[DNS] 2026-10-26 02:52:43 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 02:54:05 LAN send out a general query.
+[IPTV] 2026-10-26 02:56:10 LAN send out a general query.
+[WAN] 2026-10-26 02:56:54 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 02:56:54 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 02:58:15 LAN send out a general query.
+[DNS] 2026-10-26 02:58:44 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:00:20 LAN send out a general query.
+[WAN] 2026-10-26 03:01:56 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:01:56 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:02:25 LAN send out a general query.
+[IPTV] 2026-10-26 03:04:30 LAN send out a general query.
+[DNS] 2026-10-26 03:04:47 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:06:35 LAN send out a general query.
+[WAN] 2026-10-26 03:06:56 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:06:56 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:08:40 LAN send out a general query.
+[IPTV] 2026-10-26 03:10:45 LAN send out a general query.
+[DNS] 2026-10-26 03:11:14 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 03:11:57 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:11:57 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:12:50 LAN send out a general query.
+[IPTV] 2026-10-26 03:14:55 LAN send out a general query.
+[WAN] 2026-10-26 03:16:58 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:16:58 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:17:00 LAN send out a general query.
+[DNS] 2026-10-26 03:17:15 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:19:05 LAN send out a general query.
+[IPTV] 2026-10-26 03:21:10 LAN send out a general query.
+[WAN] 2026-10-26 03:21:59 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:21:59 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:23:15 LAN send out a general query.
+[DNS] 2026-10-26 03:23:45 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:25:20 LAN send out a general query.
+[WAN] 2026-10-26 03:27:00 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:27:00 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:27:25 LAN send out a general query.
+[IPTV] 2026-10-26 03:29:30 LAN send out a general query.
+[DNS] 2026-10-26 03:29:46 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:31:35 LAN send out a general query.
+[WAN] 2026-10-26 03:32:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 03:32:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 03:33:40 LAN send out a general query.
+[IPTV] 2026-10-26 03:35:45 LAN send out a general query.
+[DNS] 2026-10-26 03:36:16 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 03:37:10 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:37:10 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 03:37:50 LAN send out a general query.
+[IPTV] 2026-10-26 03:39:55 LAN send out a general query.
+[IPTV] 2026-10-26 03:42:00 LAN send out a general query.
+[WAN] 2026-10-26 03:42:11 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:42:11 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 03:42:46 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 03:43:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:43:31 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 03:43:46 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:44:05 LAN send out a general query.
+[IPTV] 2026-10-26 03:46:10 LAN send out a general query.
+[IPTV] 2026-10-26 03:48:15 LAN send out a general query.
+[WAN] 2026-10-26 03:48:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:48:32 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 03:49:47 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:50:20 LAN send out a general query.
+[IPTV] 2026-10-26 03:52:25 LAN send out a general query.
+[WAN] 2026-10-26 03:53:33 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:53:33 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 03:54:30 LAN send out a general query.
+[DNS] 2026-10-26 03:56:17 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 03:56:35 LAN send out a general query.
+[WAN] 2026-10-26 03:58:34 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 03:58:34 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 03:58:40 LAN send out a general query.
+[IPTV] 2026-10-26 04:00:45 LAN send out a general query.
+[DNS] 2026-10-26 04:02:27 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:02:50 LAN send out a general query.
+[WAN] 2026-10-26 04:03:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 04:03:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 04:04:55 LAN send out a general query.
+[IPTV] 2026-10-26 04:07:00 LAN send out a general query.
+[WAN] 2026-10-26 04:08:45 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:08:45 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 04:08:48 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:09:05 LAN send out a general query.
+[IPTV] 2026-10-26 04:11:10 LAN send out a general query.
+[WIFI] 2026-10-26 04:11:18 AUTH(4) send to sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 04:11:18 (BSD)AUTH(4) send to sta:98:01:a7:XX:XX:XX on wl0
+[WIFI] 2026-10-26 04:11:18 ASSOC(7) from sta:98:01:a7:XX:XX:XX
+[WIFI] 2026-10-26 04:11:18 (BSD)ASSOC(10) send to sta:98:01:a7:XX:XX:XX on wl0
+[WIFI] 2026-10-26 04:11:18 Authorized sta:98:01:a7:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 04:11:52 DEAUTH(5) reason4 from sta:98:01:a7:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 04:11:52 (BSD)deauth(5) send to sta:98:01:a7:XX:XX:XX on wl1
+[IPTV] 2026-10-26 04:13:15 LAN send out a general query.
+[WAN] 2026-10-26 04:13:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:13:46 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 04:15:06 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:15:20 LAN send out a general query.
+[IPTV] 2026-10-26 04:17:25 LAN send out a general query.
+[WAN] 2026-10-26 04:18:47 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:18:47 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 04:19:30 LAN send out a general query.
+[DNS] 2026-10-26 04:21:18 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:21:35 LAN send out a general query.
+[IPTV] 2026-10-26 04:23:40 LAN send out a general query.
+[WAN] 2026-10-26 04:23:48 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:23:48 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 04:25:45 LAN send out a general query.
+[DNS] 2026-10-26 04:27:19 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:27:50 LAN send out a general query.
+[WAN] 2026-10-26 04:28:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:28:49 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-26 04:29:09 AUTH(4) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-26 04:29:09 (BSD)AUTH(4) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-26 04:29:09 ASSOC(7) from sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-26 04:29:09 ASSOC(8) send to sta:30:32:35:XX:XX:XX
+[WIFI] 2026-10-26 04:29:09 (BSD)ASSOC(8) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-26 04:29:09 Authorized sta:30:32:35:XX:XX:XX intf wl0
+[LAN] 2026-10-26 04:29:09 Received DISCOVER from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-26 04:29:09 Send OFFER of ip [192.168.1.XX] to client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-26 04:29:09 Received REQUEST from client mac [30:32:35:XX:XX:XX]
+[LAN] 2026-10-26 04:29:09 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x28200b3c Unicast cip:[0.0.0.0] cmac:[30:32:35:XX:XX:XX] Vendor Class:[udhcp 1.22.1] Request Parameters List:[1,3,6,12,15,28,42,]option61:[01303235604570] option50:[c0a8010b] option54:[c0a80101] option57:[0240] 
+[LAN] 2026-10-26 04:29:09 Successfully assign IP [192.168.1.XX] to client mac [30:32:35:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 04:29:09 Send Signal to Networkmap update
+[LAN] 2026-10-26 04:29:10 networkmap receive update signal from udhcp
+[IPTV] 2026-10-26 04:29:55 LAN send out a general query.
+[LAN] 2026-10-26 04:30:57 Received RELEASE from client ip [192.168.1.XX] mac [30:32:35:XX:XX:XX]
+[WIFI] 2026-10-26 04:30:57 DEAUTH(6) reason3 send to sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 04:30:57 (BSD)deauth(6) send to sta:30:32:35:XX:XX:XX on wl0
+[WIFI] 2026-10-26 04:30:57 DISASSOC(12) reason8 send to sta:30:32:35:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 04:30:57 (BSD)disassoc(12) send to sta:30:32:35:XX:XX:XX on wl0
+[IPTV] 2026-10-26 04:32:00 LAN send out a general query.
+[DNS] 2026-10-26 04:33:49 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 04:33:51 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 04:33:51 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 04:34:05 LAN send out a general query.
+[IPTV] 2026-10-26 04:36:10 LAN send out a general query.
+[IPTV] 2026-10-26 04:38:15 LAN send out a general query.
+[WAN] 2026-10-26 04:39:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:39:00 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 04:40:19 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:40:20 LAN send out a general query.
+[IPTV] 2026-10-26 04:42:25 LAN send out a general query.
+[WAN] 2026-10-26 04:44:01 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:44:01 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 04:44:30 LAN send out a general query.
+[DNS] 2026-10-26 04:46:20 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:46:35 LAN send out a general query.
+[IPTV] 2026-10-26 04:48:40 LAN send out a general query.
+[WAN] 2026-10-26 04:49:02 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:49:02 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 04:50:45 LAN send out a general query.
+[DNS] 2026-10-26 04:52:50 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 04:52:50 LAN send out a general query.
+[WAN] 2026-10-26 04:54:03 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 04:54:03 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 04:54:55 LAN send out a general query.
+[IPTV] 2026-10-26 04:57:00 LAN send out a general query.
+[WAN] 2026-10-26 04:59:05 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 04:59:05 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 04:59:05 LAN send out a general query.
+[DNS] 2026-10-26 04:59:20 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:01:10 LAN send out a general query.
+[IPTV] 2026-10-26 05:03:15 LAN send out a general query.
+[WAN] 2026-10-26 05:04:05 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 05:04:05 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 05:05:20 LAN send out a general query.
+[DNS] 2026-10-26 05:05:21 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 05:06:25 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:06:25 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 05:06:51 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:07:25 LAN send out a general query.
+[IPTV] 2026-10-26 05:09:30 LAN send out a general query.
+[WAN] 2026-10-26 05:11:27 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 05:11:27 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 05:11:35 LAN send out a general query.
+[DNS] 2026-10-26 05:13:21 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:13:40 LAN send out a general query.
+[IPTV] 2026-10-26 05:15:45 LAN send out a general query.
+[WAN] 2026-10-26 05:16:36 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:16:36 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 05:17:50 LAN send out a general query.
+[DNS] 2026-10-26 05:19:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:19:55 LAN send out a general query.
+[WAN] 2026-10-26 05:21:37 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:21:37 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 05:22:00 LAN send out a general query.
+[IPTV] 2026-10-26 05:24:05 LAN send out a general query.
+[DNS] 2026-10-26 05:25:52 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:26:10 LAN send out a general query.
+[WAN] 2026-10-26 05:26:38 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:26:38 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 05:28:15 LAN send out a general query.
+[IPTV] 2026-10-26 05:30:21 LAN send out a general query.
+[WAN] 2026-10-26 05:31:39 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:31:39 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 05:32:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:32:25 LAN send out a general query.
+[IPTV] 2026-10-26 05:34:30 LAN send out a general query.
+[IPTV] 2026-10-26 05:36:35 LAN send out a general query.
+[WAN] 2026-10-26 05:36:40 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:36:40 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 05:38:23 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:38:40 LAN send out a general query.
+[IPTV] 2026-10-26 05:40:45 LAN send out a general query.
+[WAN] 2026-10-26 05:41:42 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 05:41:42 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 05:42:50 LAN send out a general query.
+[DNS] 2026-10-26 05:44:53 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:44:55 LAN send out a general query.
+[WAN] 2026-10-26 05:46:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:46:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 05:47:00 LAN send out a general query.
+[IPTV] 2026-10-26 05:49:05 LAN send out a general query.
+[IPTV] 2026-10-26 05:51:10 LAN send out a general query.
+[DNS] 2026-10-26 05:51:23 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 05:51:52 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:51:52 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 05:53:15 LAN send out a general query.
+[IPTV] 2026-10-26 05:55:20 LAN send out a general query.
+[WAN] 2026-10-26 05:56:53 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 05:56:53 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 05:57:24 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 05:57:25 LAN send out a general query.
+[IPTV] 2026-10-26 05:59:30 LAN send out a general query.
+[IPTV] 2026-10-26 06:01:35 LAN send out a general query.
+[WAN] 2026-10-26 06:01:54 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 06:01:54 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 06:03:40 LAN send out a general query.
+[DNS] 2026-10-26 06:03:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:05:45 LAN send out a general query.
+[WAN] 2026-10-26 06:06:55 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:06:55 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:07:50 LAN send out a general query.
+[IPTV] 2026-10-26 06:09:55 LAN send out a general query.
+[DNS] 2026-10-26 06:10:24 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 06:11:56 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:11:56 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:12:00 LAN send out a general query.
+[IPTV] 2026-10-26 06:14:05 LAN send out a general query.
+[IPTV] 2026-10-26 06:16:10 LAN send out a general query.
+[DNS] 2026-10-26 06:16:25 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 06:16:57 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:16:57 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:18:15 LAN send out a general query.
+[IPTV] 2026-10-26 06:20:20 LAN send out a general query.
+[WAN] 2026-10-26 06:21:58 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:21:58 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:22:25 LAN send out a general query.
+[DNS] 2026-10-26 06:22:26 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:24:30 LAN send out a general query.
+[IPTV] 2026-10-26 06:26:35 LAN send out a general query.
+[WAN] 2026-10-26 06:26:59 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:26:59 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:28:40 LAN send out a general query.
+[WAN] 2026-10-26 06:28:48 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 06:28:48 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 06:28:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:30:45 LAN send out a general query.
+[IPTV] 2026-10-26 06:32:50 LAN send out a general query.
+[WAN] 2026-10-26 06:33:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 06:33:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 06:34:55 LAN send out a general query.
+[DNS] 2026-10-26 06:34:56 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:37:00 LAN send out a general query.
+[WAN] 2026-10-26 06:38:50 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 06:38:50 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 06:39:05 LAN send out a general query.
+[IPTV] 2026-10-26 06:41:10 LAN send out a general query.
+[DNS] 2026-10-26 06:41:26 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:43:15 LAN send out a general query.
+[WAN] 2026-10-26 06:43:51 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:43:51 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:45:20 LAN send out a general query.
+[IPTV] 2026-10-26 06:47:25 LAN send out a general query.
+[DNS] 2026-10-26 06:47:56 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 06:48:52 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:48:52 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:49:30 LAN send out a general query.
+[IPTV] 2026-10-26 06:51:35 LAN send out a general query.
+[IPTV] 2026-10-26 06:53:40 LAN send out a general query.
+[WAN] 2026-10-26 06:53:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:53:53 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 06:53:57 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 06:55:45 LAN send out a general query.
+[IPTV] 2026-10-26 06:57:50 LAN send out a general query.
+[WAN] 2026-10-26 06:58:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 06:58:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 06:59:55 LAN send out a general query.
+[DNS] 2026-10-26 07:00:27 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:02:00 LAN send out a general query.
+[WAN] 2026-10-26 07:03:55 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 07:03:55 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 07:04:05 LAN send out a general query.
+[IPTV] 2026-10-26 07:06:10 LAN send out a general query.
+[DNS] 2026-10-26 07:06:57 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:08:15 LAN send out a general query.
+[WAN] 2026-10-26 07:09:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:09:04 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 07:10:20 LAN send out a general query.
+[IPTV] 2026-10-26 07:12:25 LAN send out a general query.
+[DNS] 2026-10-26 07:12:58 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 07:14:05 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:14:05 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 07:14:30 LAN send out a general query.
+[IPTV] 2026-10-26 07:16:35 LAN send out a general query.
+[IPTV] 2026-10-26 07:18:40 LAN send out a general query.
+[WAN] 2026-10-26 07:19:06 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:19:06 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 07:19:28 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:20:45 LAN send out a general query.
+[IPTV] 2026-10-26 07:22:50 LAN send out a general query.
+[WAN] 2026-10-26 07:24:07 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:24:07 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 07:24:55 LAN send out a general query.
+[DNS] 2026-10-26 07:25:59 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:27:00 LAN send out a general query.
+[IPTV] 2026-10-26 07:29:05 LAN send out a general query.
+[WAN] 2026-10-26 07:29:08 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:29:08 LCP echo-reply has been received from WAN WAN2
+[LAN] 2026-10-26 07:29:35 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 07:29:35 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3ee9b67a Broadcast cip:[192.168.1.X] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option51:[0076a700] 
+[LAN] 2026-10-26 07:29:35 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 07:29:35 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 07:29:35 Send Signal to Networkmap update
+[WIFI] 2026-10-26 07:30:06 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 07:30:06 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 07:30:06 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 07:30:06 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 07:30:06 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 07:30:34 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 07:30:34 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[IPTV] 2026-10-26 07:31:10 LAN send out a general query.
+[DNS] 2026-10-26 07:32:29 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:33:15 LAN send out a general query.
+[WAN] 2026-10-26 07:34:10 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 07:34:10 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 07:35:20 LAN send out a general query.
+[IPTV] 2026-10-26 07:37:25 LAN send out a general query.
+[DNS] 2026-10-26 07:38:59 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 07:39:19 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:39:19 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 07:39:30 LAN send out a general query.
+[IPTV] 2026-10-26 07:41:35 LAN send out a general query.
+[IPTV] 2026-10-26 07:43:40 LAN send out a general query.
+[WAN] 2026-10-26 07:44:20 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:44:20 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 07:45:00 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:45:45 LAN send out a general query.
+[IPTV] 2026-10-26 07:47:50 LAN send out a general query.
+[WAN] 2026-10-26 07:49:21 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:49:21 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 07:49:55 LAN send out a general query.
+[DNS] 2026-10-26 07:51:30 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:52:00 LAN send out a general query.
+[IPTV] 2026-10-26 07:54:05 LAN send out a general query.
+[WAN] 2026-10-26 07:54:22 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:54:22 LCP echo-reply has been received from WAN WAN2
+[WAN] 2026-10-26 07:54:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:54:32 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 07:55:00 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 07:56:10 LAN send out a general query.
+[IPTV] 2026-10-26 07:58:15 LAN send out a general query.
+[WAN] 2026-10-26 07:59:33 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 07:59:33 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 08:00:21 LAN send out a general query.
+[DNS] 2026-10-26 08:01:31 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:02:26 LAN send out a general query.
+[IPTV] 2026-10-26 08:04:31 LAN send out a general query.
+[WAN] 2026-10-26 08:04:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:04:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:06:36 LAN send out a general query.
+[DNS] 2026-10-26 08:07:31 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:08:41 LAN send out a general query.
+[WAN] 2026-10-26 08:09:35 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:09:35 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:10:46 LAN send out a general query.
+[IPTV] 2026-10-26 08:12:51 LAN send out a general query.
+[DNS] 2026-10-26 08:14:01 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 08:14:36 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:14:36 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:14:56 LAN send out a general query.
+[IPTV] 2026-10-26 08:17:01 LAN send out a general query.
+[IPTV] 2026-10-26 08:19:06 LAN send out a general query.
+[WAN] 2026-10-26 08:19:37 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:19:37 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 08:20:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:21:11 LAN send out a general query.
+[IPTV] 2026-10-26 08:23:16 LAN send out a general query.
+[WAN] 2026-10-26 08:24:38 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:24:38 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:25:21 LAN send out a general query.
+[DNS] 2026-10-26 08:26:32 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:27:26 LAN send out a general query.
+[IPTV] 2026-10-26 08:29:31 LAN send out a general query.
+[WAN] 2026-10-26 08:29:39 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:29:39 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:31:36 LAN send out a general query.
+[WIFI] 2026-10-26 08:32:14 wl0:Trigger Auto channel reselection by timer & reset timer
+[DNS] 2026-10-26 08:33:02 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:33:41 LAN send out a general query.
+[WAN] 2026-10-26 08:34:48 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 08:34:48 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 08:35:46 LAN send out a general query.
+[IPTV] 2026-10-26 08:37:51 LAN send out a general query.
+[DNS] 2026-10-26 08:39:33 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 08:39:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 08:39:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 08:39:56 LAN send out a general query.
+[IPTV] 2026-10-26 08:42:01 LAN send out a general query.
+[LAN] 2026-10-26 08:44:04 Received REQUEST from client mac [44:d3:ad:XX:XX:XX]
+[LAN] 2026-10-26 08:44:04 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x60d5373d Unicast cip:[192.168.1.X] cmac:[44:d3:ad:XX:XX:XX] Vendor Class:[android-dhcp-8.1.0] Request Parameters List:[1,33,3,6,15,28,51,58,59,43,]option57:[05dc] 
+[LAN] 2026-10-26 08:44:04 Successfully assign IP [192.168.1.X] to client mac [44:d3:ad:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 08:44:04 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 08:44:04 Send Signal to Networkmap update
+[IPTV] 2026-10-26 08:44:06 LAN send out a general query.
+[WAN] 2026-10-26 08:44:50 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 08:44:50 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 08:45:33 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:46:11 LAN send out a general query.
+[IPTV] 2026-10-26 08:48:16 LAN send out a general query.
+[WAN] 2026-10-26 08:49:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 08:49:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 08:50:21 LAN send out a general query.
+[DNS] 2026-10-26 08:52:03 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:52:26 LAN send out a general query.
+[IPTV] 2026-10-26 08:54:31 LAN send out a general query.
+[WAN] 2026-10-26 08:54:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:54:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 08:56:36 LAN send out a general query.
+[DNS] 2026-10-26 08:58:34 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 08:58:41 LAN send out a general query.
+[WAN] 2026-10-26 08:59:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 08:59:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:00:46 LAN send out a general query.
+[IPTV] 2026-10-26 09:02:51 LAN send out a general query.
+[DNS] 2026-10-26 09:04:34 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 09:04:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:04:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:04:56 LAN send out a general query.
+[IPTV] 2026-10-26 09:07:01 LAN send out a general query.
+[IPTV] 2026-10-26 09:09:06 LAN send out a general query.
+[WAN] 2026-10-26 09:09:55 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:09:55 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 09:11:04 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:11:11 LAN send out a general query.
+[IPTV] 2026-10-26 09:13:16 LAN send out a general query.
+[WAN] 2026-10-26 09:15:05 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 09:15:05 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 09:15:21 LAN send out a general query.
+[IPTV] 2026-10-26 09:17:26 LAN send out a general query.
+[DNS] 2026-10-26 09:17:35 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:19:31 LAN send out a general query.
+[WAN] 2026-10-26 09:20:06 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:20:06 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:21:36 LAN send out a general query.
+[WAN] 2026-10-26 09:21:46 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 09:21:46 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 09:22:05 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:23:41 LAN send out a general query.
+[IPTV] 2026-10-26 09:25:46 LAN send out a general query.
+[WAN] 2026-10-26 09:26:48 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:26:48 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:27:51 LAN send out a general query.
+[DNS] 2026-10-26 09:28:35 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:29:56 LAN send out a general query.
+[WAN] 2026-10-26 09:31:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:31:49 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:32:01 LAN send out a general query.
+[IPTV] 2026-10-26 09:34:06 LAN send out a general query.
+[DNS] 2026-10-26 09:35:06 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:36:11 LAN send out a general query.
+[WAN] 2026-10-26 09:36:49 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:36:49 LCP echo-reply has been received from WAN WAN1
+[WIFI] 2026-10-26 09:37:01 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 09:37:01 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 09:37:01 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 09:37:01 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 09:37:01 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 09:37:06 DEAUTH(5) reason1 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 09:37:06 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 09:37:06 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 09:37:06 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 09:37:06 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 09:37:06 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 09:37:06 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 09:37:36 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 09:37:36 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[IPTV] 2026-10-26 09:38:16 LAN send out a general query.
+[IPTV] 2026-10-26 09:40:21 LAN send out a general query.
+[DNS] 2026-10-26 09:41:06 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 09:41:50 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:41:50 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:42:26 LAN send out a general query.
+[IPTV] 2026-10-26 09:44:31 LAN send out a general query.
+[IPTV] 2026-10-26 09:46:36 LAN send out a general query.
+[WAN] 2026-10-26 09:47:00 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 09:47:00 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 09:47:36 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:48:41 LAN send out a general query.
+[IPTV] 2026-10-26 09:50:46 LAN send out a general query.
+[WAN] 2026-10-26 09:52:01 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:52:01 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:52:51 LAN send out a general query.
+[DNS] 2026-10-26 09:54:07 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 09:54:56 LAN send out a general query.
+[IPTV] 2026-10-26 09:57:01 LAN send out a general query.
+[WAN] 2026-10-26 09:57:02 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 09:57:02 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 09:59:06 LAN send out a general query.
+[DNS] 2026-10-26 10:00:37 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:01:11 LAN send out a general query.
+[WAN] 2026-10-26 10:02:03 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:02:03 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:03:16 LAN send out a general query.
+[IPTV] 2026-10-26 10:05:21 LAN send out a general query.
+[WAN] 2026-10-26 10:07:04 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:07:04 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 10:07:08 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:07:26 LAN send out a general query.
+[IPTV] 2026-10-26 10:09:31 LAN send out a general query.
+[IPTV] 2026-10-26 10:11:36 LAN send out a general query.
+[WAN] 2026-10-26 10:12:14 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 10:12:14 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 10:13:08 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:13:41 LAN send out a general query.
+[IPTV] 2026-10-26 10:15:46 LAN send out a general query.
+[WAN] 2026-10-26 10:17:15 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:17:15 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:17:51 LAN send out a general query.
+[DNS] 2026-10-26 10:19:38 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:19:56 LAN send out a general query.
+[IPTV] 2026-10-26 10:22:01 LAN send out a general query.
+[WAN] 2026-10-26 10:22:16 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:22:16 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:24:06 LAN send out a general query.
+[DNS] 2026-10-26 10:26:02 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:26:11 LAN send out a general query.
+[WAN] 2026-10-26 10:27:17 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:27:17 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:28:16 LAN send out a general query.
+[VoIP] 2026-10-26 10:28:18 New call from 035005**** to +390332284296
+[VoIP] 2026-10-26 10:28:18 dpm: Call rounting dest is *3
+[VoIP] 2026-10-26 10:28:18 dpm: Call rounting dest is *4
+[VoIP] 2026-10-26 10:28:18 dpm: Call rounting dest is *5
+[VoIP] 2026-10-26 10:28:18 dpm: Call rounting dest is *6
+[VoIP] 2026-10-26 10:28:18 dpm: Call rounting dest is #1
+[IPTV] 2026-10-26 10:30:21 LAN send out a general query.
+[DNS] 2026-10-26 10:32:03 DNS relay failed, DNS reply error
+[WIFI] 2026-10-26 10:32:10 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:32:10 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:32:10 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:32:10 ASSOC(8) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:32:10 (BSD)ASSOC(8) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:32:10 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[LAN] 2026-10-26 10:32:10 Received DISCOVER from client mac [fe:ba:bd:XX:XX:XX]
+[LAN] 2026-10-26 10:32:10 Send OFFER of ip [192.168.1.X] to client mac [fe:ba:bd:XX:XX:XX]
+[LAN] 2026-10-26 10:32:10 Received REQUEST from client mac [fe:ba:bd:XX:XX:XX]
+[LAN] 2026-10-26 10:32:10 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x91f73a69 Unicast cip:[0.0.0.0] cmac:[fe:ba:bd:XX:XX:XX] hostname:[HONOR-200-Lite] Vendor Class:[android-dhcp-16] Request Parameters List:[1,3,6,15,26,28,51,58,59,43,114,108,]option61:[01febabdd7f70a] option50:[c0a80109] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-26 10:32:11 Successfully assign IP [192.168.1.X] to client mac [fe:ba:bd:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 10:32:11 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 10:32:11 Send Signal to Networkmap update
+[WIFI] 2026-10-26 10:32:13 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:32:13 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:32:13 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:32:13 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:32:13 Authorized sta:fe:ba:bd:XX:XX:XX intf wl0
+[WAN] 2026-10-26 10:32:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:32:18 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:32:26 LAN send out a general query.
+[WIFI] 2026-10-26 10:32:36 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 10:32:36 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[IPTV] 2026-10-26 10:34:31 LAN send out a general query.
+[WIFI] 2026-10-26 10:36:34 AUTH(4) send to sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:36:34 (BSD)AUTH(4) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:36:34 ASSOC(7) from sta:fe:ba:bd:XX:XX:XX
+[WIFI] 2026-10-26 10:36:34 (BSD)ASSOC(10) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:36:34 Authorized sta:fe:ba:bd:XX:XX:XX intf wl1
+[IPTV] 2026-10-26 10:36:36 LAN send out a general query.
+[WIFI] 2026-10-26 10:36:56 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 10:36:56 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl0
+[WAN] 2026-10-26 10:37:28 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 10:37:28 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 10:38:09 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:38:41 LAN send out a general query.
+[WIFI] 2026-10-26 10:39:35 DEAUTH(5) reason4 from sta:fe:ba:bd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 10:39:35 (BSD)deauth(5) send to sta:fe:ba:bd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:39:36 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 10:39:36 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[IPTV] 2026-10-26 10:40:46 LAN send out a general query.
+[WIFI] 2026-10-26 10:40:52 AUTH(4) send to sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:40:52 (BSD)AUTH(4) send to sta:f0:18:98:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:40:52 DEAUTH(5) reason1 from sta:f0:18:98:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 10:40:52 (BSD)deauth(5) send to sta:f0:18:98:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:40:52 AUTH(4) send to sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:40:52 (BSD)AUTH(4) send to sta:f0:18:98:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:40:52 ASSOC(7) from sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:40:52 ASSOC(8) send to sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:40:52 (BSD)ASSOC(8) send to sta:f0:18:98:XX:XX:XX on wl0
+[WIFI] 2026-10-26 10:40:52 Authorized sta:f0:18:98:XX:XX:XX intf wl0
+[LAN] 2026-10-26 10:40:54 Received DISCOVER from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:40:54 Send OFFER of ip [192.168.1.X] to client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:40:55 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:40:55 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x3fe9b67a Unicast cip:[0.0.0.0] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option50:[c0a80102] option54:[c0a80101] 
+[LAN] 2026-10-26 10:40:56 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 10:40:56 Send Signal to Networkmap update
+[LAN] 2026-10-26 10:40:56 networkmap receive update signal from udhcp
+[WIFI] 2026-10-26 10:41:19 AUTH(4) send to sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:41:19 (BSD)AUTH(4) send to sta:f0:18:98:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:41:19 ASSOC(7) from sta:f0:18:98:XX:XX:XX
+[WIFI] 2026-10-26 10:41:19 (BSD)ASSOC(10) send to sta:f0:18:98:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:41:19 Authorized sta:f0:18:98:XX:XX:XX intf wl1
+[LAN] 2026-10-26 10:41:21 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:41:21 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x40e9b67a Unicast cip:[0.0.0.0] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option50:[c0a80102] option51:[0076a700] 
+[LAN] 2026-10-26 10:41:21 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 10:41:21 Send Signal to Networkmap update
+[LAN] 2026-10-26 10:41:21 networkmap receive update signal from udhcp
+[WIFI] 2026-10-26 10:41:39 DEAUTH(5) reason4 from sta:f0:18:98:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 10:41:39 (BSD)deauth(5) send to sta:f0:18:98:XX:XX:XX on wl0
+[WAN] 2026-10-26 10:42:29 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:42:29 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 10:42:51 LAN send out a general query.
+[DNS] 2026-10-26 10:44:40 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 10:44:49 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 10:44:49 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 10:44:56 LAN send out a general query.
+[DNS] 2026-10-26 10:45:10 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:47:01 LAN send out a general query.
+[WIFI] 2026-10-26 10:47:08 wl1: Auto channel timer cancel & reset timer, because total_frame(1924) larger than total_frame_threshold(600),and exist assoclated client
+[IPTV] 2026-10-26 10:49:06 LAN send out a general query.
+[WAN] 2026-10-26 10:49:50 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 10:49:50 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 10:51:10 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 10:51:11 LAN send out a general query.
+[WIFI] 2026-10-26 10:51:43 DISASSOC(12) reason8 send to sta:f0:18:98:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 10:51:43 (BSD)disassoc(12) send to sta:f0:18:98:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:51:43 DEAUTH(5) reason3 from sta:f0:18:98:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 10:51:43 (BSD)deauth(5) send to sta:f0:18:98:XX:XX:XX on wl1
+[LAN] 2026-10-26 10:51:45 Received DISCOVER from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:51:45 Send OFFER of ip [192.168.1.X] to client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:51:46 Received REQUEST from client mac [f0:18:98:XX:XX:XX]
+[LAN] 2026-10-26 10:51:46 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x41e9b67a Broadcast cip:[0.0.0.0] cmac:[f0:18:98:XX:XX:XX] hostname:[MBPdiTogmailcom] Request Parameters List:[1,121,3,6,15,114,119,252,95,44,46,]option57:[05dc] option61:[01f0189863da5e] option50:[c0a80102] option54:[c0a80101] 
+[LAN] 2026-10-26 10:51:46 Successfully assign IP [192.168.1.X] to client mac [f0:18:98:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 10:51:46 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 10:51:46 Send Signal to Networkmap update
+[IPTV] 2026-10-26 10:53:16 LAN send out a general query.
+[WIFI] 2026-10-26 10:54:00 AUTH(4) send to sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 10:54:00 (BSD)AUTH(4) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:54:00 ASSOC(7) from sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 10:54:00 (BSD)ASSOC(10) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 10:54:00 Authorized sta:00:45:e2:XX:XX:XX intf wl1
+[LAN] 2026-10-26 10:54:00 Received DISCOVER from client mac [00:45:e2:XX:XX:XX]
+[LAN] 2026-10-26 10:54:00 Send OFFER of ip [192.168.1.X] to client mac [00:45:e2:XX:XX:XX]
+[LAN] 2026-10-26 10:54:00 Received REQUEST from client mac [00:45:e2:XX:XX:XX]
+[LAN] 2026-10-26 10:54:00 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xaa1a9764 Unicast cip:[0.0.0.0] cmac:[00:45:e2:XX:XX:XX] hostname:[LAPTOP-R11VP572] Vendor Class:[MSFT 5.0] Request Parameters List:[1,3,6,15,31,33,43,44,46,47,119,121,249,252,114,]option61:[010045e2b24883] option50:[c0a80106] option54:[c0a80101] option81:[0000004c4150544f502d5231315650353732] 
+[LAN] 2026-10-26 10:54:00 Successfully assign IP [192.168.1.X] to client mac [00:45:e2:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 10:54:00 Send Signal to Networkmap update
+[LAN] 2026-10-26 10:54:01 networkmap receive update signal from udhcp
+[WAN] 2026-10-26 10:54:51 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 10:54:51 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 10:55:21 LAN send out a general query.
+[IPTV] 2026-10-26 10:57:26 LAN send out a general query.
+[DNS] 2026-10-26 10:57:40 DNS relay failed, DNS reply error
+[System] 2026-10-26 10:57:42 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 10:57:48 User 'vodafone' login successfully via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 10:59:31 LAN send out a general query.
+[WAN] 2026-10-26 10:59:52 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 10:59:52 LCP echo-reply has been received from WAN WAN1
+[WIFI] 2026-10-26 11:00:41 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:00:41 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:00:41 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:00:41 ASSOC(8) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:00:41 (BSD)ASSOC(8) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:00:41 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[LAN] 2026-10-26 11:00:42 Received DISCOVER from client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-26 11:00:42 Send OFFER of ip [192.168.1.X] to client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-26 11:00:42 Received REQUEST from client mac [0c:c6:fd:XX:XX:XX]
+[LAN] 2026-10-26 11:00:42 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xfb90a19f Unicast cip:[0.0.0.0] cmac:[0c:c6:fd:XX:XX:XX] hostname:[21061119DG] Vendor Class:[android-dhcp-13] Request Parameters List:[1,3,6,15,26,28,51,58,59,43,114,108,]option61:[010cc6fded2c9a] option50:[c0a80107] option54:[c0a80101] option57:[05dc] 
+[LAN] 2026-10-26 11:00:42 Successfully assign IP [192.168.1.X] to client mac [0c:c6:fd:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 11:00:42 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 11:00:42 Send Signal to Networkmap update
+[WIFI] 2026-10-26 11:01:01 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:01:01 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:01:01 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:01:01 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:01:01 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[IPTV] 2026-10-26 11:01:36 LAN send out a general query.
+[WIFI] 2026-10-26 11:01:37 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:01:37 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:02:11 AUTH(4) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 11:02:11 (BSD)AUTH(4) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:02:11 ASSOC(7) from sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 11:02:11 ASSOC(8) send to sta:70:56:81:XX:XX:XX
+[WIFI] 2026-10-26 11:02:11 (BSD)ASSOC(8) send to sta:70:56:81:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:02:11 Authorized sta:70:56:81:XX:XX:XX intf wl0
+[LAN] 2026-10-26 11:02:13 Received REQUEST from client mac [70:56:81:XX:XX:XX]
+[LAN] 2026-10-26 11:02:13 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x78601c88 Unicast cip:[0.0.0.0] cmac:[70:56:81:XX:XX:XX] hostname:[AirdiLuigi5960] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[01705681a4bd5b] option50:[c0a80103] option51:[0076a700] 
+[LAN] 2026-10-26 11:02:13 Successfully assign IP [192.168.1.X] to client mac [70:56:81:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 11:02:13 Send Signal to Networkmap update
+[LAN] 2026-10-26 11:02:14 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 11:02:43 LAN Port [1] connected, Link Speed: [1G F].
+[LAN] 2026-10-26 11:03:04 LAN Port [1] link is down.
+[LAN] 2026-10-26 11:03:12 LAN Port [1] connected, Link Speed: [1G F].
+[IPTV] 2026-10-26 11:03:41 LAN send out a general query.
+[DNS] 2026-10-26 11:03:54 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 11:04:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 11:04:53 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 11:05:46 LAN send out a general query.
+[IPTV] 2026-10-26 11:07:51 LAN send out a general query.
+[System] 2026-10-26 11:08:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:08:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:09:03 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:09:03 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:09:56 LAN send out a general query.
+[System] 2026-10-26 11:10:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:10:01 User logout via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 11:10:03 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:10:03 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 11:10:11 DNS relay failed, DNS reply error
+[System] 2026-10-26 11:11:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:11:02 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:12:01 LAN send out a general query.
+[System] 2026-10-26 11:12:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:12:02 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:13:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:13:02 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:14:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:14:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:14:06 LAN send out a general query.
+[System] 2026-10-26 11:14:59 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:14:59 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:14:59 User logout via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 11:15:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:15:04 LCP echo-reply has been received from WAN WAN2
+[System] 2026-10-26 11:15:22 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:15:23 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:15:52 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:15:53 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:16:11 LAN send out a general query.
+[DNS] 2026-10-26 11:16:12 DNS relay failed, DNS reply error
+[System] 2026-10-26 11:16:54 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:17:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:18:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:18:16 LAN send out a general query.
+[System] 2026-10-26 11:19:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:19:02 User logout via HTTPS from 192.168.1.X
+[WIFI] 2026-10-26 11:19:12 DISASSOC(12) reason8 send to sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:19:12 (BSD)disassoc(12) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:19:12 DEAUTH(5) reason3 from sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:19:12 (BSD)deauth(5) send to sta:00:45:e2:XX:XX:XX on wl1
+[System] 2026-10-26 11:20:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:20:01 User logout via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 11:20:05 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 11:20:05 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 11:20:21 LAN send out a general query.
+[System] 2026-10-26 11:20:39 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:21:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:21:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:22:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:22:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:22:26 LAN send out a general query.
+[DNS] 2026-10-26 11:22:42 DNS relay failed, DNS reply error
+[WIFI] 2026-10-26 11:23:01 AUTH(4) send to sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 11:23:01 (BSD)AUTH(4) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:23:01 ASSOC(7) from sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 11:23:01 (BSD)ASSOC(10) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:23:01 Authorized sta:00:45:e2:XX:XX:XX intf wl1
+[LAN] 2026-10-26 11:23:01 Received REQUEST from client mac [00:45:e2:XX:XX:XX]
+[LAN] 2026-10-26 11:23:01 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0xac29f88e Unicast cip:[0.0.0.0] cmac:[00:45:e2:XX:XX:XX] hostname:[LAPTOP-R11VP572] Vendor Class:[MSFT 5.0] Request Parameters List:[1,3,6,15,31,33,43,44,46,47,119,121,249,252,114,]option61:[010045e2b24883] option50:[c0a80106] option81:[0000004c4150544f502d5231315650353732] 
+[System] 2026-10-26 11:23:01 User logout via HTTPS from 192.168.1.X
+[LAN] 2026-10-26 11:23:01 Successfully assign IP [192.168.1.X] to client mac [00:45:e2:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 11:23:01 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 11:23:01 Send Signal to Networkmap update
+[System] 2026-10-26 11:23:02 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:24:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:24:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:24:31 LAN send out a general query.
+[WIFI] 2026-10-26 11:24:47 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:24:47 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:24:47 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:24:47 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:24:47 Authorized sta:0c:c6:fd:XX:XX:XX intf wl1
+[System] 2026-10-26 11:25:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:25:01 User logout via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 11:25:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:25:15 LCP echo-reply has been received from WAN WAN2
+[WIFI] 2026-10-26 11:25:18 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 11:25:18 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:25:23 AUTH(4) send to sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:25:23 (BSD)AUTH(4) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:25:23 ASSOC(7) from sta:0c:c6:fd:XX:XX:XX
+[WIFI] 2026-10-26 11:25:23 (BSD)ASSOC(10) send to sta:0c:c6:fd:XX:XX:XX on wl0
+[WIFI] 2026-10-26 11:25:23 Authorized sta:0c:c6:fd:XX:XX:XX intf wl0
+[WIFI] 2026-10-26 11:25:36 DEAUTH(5) reason4 from sta:0c:c6:fd:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:25:36 (BSD)deauth(5) send to sta:0c:c6:fd:XX:XX:XX on wl1
+[System] 2026-10-26 11:26:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:26:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:26:36 LAN send out a general query.
+[System] 2026-10-26 11:27:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:27:02 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:28:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:28:02 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:28:41 LAN send out a general query.
+[DNS] 2026-10-26 11:28:42 DNS relay failed, DNS reply error
+[System] 2026-10-26 11:29:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:29:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:30:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:30:01 User logout via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 11:30:16 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:30:16 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 11:30:46 LAN send out a general query.
+[System] 2026-10-26 11:31:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:31:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:32:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:32:01 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 11:32:51 LAN send out a general query.
+[System] 2026-10-26 11:33:01 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:33:02 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:33:05 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:33:06 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 11:33:15 User 'vodafone' login successfully via HTTPS from 192.168.1.X
+[LAN] 2026-10-26 11:34:18 Device: 18:60:24:XX:XX:XX disconnected. 
+[LAN] 2026-10-26 11:34:18 Device: bc:24:11:XX:XX:XX disconnected. 
+[DNS] 2026-10-26 11:34:43 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 11:34:56 LAN send out a general query.
+[WAN] 2026-10-26 11:35:17 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:35:17 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 11:37:01 LAN send out a general query.
+[WIFI] 2026-10-26 11:37:03 DISASSOC(12) reason8 send to sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:37:03 (BSD)disassoc(12) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 11:37:03 DEAUTH(5) reason3 from sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 11:37:03 (BSD)deauth(5) send to sta:00:45:e2:XX:XX:XX on wl1
+[IPTV] 2026-10-26 11:39:06 LAN send out a general query.
+[WAN] 2026-10-26 11:40:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 11:40:18 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 11:40:46 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 11:41:11 LAN send out a general query.
+[IPTV] 2026-10-26 11:43:16 LAN send out a general query.
+[WAN] 2026-10-26 11:45:19 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 11:45:19 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 11:45:21 LAN send out a general query.
+[System] 2026-10-26 11:46:40 User logout via HTTPS from 192.168.1.X
+[DNS] 2026-10-26 11:46:54 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 11:47:26 LAN send out a general query.
+[IPTV] 2026-10-26 11:49:31 LAN send out a general query.
+[WAN] 2026-10-26 11:50:29 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:50:29 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 11:51:36 LAN send out a general query.
+[DNS] 2026-10-26 11:53:17 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 11:53:41 LAN send out a general query.
+[WAN] 2026-10-26 11:55:30 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 11:55:30 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 11:55:46 LAN send out a general query.
+[LAN] 2026-10-26 11:57:45 Device: 18:60:24:XX:XX:XX disconnected. 
+[IPTV] 2026-10-26 11:57:51 LAN send out a general query.
+[DNS] 2026-10-26 11:59:17 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 11:59:56 LAN send out a general query.
+[WAN] 2026-10-26 12:00:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:00:31 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 12:02:01 LAN send out a general query.
+[IPTV] 2026-10-26 12:04:06 LAN send out a general query.
+[WAN] 2026-10-26 12:05:32 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:05:32 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 12:05:47 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:06:11 LAN send out a general query.
+[DNS] 2026-10-26 12:07:47 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 12:07:52 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:07:52 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 12:08:16 LAN send out a general query.
+[LAN] 2026-10-26 12:09:59 Received REQUEST from client mac [98:01:a7:XX:XX:XX]
+[LAN] 2026-10-26 12:09:59 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x07cefa5c Unicast cip:[192.168.1.X] cmac:[98:01:a7:XX:XX:XX] hostname:[MBPdiPaolo681] Request Parameters List:[1,121,3,6,15,119,252,95,44,46,]option57:[05dc] option61:[019801a7907153] option51:[0076a700] 
+[LAN] 2026-10-26 12:09:59 Successfully assign IP [192.168.1.X] to client mac [98:01:a7:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 12:09:59 Send Signal to Networkmap update
+[LAN] 2026-10-26 12:10:00 networkmap receive update signal from udhcp
+[IPTV] 2026-10-26 12:10:21 LAN send out a general query.
+[IPTV] 2026-10-26 12:12:26 LAN send out a general query.
+[WAN] 2026-10-26 12:12:53 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:12:53 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 12:13:48 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:14:31 LAN send out a general query.
+[IPTV] 2026-10-26 12:16:36 LAN send out a general query.
+[System] 2026-10-26 12:16:48 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 12:16:55 User 'vodafone' login successfully via HTTPS from 192.168.1.X
+[WAN] 2026-10-26 12:17:54 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:17:54 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 12:18:41 LAN send out a general query.
+[DNS] 2026-10-26 12:20:18 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:20:46 LAN send out a general query.
+[IPTV] 2026-10-26 12:22:51 LAN send out a general query.
+[WAN] 2026-10-26 12:23:04 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:23:04 LCP echo-reply has been received from WAN WAN2
+[System] 2026-10-26 12:23:21 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 12:23:37 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 12:23:49 User 'vodafone' login successfully via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 12:24:56 LAN send out a general query.
+[DNS] 2026-10-26 12:26:49 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:27:01 LAN send out a general query.
+[WAN] 2026-10-26 12:28:05 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:28:05 LCP echo-reply has been received from WAN WAN2
+[System] 2026-10-26 12:28:09 No permission to get wps20_enable, access right: 0x08.
+[IPTV] 2026-10-26 12:29:06 LAN send out a general query.
+[IPTV] 2026-10-26 12:31:11 LAN send out a general query.
+[DNS] 2026-10-26 12:32:49 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 12:33:06 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:33:06 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 12:33:16 LAN send out a general query.
+[IPTV] 2026-10-26 12:35:21 LAN send out a general query.
+[System] 2026-10-26 12:35:25 Download configuration successfully via GUI.
+[IPTV] 2026-10-26 12:37:26 LAN send out a general query.
+[WAN] 2026-10-26 12:38:07 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:38:07 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 12:38:50 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:39:31 LAN send out a general query.
+[IPTV] 2026-10-26 12:41:36 LAN send out a general query.
+[WAN] 2026-10-26 12:43:17 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:43:17 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 12:43:41 LAN send out a general query.
+[DNS] 2026-10-26 12:45:08 DNS relay failed, DNS reply error
+[System] 2026-10-26 12:45:35 User logout via HTTPS from 192.168.1.X
+[IPTV] 2026-10-26 12:45:46 LAN send out a general query.
+[IPTV] 2026-10-26 12:47:51 LAN send out a general query.
+[WAN] 2026-10-26 12:48:18 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:48:18 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 12:49:56 LAN send out a general query.
+[DNS] 2026-10-26 12:51:12 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:52:01 LAN send out a general query.
+[WAN] 2026-10-26 12:53:19 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 12:53:19 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 12:54:06 LAN send out a general query.
+[IPTV] 2026-10-26 12:56:11 LAN send out a general query.
+[DNS] 2026-10-26 12:57:20 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 12:58:16 LAN send out a general query.
+[WAN] 2026-10-26 12:58:20 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 12:58:20 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 13:00:21 LAN send out a general query.
+[IPTV] 2026-10-26 13:02:26 LAN send out a general query.
+[DNS] 2026-10-26 13:03:21 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 13:03:30 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:03:30 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:04:31 LAN send out a general query.
+[IPTV] 2026-10-26 13:06:36 LAN send out a general query.
+[WAN] 2026-10-26 13:08:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:08:31 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:08:41 LAN send out a general query.
+[DNS] 2026-10-26 13:09:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:10:46 LAN send out a general query.
+[IPTV] 2026-10-26 13:12:51 LAN send out a general query.
+[WAN] 2026-10-26 13:13:32 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:13:32 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:14:56 LAN send out a general query.
+[DNS] 2026-10-26 13:15:26 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:17:01 LAN send out a general query.
+[WAN] 2026-10-26 13:18:33 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 13:18:33 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 13:19:06 LAN send out a general query.
+[IPTV] 2026-10-26 13:21:11 LAN send out a general query.
+[DNS] 2026-10-26 13:21:35 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:23:16 LAN send out a general query.
+[WAN] 2026-10-26 13:23:43 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:23:43 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:25:21 LAN send out a general query.
+[IPTV] 2026-10-26 13:27:26 LAN send out a general query.
+[DNS] 2026-10-26 13:27:35 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 13:28:44 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:28:44 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:29:31 LAN send out a general query.
+[IPTV] 2026-10-26 13:31:36 LAN send out a general query.
+[WAN] 2026-10-26 13:32:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:32:15 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 13:32:22 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:33:41 LAN send out a general query.
+[IPTV] 2026-10-26 13:35:46 LAN send out a general query.
+[WAN] 2026-10-26 13:37:15 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:37:15 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:37:51 LAN send out a general query.
+[DNS] 2026-10-26 13:38:52 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:39:56 LAN send out a general query.
+[IPTV] 2026-10-26 13:42:01 LAN send out a general query.
+[WAN] 2026-10-26 13:42:16 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:42:16 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:44:06 LAN send out a general query.
+[DNS] 2026-10-26 13:44:53 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:46:11 LAN send out a general query.
+[WAN] 2026-10-26 13:47:17 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 13:47:17 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 13:48:16 LAN send out a general query.
+[IPTV] 2026-10-26 13:50:21 LAN send out a general query.
+[DNS] 2026-10-26 13:51:23 DNS relay failed, DNS reply error
+[WAN] 2026-10-26 13:52:18 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 13:52:18 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 13:52:26 LAN send out a general query.
+[IPTV] 2026-10-26 13:54:31 LAN send out a general query.
+[IPTV] 2026-10-26 13:56:36 LAN send out a general query.
+[WAN] 2026-10-26 13:57:19 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 13:57:19 LCP echo-reply has been received from WAN WAN1
+[DNS] 2026-10-26 13:57:53 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 13:58:41 LAN send out a general query.
+[IPTV] 2026-10-26 14:00:46 LAN send out a general query.
+[WAN] 2026-10-26 14:02:29 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:02:29 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 14:02:51 LAN send out a general query.
+[DNS] 2026-10-26 14:03:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:04:56 LAN send out a general query.
+[IPTV] 2026-10-26 14:07:01 LAN send out a general query.
+[WAN] 2026-10-26 14:07:30 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:07:30 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 14:09:06 LAN send out a general query.
+[DNS] 2026-10-26 14:10:11 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:11:11 LAN send out a general query.
+[WAN] 2026-10-26 14:12:31 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:12:31 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 14:13:16 LAN send out a general query.
+[IPTV] 2026-10-26 14:15:21 LAN send out a general query.
+[DNS] 2026-10-26 14:16:24 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:17:26 LAN send out a general query.
+[WAN] 2026-10-26 14:17:32 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 14:17:32 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 14:19:31 LAN send out a general query.
+[IPTV] 2026-10-26 14:21:36 LAN send out a general query.
+[WAN] 2026-10-26 14:22:42 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:22:42 LCP echo-reply has been received from WAN WAN2
+[DNS] 2026-10-26 14:22:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:23:41 LAN send out a general query.
+[WIFI] 2026-10-26 14:25:36 AUTH(4) send to sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 14:25:36 (BSD)AUTH(4) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 14:25:36 ASSOC(7) from sta:00:45:e2:XX:XX:XX
+[WIFI] 2026-10-26 14:25:36 (BSD)ASSOC(10) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 14:25:36 Authorized sta:00:45:e2:XX:XX:XX intf wl1
+[LAN] 2026-10-26 14:25:36 Received REQUEST from client mac [00:45:e2:XX:XX:XX]
+[LAN] 2026-10-26 14:25:36 Dump DHCP Request packet op:1 hw type:0x1 len:6 xid: 0x4378831c Unicast cip:[0.0.0.0] cmac:[00:45:e2:XX:XX:XX] hostname:[LAPTOP-R11VP572] Vendor Class:[MSFT 5.0] Request Parameters List:[1,3,6,15,31,33,43,44,46,47,119,121,249,252,114,]option61:[010045e2b24883] option50:[c0a80106] option81:[0000004c4150544f502d5231315650353732] 
+[LAN] 2026-10-26 14:25:37 Successfully assign IP [192.168.1.X] to client mac [00:45:e2:XX:XX:XX], lease time [86400]
+[LAN] 2026-10-26 14:25:37 networkmap receive update signal from udhcp
+[LAN] 2026-10-26 14:25:37 Send Signal to Networkmap update
+[IPTV] 2026-10-26 14:25:46 LAN send out a general query.
+[WAN] 2026-10-26 14:27:43 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:27:43 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 14:27:51 LAN send out a general query.
+[DNS] 2026-10-26 14:28:55 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:29:56 LAN send out a general query.
+[WIFI] 2026-10-26 14:30:30 DISASSOC(12) reason8 send to sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 14:30:30 (BSD)disassoc(12) send to sta:00:45:e2:XX:XX:XX on wl1
+[WIFI] 2026-10-26 14:30:30 DEAUTH(5) reason3 from sta:00:45:e2:XX:XX:XX intf wl1
+[WIFI] 2026-10-26 14:30:30 (BSD)deauth(5) send to sta:00:45:e2:XX:XX:XX on wl1
+[IPTV] 2026-10-26 14:32:01 LAN send out a general query.
+[WAN] 2026-10-26 14:32:44 LCP echo-request has been sent from WAN WAN2
+[WAN] 2026-10-26 14:32:44 LCP echo-reply has been received from WAN WAN2
+[IPTV] 2026-10-26 14:34:06 LAN send out a general query.
+[DNS] 2026-10-26 14:35:25 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:36:11 LAN send out a general query.
+[WAN] 2026-10-26 14:37:45 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 14:37:45 LCP echo-reply has been received from WAN WAN1
+[IPTV] 2026-10-26 14:38:16 LAN send out a general query.
+[IPTV] 2026-10-26 14:40:21 LAN send out a general query.
+[DNS] 2026-10-26 14:41:56 DNS relay failed, DNS reply error
+[IPTV] 2026-10-26 14:42:26 LAN send out a general query.
+[WAN] 2026-10-26 14:42:46 LCP echo-request has been sent from WAN WAN1
+[WAN] 2026-10-26 14:42:46 LCP echo-reply has been received from WAN WAN1
+[System] 2026-10-26 14:43:10 User logout via HTTPS from 192.168.1.X
+[System] 2026-10-26 14:43:18 User 'vodafone' login successfully via HTTPS from 192.168.1.X
