@@ -1,0 +1,355 @@
+[ info ]
+time: Mon Oct 19 03:46:49 2026
+ 
+acsd version: 2
+acsd ticks: 14
+acsd poll_interval: 1 seconds
+ifname: wl0, mode: auto
+ifname: wl1, mode: auto
+
+[ wl1: dump acs_record ]
+Ticks(s)  Timestamp(s)  ACS-Trigger  ChanSpec    BG-Noise  CCA-Count  Idle
+       0    1792381587         INIT  9                  0          0  0
+[ wl1: dump acsd_stats ]
+ACSD stats:
+Total cmd: 8, Valid cmd: 8
+Total events: 86, Valid events: 86
+
+[ wl1: dump bss ]
+channel nCtrl nExt20 nExt40 nExt80
+  1      4     0      0      0
+  2      0     0      0      0
+  3      0     0      0      0
+  4      1     0      0      0
+  5      0     0      0      0
+  6      2     0      0      0
+  7      0     0      0      0
+  8      0     0      0      0
+  9      0     0      0      0
+ 10      1     0      0      0
+ 11      2     0      0      0
+ 12      2     0      0      0
+ 13      0     0      0      0
+[ wl1: dump candidate ]
+Candidate channel spec: 0x1001
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        4	       10	       40	
+busy	       15	        1	       15	
+interf.	        7	        1	        7	
+TOTAL	      212	        1	      212	
+CNS	      -99	        1	      -99	
+TXOP	       15	       10	      150	
+Candidate channel spec: 0x1002
+ Valid: FALSE
+ Reason: EXCLUDE 
+Candidate channel spec: 0x1003
+ Valid: FALSE
+ Reason: EXCLUDE 
+Candidate channel spec: 0x1004
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        1	       10	       10	
+busy	        4	        1	        4	
+interf.	        3	        1	        3	
+TOTAL	       67	        1	       67	
+CNS	      -98	        1	      -98	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1005
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+busy	        1	        1	        1	
+interf.	        3	        1	        3	
+TOTAL	       54	        1	       54	
+CNS	      -99	        1	      -99	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1006
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+busy	        5	        1	        5	
+interf.	        2	        1	        2	
+TOTAL	       77	        1	       77	
+CNS	      -99	        1	      -99	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1007
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+busy	        1	        1	        1	
+interf.	        1	        1	        1	
+TOTAL	       52	        1	       52	
+CNS	     -100	        1	     -100	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1008
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+busy	        1	        1	        1	
+interf.	        1	        1	        1	
+TOTAL	       52	        1	       52	
+CNS	      -98	        1	      -98	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1009
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+TOTAL	       50	        1	       50	
+CNS	     -100	        1	     -100	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x100a
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        1	       10	       10	
+busy	        8	        1	        8	
+interf.	        1	        1	        1	
+TOTAL	       69	        1	       69	
+CNS	     -100	        1	     -100	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x100b
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+busy	        6	        1	        6	
+interf.	        3	        1	        3	
+TOTAL	       79	        1	       79	
+CNS	      -97	        1	      -97	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x100c
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+busy	        1	        1	        1	
+interf.	        1	        1	        1	
+bgnoise	       10	        1	       10	
+TOTAL	       82	        1	       82	
+CNS	      -77	        1	      -77	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x100d
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+busy	        1	        1	        1	
+interf.	        1	        1	        1	
+TOTAL	       52	        1	       52	
+CNS	      -99	        1	      -99	
+TXOP	        5	       10	       50	
+Candidate channel spec: 0x1803
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1903
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1804
+ Valid: FALSE
+ Reason: COEX EXCLUDE 
+Candidate channel spec: 0x1904
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1805
+ Valid: FALSE
+ Reason: COEX EXCLUDE 
+Candidate channel spec: 0x1905
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1806
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1906
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1807
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1907
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1808
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1908
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1809
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x1909
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x180a
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x190a
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x180b
+ Valid: FALSE
+ Reason: COEX 
+Candidate channel spec: 0x190b
+ Valid: FALSE
+ Reason: COEX 
+[ wl1: dump chanim ]
+Chanim Stats: version: 4, count: 13
+chanspec tx   inbss   obss   nocat   nopkt   doze   txop   goodtx  badtx  glitch   badplcp  knoise  timestamp
+0x1001	3	9	7	8	7	0	68	0	0	970	174	-99	53298634
+0x1002	2	3	1	1	3	0	92	0	0	403	285	-99	53298959
+0x1003	2	2	1	1	3	0	94	0	0	670	170	-99	53299284
+0x1004	2	3	3	1	3	0	86	0	0	1359	307	-98	53299609
+0x1005	2	0	1	0	3	0	94	0	0	666	225	-99	53299934
+0x1006	2	1	4	1	2	0	90	0	0	174	3	-99	53300259
+0x1007	2	0	1	0	1	0	98	0	0	222	174	-100	53300584
+0x1008	2	0	1	0	1	0	98	0	0	248	174	-98	53300909
+0x1009	6	0	0	0	0	0	95	0	0	0	0	-100	53302204
+0x100a	2	2	6	2	1	0	87	0	0	66	25	-100	53301499
+0x100b	2	5	4	2	3	0	84	0	0	248	11	-97	53301824
+0x100c	2	0	1	0	1	0	98	0	0	151	3	-77	53302149
+0x100d	2	0	1	0	1	0	89	0	0	111	107	-99	53302474
+[ wl1: dump cscore ]
+ACSD Candidate Scores for next Channel Switch:
+   Channel (Chspec) Use DFS      BSS     busy  interf.  itf_adj      fcs  txpower  bgnoise    TOTAL      CNS      ADJ     TXOP  DFS/Age     RBSS    RTXOP     CHWT 
+1          (0x1001)   -        40       15        7        0        0        0        0      212      -99        0      150        0        0        0        0 
+2          (0x1002)   -   Invalid:EXCLUDE 
+3          (0x1003)   -   Invalid:EXCLUDE 
+4          (0x1004)   -        10        4        3        0        0        0        0       67      -98        0       50        0        0        0        0 
+5          (0x1005)   -         0        1        3        0        0        0        0       54      -99        0       50        0        0        0        0 
+6          (0x1006)   -        20        5        2        0        0        0        0       77      -99        0       50        0        0        0        0 
+7          (0x1007)   -         0        1        1        0        0        0        0       52     -100        0       50        0        0        0        0 
+8          (0x1008)   -         0        1        1        0        0        0        0       52      -98        0       50        0        0        0        0 
+9          (0x1009)   -         0        0        0        0        0        0        0       50     -100        0       50        0        0        0        0 
+10         (0x100a)   -        10        8        1        0        0        0        0       69     -100        0       50        0        0        0        0 
+11         (0x100b)   -        20        6        3        0        0        0        0       79      -97        0       50        0        0        0        0 
+12         (0x100c)   -        20        1        1        0        0        0       10       82      -77        0       50        0        0        0        0 
+13         (0x100d)   -         0        1        1        0        0        0        0       52      -99        0       50        0        0        0        0 
+1l         (0x1803)   -   Invalid:COEX 
+5u         (0x1903)   -   Invalid:COEX 
+2l         (0x1804)   -   Invalid:COEX EXCLUDE 
+6u         (0x1904)   -   Invalid:COEX 
+3l         (0x1805)   -   Invalid:COEX EXCLUDE 
+7u         (0x1905)   -   Invalid:COEX 
+4l         (0x1806)   -   Invalid:COEX 
+8u         (0x1906)   -   Invalid:COEX 
+5l         (0x1807)   -   Invalid:COEX 
+9u         (0x1907)   -   Invalid:COEX 
+6l         (0x1808)   -   Invalid:COEX 
+10u        (0x1908)   -   Invalid:COEX 
+7l         (0x1809)   -   Invalid:COEX 
+11u        (0x1909)   -   Invalid:COEX 
+8l         (0x180a)   -   Invalid:COEX 
+12u        (0x190a)   -   Invalid:COEX 
+9l         (0x180b)   -   Invalid:COEX 
+13u        (0x190b)   -   Invalid:COEX 
+[ wl1: dump dfsr ]
+DFS Reentry is disabled
+
+[ wl1: dump scanresults ]
+SSID: "FASTWEB-5CXyv9"
+BSSID: CC:B1:82:XX:XX:XX	chanspec: 0x1001
+RSSI: -67 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "OPPO Reno12 5G"
+BSSID: 66:93:74:XX:XX:XX	chanspec: 0x1001
+RSSI: -86 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "EOLO - FRITZ!Box 7530 2,4"
+BSSID: 2C:3A:FD:XX:XX:XX	chanspec: 0x1001
+RSSI: -89 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "Vodafone-C32169550"
+BSSID: 08:16:05:XX:XX:XX	chanspec: 0x1001
+RSSI: -92 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "WebCube-4988"
+BSSID: B4:1C:30:XX:XX:XX	chanspec: 0x1004
+RSSI: -67 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "SmartLife-DFF9"
+BSSID: D8:C8:0C:XX:XX:XX	chanspec: 0x1006
+RSSI: -93 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "SKYWIFI_KHYHB"
+BSSID: 00:A3:88:XX:XX:XX	chanspec: 0x1006
+RSSI: -92 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "enel-WiFi_22004836"
+BSSID: AC:A7:F1:XX:XX:XX	chanspec: 0x100a
+RSSI: -90 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "TeleTu_a45da196a363"
+BSSID: A4:5D:A1:XX:XX:XX	chanspec: 0x100b
+RSSI: -71 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "FASTWEB-HU9S2T"
+BSSID: C8:5A:9F:XX:XX:XX	chanspec: 0x100b
+RSSI: -73 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: ""
+BSSID: 62:D8:A4:XX:XX:XX	chanspec: 0x100c
+RSSI: -92 dBm	Type: 802.11G
+timestamp: 1792374403
+SSID: "FASTWEB-8CDEEA"
+BSSID: 82:D8:A4:XX:XX:XX	chanspec: 0x100c
+RSSI: -92 dBm	Type: 802.11G
+timestamp: 1792374403
+do_dump_scan_results ifname:wl1 bss count is:12
+[ wl1: acsd variables ]
+      acs_chan_dwell_time = 600
+     acs_chan_flop_period = 70
+      acs_ci_scan_timeout = 900 sec
+        acs_ci_scan_timer = 20 sec
+        acs_cs_scan_timer = 39600 sec
+                  acs_dfs = 0
+ acs_ci_scan_chanim_stats = 50
+                acs_flags = 0xb
+         acs_far_sta_rssi = -75
+     acs_nofcs_least_rssi = -60
+               acs_policy = index: 0 : Default2g
+    acs_scan_chanim_stats = 70
+          acs_trigger_var = 10 dBm
+          acs_txdelay_cnt = 1
+       acs_txdelay_period = 1
+        acs_txdelay_ratio = 30
+          acs_tx_idle_cnt = 0 tx packets
+             chanim_flags = 0x1
+           lockout_period = 28800 sec
+                  max_acs = 1 
+                     mode = 2: select
+                 msglevel = 128
+            sample_period = 2 sec
+           threshold_time = 2 sample period
+                test_dfsr = chanspec:       9 (0x1009) for dfsr (CAC mode:0)
+            test_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+             zdfs_5g_move = chanspec:       9 (0x1009) for dfsr (CAC mode:0)
+             zdfs_2g_move = chanspec:       9 (0x1009) for dfsr (CAC mode:0)
+         zdfs_5g_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+         zdfs_2g_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+            bw_upgradable = 1
+      fallback_to_primary = 1
+  acs_switch_score_thresh = 150
+       ci_scan_txop_limit = 70
+           acs_txop_limit = 40
+acs_switch_score_thresh_hi = 300
+        acs_txop_limit_hi = 20
+  acs_bgdfs_idle_interval = 360
+            acs_use_escan = 1
+      acs_chanim_tx_avail = 70
+acs_enable_dfsr_on_highpwr = 0
+       acs_nonwifi_enable = 0
+ acs_chanim_glitch_thresh = 0
+      acs_pref_6g_psc_pri = 1
+              test_cevent =         acs_dfs_move_back = GET: Unknown variable "acs_dfs_move_back".
+          last_dfs_chspec = GET: Unknown variable "last_dfs_chspec".
+          acs_chanim_poll = 60
+acs_chanim_intf_force_cs_scan = 0
+      acs_channel_weights = No channel weights specified
+           acs_excl_chans = 0x1002,0x1804,0x1003,0x1805,0x100e
+excl_chans count:5
+                acs_bgdfs = 0
+  acs_bgdfs_preclear_etsi = 0
+acs_allow_uncleared_dfs_ch = 0

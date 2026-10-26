@@ -1,0 +1,51 @@
+RIEPILOGO CENSURA CON X
+Generato: 2026-10-26T16:15:24+01:00
+Input: /Users/tobia/Desktop/Router Logs/tmp
+Output: /Users/tobia/Desktop/Router Logs/tmp-puliti
+Regole: nomi (SSID, hostname, DDNS) in chiaro; IP/IPv6/MAC/seriali/e-mail mascherati in parte; password, token, cookie, PIN e credenziali tutte X.
+Reti dei vicini: mascherate
+
+Dati mascherati:
+  MAC address                            5186
+  IPv4 privati                           2317
+  IPv4 pubblici                          1413
+  seriali                                763
+  IPv6 pubblici                          700
+  IPv6 locali                            62
+  password                               12
+  indirizzi e-mail                       6
+  righe di file cookie                   1
+
+Nomi lasciati in chiaro:
+  SSID (lasciati in chiaro)              33
+
+File:
+  boot_log                                 45.7 KiB  sha256 85efa23f450adffc
+  cwmp_cookies                             207 B  sha256 30d99777779bc081
+  cwmp_log                                 182.1 KiB  sha256 3987d953ebee1f6d
+  cwmp_log_backup                          400.1 KiB  sha256 d307f408003bd4e2
+  dmesg_log/dmesg_log                      779.3 KiB  sha256 2639aa93449d66d0
+  eventlog.log                             19.2 MiB  sha256 0709a2ea86b23dcf
+  hm_log/cwmp_check/log                    3.5 MiB  sha256 d33ed1f78224e56e
+  hm_log/internet_check/log                2.7 MiB  sha256 0fe8d30e3f2e9c56
+  hm_log/memory_check/log                  2.6 MiB  sha256 d6a2390c53cc4334
+  hybrid.log                               55 B  sha256 4d9dbf9b2791bc48
+  traffic_speed                            5.3 KiB  sha256 a4f2ef477c4cc4b3
+  wifi/log/acsd_wl0_log                    10.3 KiB  sha256 b64c084c8a09063e
+  wifi/log/acsd_wl1_log                    12.5 KiB  sha256 c6df68a6758a1a48
+
+Saltati:
+  - .DS_Store: file di servizio del sistema (da non condividere)
+  - wifi/.DS_Store: file di servizio del sistema (da non condividere)
+
+Mappa delle modifiche: /Users/tobia/Desktop/Router Logs/tmp-puliti/_NON-CONDIVIDERE_mappa-modifiche.txt
+  8824 sostituzioni registrate (riga, colonna, originale, sostituito).
+  Contiene i valori originali: non condividerla, non copiarla in una repo.
+
+Da sapere:
+  - I nomi dei file e delle cartelle non vengono cambiati: controllali.
+  - SSID, hostname e DDNS restano in chiaro per scelta: se non vuoi, vanno
+    censiti a parte.
+  - Nomi di persona scritti in prosa possono restare: rileggi le copie.
+  - Non condividere il backup di configurazione del router: contiene tutto.
+  - Se il log conteneva credenziali reali, cambiale.

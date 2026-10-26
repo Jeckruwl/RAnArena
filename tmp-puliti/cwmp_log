@@ -1,0 +1,3653 @@
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 896, cwmp_setValueByName name [Device.ManagementServer.X_EventStruct]
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.SSIDAdvertisementEnabled
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Status
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.FarEndPacketLossRate
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_SN
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.USIM.Status
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsReceived
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsConnected
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.8.IPv4Address.1.IPAddress
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesReceived
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsFailed
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.MemoryStatus.Free
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Channel
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_AutoSync
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Hosts.Host.
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Status
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.DataPS4G
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.VoicePS4G
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.OccurrenceCounter
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_TotalUptime
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsLost
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_BandSteer.Enable
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.BSSID
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesSent
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_UpTimeStart
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.LastChange
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SNR
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.1.ConnectionStatus
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.TXOP
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_Management.Server.SSHServer.Enable
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_DataWorking
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.BadPLCP
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.TXOP
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_VoiceWorking
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Status
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.TotalCallTime
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.LastChange
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAnswered
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_UpTimeStart
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.TimeCounter
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.Enable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_SMS.MSISDN
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.Enable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.RSSI
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SignalStrength
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.BytesCounter
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.Glitch
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.BulkData.Enable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.KNoise
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.Glitch
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.IMEI
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.SSIDAdvertisementEnabled
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Status
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.KNoise
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRP
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRQ
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Channel
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.9.IPv4Address.1.IPAddress
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_AutoSensing.FiberSeen
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Status
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.BadPLCP
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.UpTime
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_AccessTechnology
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.BSSID
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_TotalUptime
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.X_UpTimeStart
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Status
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.AutoChannelEnable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsConnected
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAttempted
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.AutoChannelEnable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsFailed
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsAnswered
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.ProcessStatus.X_CPUUsage15min
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Status
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.CallsDropped
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesSent
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.2.ConnectionStatus
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsReceived
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Enable
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_Cardmodel
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1712, FSM----http code----204
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1777, Clear flag, change to use ipv4 by default.
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1585, Deleting ingress qos port 1978
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1832, apply start:
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1841, apply over:
+
+[Mon Oct 26 13:38:24 2026] [MSG]:LINE: 1891, FSM----session finish  
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 162, PERIODIC_INFORM----download_num2 is : 0
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 311, ###########eventStructQueue->EventCode[2],eventCode[2]#############
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1406, FSM----switch to init state
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1166, config CURLOPT_IPRESOLVE  bind_wan 0.
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1198, Config CURLOPT_IPRESOLVE to CURL_IPRESOLVE_V4 lib.
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 912, DISABLE_HTTP_100 runing !!!!
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 419, config_get_url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69, url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 833, INFORM---- make head finish
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 845, INFORM---- make body finish
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 858, INFORM---- make device id finish
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 863, INFORM---- make event finish
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 883, INFORM---- make envelopes finish
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 895, INFORM---- make times finish
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 907, INFORM---- make retry count finish
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Manufacturer]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ManufacturerOUI]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ModelName]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Description]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.SerialNumber]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.UpTime]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Name]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Status]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Value]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 387, get data_global_ipbv6_wan fail !!!!!
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 397, get data_link_ipv6_wan fail !!!!!
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 960, INFORM---- make parameter list finish
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 967, INFORM---- make parameter count finish
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 970, INFORM---- append inform to root finish
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 977, INFORM---- print the msg: <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cwmp="urn:dslforum-org:cwmp-1-2">
+  <SOAP-ENV:Header>
+    <cwmp:ID SOAP-ENV:mustUnderstand="1">723</cwmp:ID>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <cwmp:Inform>
+      <DeviceId>
+        <Manufacturer>SERCOMM</Manufacturer>
+        <OUI>141459</OUI>
+        <ProductClass>RHG3006</ProductClass>
+        <SerialNumber>M2XXXXXXXXXXX76</SerialNumber>
+      </DeviceId>
+      <Event SOAP-ENC:arrayType="EventStruct[1]">
+        <EventStruct>
+          <EventCode>2 PERIODIC</EventCode>
+          <CommandKey></CommandKey>
+        </EventStruct>
+      </Event>
+      <MaxEnvelopes>1</MaxEnvelopes>
+      <CurrentTime>2026-10-26T13:53:23+01:00</CurrentTime>
+      <RetryCount>0</RetryCount>
+      <ParameterList SOAP-ENC:arrayType="cwmp:Parameter
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1503, FSM----generate initial inform body success
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1585, Adding ingress qos port 60641
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 698, enter cpe_freeInformParaList !
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 896, cwmp_setValueByName name [Device.ManagementServer.X_EventStruct]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.SSIDAdvertisementEnabled
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Status
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.FarEndPacketLossRate
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_SN
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.USIM.Status
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsReceived
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsConnected
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.8.IPv4Address.1.IPAddress
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesReceived
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsFailed
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.MemoryStatus.Free
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Channel
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_AutoSync
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Status
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.DataPS4G
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.VoicePS4G
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.OccurrenceCounter
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_TotalUptime
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsLost
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_BandSteer.Enable
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.BSSID
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_UpTimeStart
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.LastChange
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SNR
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.1.ConnectionStatus
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.TXOP
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_Management.Server.SSHServer.Enable
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_DataWorking
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.BadPLCP
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.TXOP
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_VoiceWorking
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Status
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.TotalCallTime
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.LastChange
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAnswered
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_UpTimeStart
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.TimeCounter
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesSent
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.Enable
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_SMS.MSISDN
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.Enable
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesReceived
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.RSSI
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SignalStrength
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.BytesCounter
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.Glitch
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.BulkData.Enable
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.KNoise
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.Glitch
+
+[Mon Oct 26 13:53:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.IMEI
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsSent
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesSent
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.SSIDAdvertisementEnabled
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Status
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.KNoise
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRP
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRQ
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesSent
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Channel
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.9.IPv4Address.1.IPAddress
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_AutoSensing.FiberSeen
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Status
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.BadPLCP
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.UpTime
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_AccessTechnology
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.BSSID
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_TotalUptime
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesSent
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.X_UpTimeStart
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Status
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.AutoChannelEnable
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsConnected
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAttempted
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.AutoChannelEnable
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsFailed
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsAnswered
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.ProcessStatus.X_CPUUsage15min
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Status
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.CallsDropped
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesSent
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.2.ConnectionStatus
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsReceived
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Enable
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_Cardmodel
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1712, FSM----http code----204
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1777, Clear flag, change to use ipv4 by default.
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1585, Deleting ingress qos port 60641
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1832, apply start:
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1841, apply over:
+
+[Mon Oct 26 13:53:24 2026] [MSG]:LINE: 1891, FSM----session finish  
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 162, PERIODIC_INFORM----download_num2 is : 0
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 311, ###########eventStructQueue->EventCode[2],eventCode[2]#############
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1406, FSM----switch to init state
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1166, config CURLOPT_IPRESOLVE  bind_wan 0.
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1198, Config CURLOPT_IPRESOLVE to CURL_IPRESOLVE_V4 lib.
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 912, DISABLE_HTTP_100 runing !!!!
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 419, config_get_url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69, url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 833, INFORM---- make head finish
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 845, INFORM---- make body finish
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 858, INFORM---- make device id finish
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 863, INFORM---- make event finish
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 883, INFORM---- make envelopes finish
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 895, INFORM---- make times finish
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 907, INFORM---- make retry count finish
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Manufacturer]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ManufacturerOUI]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ModelName]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Description]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.SerialNumber]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.UpTime]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Name]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Status]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Value]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 387, get data_global_ipbv6_wan fail !!!!!
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 397, get data_link_ipv6_wan fail !!!!!
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 960, INFORM---- make parameter list finish
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 967, INFORM---- make parameter count finish
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 970, INFORM---- append inform to root finish
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 977, INFORM---- print the msg: <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cwmp="urn:dslforum-org:cwmp-1-2">
+  <SOAP-ENV:Header>
+    <cwmp:ID SOAP-ENV:mustUnderstand="1">724</cwmp:ID>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <cwmp:Inform>
+      <DeviceId>
+        <Manufacturer>SERCOMM</Manufacturer>
+        <OUI>141459</OUI>
+        <ProductClass>RHG3006</ProductClass>
+        <SerialNumber>M2XXXXXXXXXXX76</SerialNumber>
+      </DeviceId>
+      <Event SOAP-ENC:arrayType="EventStruct[1]">
+        <EventStruct>
+          <EventCode>2 PERIODIC</EventCode>
+          <CommandKey></CommandKey>
+        </EventStruct>
+      </Event>
+      <MaxEnvelopes>1</MaxEnvelopes>
+      <CurrentTime>2026-10-26T14:08:23+01:00</CurrentTime>
+      <RetryCount>0</RetryCount>
+      <ParameterList SOAP-ENC:arrayType="cwmp:Parameter
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1503, FSM----generate initial inform body success
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1585, Adding ingress qos port 51928
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 698, enter cpe_freeInformParaList !
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 896, cwmp_setValueByName name [Device.ManagementServer.X_EventStruct]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Status
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.FarEndPacketLossRate
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_SN
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.USIM.Status
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsReceived
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsConnected
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.8.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesReceived
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsFailed
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.MemoryStatus.Free
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Channel
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_AutoSync
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Status
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.DataPS4G
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.VoicePS4G
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.OccurrenceCounter
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_TotalUptime
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsLost
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_BandSteer.Enable
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.BSSID
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesSent
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_UpTimeStart
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.LastChange
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SNR
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.1.ConnectionStatus
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.TXOP
+
+[Mon Oct 26 14:08:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_Management.Server.SSHServer.Enable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_DataWorking
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.BadPLCP
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.TXOP
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_VoiceWorking
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Status
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.TotalCallTime
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.LastChange
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAnswered
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_UpTimeStart
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.TimeCounter
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.Enable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_SMS.MSISDN
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.Enable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.RSSI
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SignalStrength
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.BytesCounter
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.Glitch
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.BulkData.Enable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.KNoise
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.Glitch
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.IMEI
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Status
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.KNoise
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRP
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRQ
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Channel
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.9.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_AutoSensing.FiberSeen
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Status
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.BadPLCP
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.UpTime
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_AccessTechnology
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.BSSID
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_TotalUptime
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.X_UpTimeStart
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Status
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.AutoChannelEnable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsConnected
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAttempted
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.AutoChannelEnable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsFailed
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsAnswered
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.ProcessStatus.X_CPUUsage15min
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Status
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.CallsDropped
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesSent
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.2.ConnectionStatus
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsReceived
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Enable
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_Cardmodel
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1712, FSM----http code----204
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1777, Clear flag, change to use ipv4 by default.
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1585, Deleting ingress qos port 51928
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1832, apply start:
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1841, apply over:
+
+[Mon Oct 26 14:08:24 2026] [MSG]:LINE: 1891, FSM----session finish  
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 162, PERIODIC_INFORM----download_num2 is : 0
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 311, ###########eventStructQueue->EventCode[2],eventCode[2]#############
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1406, FSM----switch to init state
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1166, config CURLOPT_IPRESOLVE  bind_wan 0.
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1198, Config CURLOPT_IPRESOLVE to CURL_IPRESOLVE_V4 lib.
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 912, DISABLE_HTTP_100 runing !!!!
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 419, config_get_url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69, url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 833, INFORM---- make head finish
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 845, INFORM---- make body finish
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 858, INFORM---- make device id finish
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 863, INFORM---- make event finish
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 883, INFORM---- make envelopes finish
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 895, INFORM---- make times finish
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 907, INFORM---- make retry count finish
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Manufacturer]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ManufacturerOUI]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ModelName]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Description]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.SerialNumber]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.UpTime]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Name]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Status]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Value]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 387, get data_global_ipbv6_wan fail !!!!!
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 397, get data_link_ipv6_wan fail !!!!!
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 960, INFORM---- make parameter list finish
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 967, INFORM---- make parameter count finish
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 970, INFORM---- append inform to root finish
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 977, INFORM---- print the msg: <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cwmp="urn:dslforum-org:cwmp-1-2">
+  <SOAP-ENV:Header>
+    <cwmp:ID SOAP-ENV:mustUnderstand="1">725</cwmp:ID>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <cwmp:Inform>
+      <DeviceId>
+        <Manufacturer>SERCOMM</Manufacturer>
+        <OUI>141459</OUI>
+        <ProductClass>RHG3006</ProductClass>
+        <SerialNumber>M2XXXXXXXXXXX76</SerialNumber>
+      </DeviceId>
+      <Event SOAP-ENC:arrayType="EventStruct[1]">
+        <EventStruct>
+          <EventCode>2 PERIODIC</EventCode>
+          <CommandKey></CommandKey>
+        </EventStruct>
+      </Event>
+      <MaxEnvelopes>1</MaxEnvelopes>
+      <CurrentTime>2026-10-26T14:23:23+01:00</CurrentTime>
+      <RetryCount>0</RetryCount>
+      <ParameterList SOAP-ENC:arrayType="cwmp:Parameter
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1503, FSM----generate initial inform body success
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1585, Adding ingress qos port 58332
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 698, enter cpe_freeInformParaList !
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 896, cwmp_setValueByName name [Device.ManagementServer.X_EventStruct]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Status
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.FarEndPacketLossRate
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_SN
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.USIM.Status
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsReceived
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsConnected
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.8.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesReceived
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsFailed
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.MemoryStatus.Free
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Channel
+
+[Mon Oct 26 14:23:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_AutoSync
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.DataPS4G
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.VoicePS4G
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.OccurrenceCounter
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_TotalUptime
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsLost
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_BandSteer.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.BSSID
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_UpTimeStart
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.LastChange
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SNR
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.1.ConnectionStatus
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.TXOP
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_Management.Server.SSHServer.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_DataWorking
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.BadPLCP
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.TXOP
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_VoiceWorking
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.TotalCallTime
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.LastChange
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAnswered
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_UpTimeStart
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.TimeCounter
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_SMS.MSISDN
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.RSSI
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SignalStrength
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.BytesCounter
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.Glitch
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.BulkData.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.KNoise
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.Glitch
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.IMEI
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.KNoise
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRP
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRQ
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Channel
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.9.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_AutoSensing.FiberSeen
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.BadPLCP
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.UpTime
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_AccessTechnology
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.BSSID
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_TotalUptime
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.X_UpTimeStart
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.AutoChannelEnable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsConnected
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAttempted
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.AutoChannelEnable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsFailed
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsAnswered
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.ProcessStatus.X_CPUUsage15min
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Status
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.CallsDropped
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesSent
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.2.ConnectionStatus
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsReceived
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Enable
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_Cardmodel
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1712, FSM----http code----204
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1777, Clear flag, change to use ipv4 by default.
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1585, Deleting ingress qos port 58332
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1832, apply start:
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1841, apply over:
+
+[Mon Oct 26 14:23:24 2026] [MSG]:LINE: 1891, FSM----session finish  
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 162, PERIODIC_INFORM----download_num2 is : 0
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 311, ###########eventStructQueue->EventCode[2],eventCode[2]#############
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1406, FSM----switch to init state
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1166, config CURLOPT_IPRESOLVE  bind_wan 0.
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1198, Config CURLOPT_IPRESOLVE to CURL_IPRESOLVE_V4 lib.
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 912, DISABLE_HTTP_100 runing !!!!
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 419, config_get_url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69, url is https://acs.dsl.vodafone.it:7004/live/CPEManager/CPEs/genericTR69
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 833, INFORM---- make head finish
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 845, INFORM---- make body finish
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 858, INFORM---- make device id finish
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 863, INFORM---- make event finish
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 883, INFORM---- make envelopes finish
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 895, INFORM---- make times finish
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 907, INFORM---- make retry count finish
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Manufacturer]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ManufacturerOUI]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.ModelName]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.Description]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.SerialNumber]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.UpTime]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Name]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Status]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 488, enter cpe_findInformparaListByName !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 489, name [Device.DeviceInfo.TemperatureStatus.TemperatureSensor.1.Value]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 387, get data_global_ipbv6_wan fail !!!!!
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 397, get data_link_ipv6_wan fail !!!!!
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 960, INFORM---- make parameter list finish
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 967, INFORM---- make parameter count finish
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 970, INFORM---- append inform to root finish
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 977, INFORM---- print the msg: <SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cwmp="urn:dslforum-org:cwmp-1-2">
+  <SOAP-ENV:Header>
+    <cwmp:ID SOAP-ENV:mustUnderstand="1">726</cwmp:ID>
+  </SOAP-ENV:Header>
+  <SOAP-ENV:Body>
+    <cwmp:Inform>
+      <DeviceId>
+        <Manufacturer>SERCOMM</Manufacturer>
+        <OUI>141459</OUI>
+        <ProductClass>RHG3006</ProductClass>
+        <SerialNumber>M2XXXXXXXXXXX76</SerialNumber>
+      </DeviceId>
+      <Event SOAP-ENC:arrayType="EventStruct[1]">
+        <EventStruct>
+          <EventCode>2 PERIODIC</EventCode>
+          <CommandKey></CommandKey>
+        </EventStruct>
+      </Event>
+      <MaxEnvelopes>1</MaxEnvelopes>
+      <CurrentTime>2026-10-26T14:38:23+01:00</CurrentTime>
+      <RetryCount>0</RetryCount>
+      <ParameterList SOAP-ENC:arrayType="cwmp:Parameter
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1503, FSM----generate initial inform body success
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1585, Adding ingress qos port 38121
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 698, enter cpe_freeInformParaList !
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 896, cwmp_setValueByName name [Device.ManagementServer.X_EventStruct]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1712, FSM----http code----200
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Status
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.FarEndPacketLossRate
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_SN
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.USIM.Status
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsReceived
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsConnected
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.8.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesReceived
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsFailed
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.MemoryStatus.Free
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Channel
+
+[Mon Oct 26 14:38:23 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_AutoSync
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.DataPS4G
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.X_ShowTime.VoicePS4G
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.OccurrenceCounter
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_TotalUptime
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsLost
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.X_BandSteer.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.BSSID
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.X_UpTimeStart
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.LastChange
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SNR
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.1.ConnectionStatus
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.TXOP
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_Management.Server.SSHServer.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_DataWorking
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.BadPLCP
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.TXOP
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_VoiceWorking
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.TotalCallTime
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.LastChange
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAnswered
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.3.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_UpTimeStart
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.TimeCounter
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.6.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.1.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_SMS.MSISDN
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.RSSI
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_SignalStrength
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.BytesCounter
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.Glitch
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.BulkData.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.KNoise
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.Glitch
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.IMEI
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.PacketsSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.4.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.AccessPoint.5.SSIDAdvertisementEnabled
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.Stats.KNoise
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRP
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_RSRQ
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.2.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Channel
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.9.IPv4Address.1.IPAddress
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.X_AutoSensing.FiberSeen
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.Stats.BadPLCP
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.AverageRoundTripDelay
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.UpTime
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.Stats.X_AccessTechnology
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.BSSID
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.X_TotalUptime
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.X_UpTimeStart
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.IP.Interface.3.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.2.AutoChannelEnable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsConnected
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsAttempted
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.Radio.1.AutoChannelEnable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.2.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.OutgoingCallsFailed
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsAnswered
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.DeviceInfo.ProcessStatus.X_CPUUsage15min
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.2.Stats.ReceivePacketLossRate
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.1.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Status
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.CallsDropped
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.WiFi.SSID.5.Stats.BytesReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Ethernet.Interface.1.Stats.BytesSent
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.PPP.Interface.2.ConnectionStatus
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.VoiceService.1.VoiceProfile.1.Line.1.Stats.IncomingCallsReceived
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Services.X_SmartphoneBackup.Enable
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1222, enter function GetParameterValue, paraName = Device.Cellular.Interface.1.X_Cardmodel
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1269, PARAMETER---- cml_ubus_get_xml_value return node_str
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1419, enter function GetParameterValue
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1505, ntpsync[1]
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1126, msisdn[]
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1569, Before CURL_easy_perform time  
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1581, after CURL_easy_perform res = 0  
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1686, TR069 connects to ACS server success.
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1712, FSM----http code----204
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1757, FSM----RespPost finished
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1777, Clear flag, change to use ipv4 by default.
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1585, Deleting ingress qos port 38121
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1832, apply start:
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1841, apply over:
+
+[Mon Oct 26 14:38:24 2026] [MSG]:LINE: 1891, FSM----session finish  
+

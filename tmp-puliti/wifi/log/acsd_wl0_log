@@ -1,0 +1,271 @@
+[ info ]
+time: Mon Oct 19 03:46:49 2026
+ 
+acsd version: 2
+acsd ticks: 14
+acsd poll_interval: 1 seconds
+ifname: wl0, mode: auto
+ifname: wl1, mode: auto
+
+[ wl0: dump acs_record ]
+Ticks(s)  Timestamp(s)  ACS-Trigger  ChanSpec    BG-Noise  CCA-Count  Idle
+       0    1792381583         INIT  52/160             0          0  0
+[ wl0: dump acsd_stats ]
+ACSD stats:
+Total cmd: 76, Valid cmd: 76
+Total events: 86, Valid events: 86
+
+[ wl0: dump bss ]
+channel nCtrl nExt20 nExt40 nExt80
+ 36      2     0      0      0
+ 40      0     2      0      0
+ 44      0     0      2      0
+ 48      0     0      2      0
+ 52      0     0      0      0
+ 56      0     0      0      0
+ 60      0     0      0      0
+ 64      0     0      0      0
+100      1     0      0      0
+104      0     1      0      0
+108      0     0      1      0
+112      0     0      1      0
+116      0     0      0      0
+120      0     0      0      0
+124      0     0      0      0
+128      0     0      0      0
+132      0     0      0      0
+136      0     0      0      0
+140      0     0      0      0
+[ wl0: dump candidate ]
+Candidate channel spec: 0xe832
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      180	        1	      180	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xe932
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      180	        1	      180	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xea32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      180	        1	      180	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xeb32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+BSS	        2	       10	       20	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      180	        1	      180	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xec32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      160	        1	      160	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xed32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      160	        1	      160	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xee32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      160	        1	      160	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xef32
+ Valid: TRUE
+Channel Score Breakdown:
+Fact	 Score   	 Weight  	 SubTotal	
+txpower	       10	       10	      100	
+bgnoise	        5	        1	        5	
+TOTAL	      160	        1	      160	
+CNS	      -88	        1	      -88	
+TXOP	        5	       10	       50	
+DFS/Age	        1	        5	        5	
+Candidate channel spec: 0xe872
+ Valid: FALSE
+ Reason: DFS 
+Candidate channel spec: 0xe972
+ Valid: FALSE
+ Reason: DFS 
+Candidate channel spec: 0xea72
+ Valid: FALSE
+ Reason: DFS 
+Candidate channel spec: 0xeb72
+ Valid: FALSE
+ Reason: DFS 
+Candidate channel spec: 0xec72
+ Valid: FALSE
+ Reason: DFS EXCLUDE 
+Candidate channel spec: 0xed72
+ Valid: FALSE
+ Reason: DFS EXCLUDE 
+Candidate channel spec: 0xee72
+ Valid: FALSE
+ Reason: DFS EXCLUDE 
+Candidate channel spec: 0xef72
+ Valid: FALSE
+ Reason: DFS EXCLUDE 
+[ wl0: dump chanim ]
+Chanim Stats: version: 4, count: 19
+chanspec tx   inbss   obss   nocat   nopkt   doze   txop   goodtx  badtx  glitch   badplcp  knoise  timestamp
+0xd024	1	2	1	1	1	0	98	0	0	3	0	-89	45781596
+0xd028	1	0	1	1	0	0	100	0	0	0	0	-89	45781866
+0xd02c	1	0	1	1	0	0	100	0	0	0	0	-92	45782136
+0xd030	1	0	1	1	0	0	100	0	0	0	0	-92	45782406
+0xd034	0	0	0	0	0	0	100	0	0	0	0	-91	45782661
+0xd038	0	0	0	0	0	0	100	0	0	0	0	-90	45782916
+0xd03c	0	0	0	0	0	0	100	0	0	0	0	-88	45783171
+0xd040	0	0	0	0	0	0	100	0	0	0	0	-88	45783426
+0xd064	1	1	1	1	1	0	100	0	0	7	0	-83	45783681
+0xd068	0	0	1	1	0	0	100	0	0	0	0	-82	45783936
+0xd06c	0	0	1	1	0	0	100	0	0	0	0	-82	45784191
+0xd070	0	0	1	1	0	0	100	0	0	0	0	-82	45784446
+0xd074	0	0	0	0	0	0	100	0	0	0	0	-81	45784701
+0xd078	0	0	0	0	0	0	100	0	0	0	0	-80	45784956
+0xd07c	0	0	0	0	0	0	100	0	0	0	0	-80	45785211
+0xd080	0	0	0	0	0	0	100	0	0	0	0	-80	45785466
+0xd084	0	0	0	0	0	0	100	0	0	0	0	-80	45785721
+0xd088	0	0	0	0	0	0	100	0	0	0	0	-80	45785976
+0xd08c	0	0	0	0	0	0	100	0	0	0	0	-80	45786231
+[ wl0: dump cscore ]
+ACSD Candidate Scores for next Channel Switch:
+   Channel (Chspec) Use DFS      BSS     busy  interf.  itf_adj      fcs  txpower  bgnoise    TOTAL      CNS      ADJ     TXOP  DFS/Age     RBSS    RTXOP     CHWT 
+36/160     (0xe832)  dfs       20        0        0        0        0      100        5      180      -88        0       50        5        0        0        0 
+40/160     (0xe932)  dfs       20        0        0        0        0      100        5      180      -88        0       50        5        0        0        0 
+44/160     (0xea32)  dfs       20        0        0        0        0      100        5      180      -88        0       50        5        0        0        0 
+48/160     (0xeb32)  dfs       20        0        0        0        0      100        5      180      -88        0       50        5        0        0        0 
+52/160     (0xec32)  dfs        0        0        0        0        0      100        5      160      -88        0       50        5        0        0        0 
+56/160     (0xed32)  dfs        0        0        0        0        0      100        5      160      -88        0       50        5        0        0        0 
+60/160     (0xee32)  dfs        0        0        0        0        0      100        5      160      -88        0       50        5        0        0        0 
+64/160     (0xef32)  dfs        0        0        0        0        0      100        5      160      -88        0       50        5        0        0        0 
+100/160    (0xe872)  dfs  Invalid:DFS 
+104/160    (0xe972)  dfs  Invalid:DFS 
+108/160    (0xea72)  dfs  Invalid:DFS 
+112/160    (0xeb72)  dfs  Invalid:DFS 
+116/160    (0xec72)  dfs  Invalid:DFS EXCLUDE 
+120/160    (0xed72)  dfs  Invalid:DFS EXCLUDE 
+124/160    (0xee72)  dfs  Invalid:DFS EXCLUDE 
+128/160    (0xef72)  dfs  Invalid:DFS EXCLUDE 
+[ wl0: dump dfsr ]
+DFS Reentry is enabled
+Channel switches      :     0
+DFS Re-Entry count    :     0
+Selected chanspec     : 0xec32 (Channel 50)
+Last Channel TX count : 0 bytes
+Last Channel RX count : 0 bytes
+Re-Entry request type : NONE
+              Window    Seconds  Threshold     Actual
+           immediate        300        300          0
+            deferred     604800         20          0
+            activity         30          0          0
+               bgdfs        360       3600          0
+
+[ wl0: dump scanresults ]
+SSID: "Vodafone - Cremona EXT"
+BSSID: BC:0F:9A:XX:XX:XX	chanspec: 0xe02a
+RSSI: -64 dBm	Type: 802.11A
+timestamp: 1792381582
+SSID: "FASTWEB-5CXyv9"
+BSSID: CC:B1:82:XX:XX:XX	chanspec: 0xe02a
+RSSI: -83 dBm	Type: 802.11A
+timestamp: 1792381582
+SSID: "FASTWEB-HU9S2T"
+BSSID: C8:5A:9F:XX:XX:XX	chanspec: 0xe06a
+RSSI: -81 dBm	Type: 802.11A
+timestamp: 1792381582
+do_dump_scan_results ifname:wl0 bss count is:3
+[ wl0: acsd variables ]
+      acs_chan_dwell_time = 600
+     acs_chan_flop_period = 70
+      acs_ci_scan_timeout = 900 sec
+        acs_ci_scan_timer = 20 sec
+        acs_cs_scan_timer = 39600 sec
+                  acs_dfs = 2
+ acs_ci_scan_chanim_stats = 50
+                acs_flags = 0xb
+         acs_far_sta_rssi = -75
+     acs_nofcs_least_rssi = -60
+               acs_policy = index: 1 : Default5g
+    acs_scan_chanim_stats = 70
+          acs_trigger_var = 10 dBm
+          acs_txdelay_cnt = 1
+       acs_txdelay_period = 1
+        acs_txdelay_ratio = 30
+          acs_tx_idle_cnt = 0 tx packets
+             chanim_flags = 0x1
+           lockout_period = 28800 sec
+                  max_acs = 1 
+                     mode = 2: select
+                 msglevel = 128
+            sample_period = 2 sec
+           threshold_time = 2 sample period
+                test_dfsr = chanspec:  52/160 (0xec32) for dfsr (CAC mode:0)
+            test_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+             zdfs_5g_move = chanspec:  52/160 (0xec32) for dfsr (CAC mode:0)
+             zdfs_2g_move = chanspec:  52/160 (0xec32) for dfsr (CAC mode:0)
+         zdfs_5g_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+         zdfs_2g_preclear = chanspec:  (null) (0x0000) to preclear (CAC mode:0)
+            bw_upgradable = 0
+      fallback_to_primary = 1
+  acs_switch_score_thresh = 150
+       ci_scan_txop_limit = 70
+           acs_txop_limit = 40
+acs_switch_score_thresh_hi = 300
+        acs_txop_limit_hi = 20
+  acs_bgdfs_idle_interval = 360
+            acs_use_escan = 1
+      acs_chanim_tx_avail = 70
+acs_enable_dfsr_on_highpwr = 0
+       acs_nonwifi_enable = 0
+ acs_chanim_glitch_thresh = 0
+      acs_pref_6g_psc_pri = 1
+              test_cevent =         acs_dfs_move_back = 1
+          last_dfs_chspec = 0x0
+          acs_chanim_poll = 60
+acs_chanim_intf_force_cs_scan = 0
+      acs_channel_weights = No channel weights specified
+           acs_excl_chans = 0xd074,0xd876,0xe07a,0xec72,0xd078,0xd976,0xe17a,0xed72,0xd07c,0xd87e,0xe27a,0xee72,0xd080,0xe97e,0xe37a,0xef72,0xd090,0xd98e,0xe38a,0xd095,0xd897,0xe09b,0xd099,0xd997,0xe19b,0xd09d,0xd89f,0xe29b,0xd0a1,0xd99f,0xe39b,0xd0a5
+excl_chans count:32
+                acs_bgdfs = 1
+  acs_bgdfs_preclear_etsi = 1
+acs_allow_uncleared_dfs_ch = 0

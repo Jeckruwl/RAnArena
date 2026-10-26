@@ -1,0 +1,896 @@
+Booting Linux on physical CPU 0x0
+Initializing cgroup subsys cpuset
+Initializing cgroup subsys cpu
+Initializing cgroup subsys cpuacct
+Linux version 4.1.52 (root@f3530b5a87b3) (gcc version 5.5.0 (Buildroot 2017.11.1) ) #1 SMP PREEMPT Fri Sep 11 15:40:38 CST 2026
+CPU: AArch64 Processor [420f1000] revision 0
+Detected VIPT I-cache on CPU0
+alternatives: enabling workaround for ARM erratum 845719
+On node 0 totalpages: 107008
+  DMA zone: 1672 pages used for memmap
+  DMA zone: 0 pages reserved
+  DMA zone: 107008 pages, LIFO batch:31
+PERCPU: Embedded 16 pages/cpu @ffffffc01ffd2000 s25688 r8192 d31656 u65536
+pcpu-alloc: s25688 r8192 d31656 u65536 alloc=16*4096
+pcpu-alloc: [0] 0 [0] 1 
+Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 105336
+Kernel command line: coherent_pool=4M cpuidle_sysfs_switch pci=pcie_bus_safe
+PID hash table entries: 2048 (order: 2, 16384 bytes)
+Dentry cache hash table entries: 65536 (order: 7, 524288 bytes)
+Inode-cache hash table entries: 32768 (order: 6, 262144 bytes)
+Memory: 400140K/428032K available (5664K kernel code, 1936K rwdata, 1940K rodata, 232K init, 586K bss, 27892K reserved, 0K cma-reserved)
+Virtual kernel memory layout:
+    vmalloc : 0xffffff8000000000 - 0xffffffbdbfff0000   (   246 GB)
+    vmemmap : 0xffffffbdc0000000 - 0xffffffbfc0000000   (     8 GB maximum)
+              0xffffffbdc0000000 - 0xffffffbdc0800000   (     8 MB actual)
+    fixed   : 0xffffffbffabfd000 - 0xffffffbffac00000   (    12 KB)
+    PCI I/O : 0xffffffbffae00000 - 0xffffffbffbe00000   (    16 MB)
+    modules : 0xffffffbffc000000 - 0xffffffc000000000   (    64 MB)
+    memory  : 0xffffffc000000000 - 0xffffffc020000000   (   512 MB)
+      .init : 0xffffffc0007ee000 - 0xffffffc000828000   (   232 KB)
+      .text : 0xffffffc000080000 - 0xffffffc0007ed8b4   (  7607 KB)
+      .data : 0xffffffc00082a000 - 0xffffffc000a0e320   (  1937 KB)
+Preemptible hierarchical RCU implementation.
+	RCU restricting CPUs from NR_CPUS=4 to nr_cpu_ids=2.
+RCU: Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=2
+NR_IRQS:64 nr_irqs:64 0
+Architected cp15 timer(s) running at 50.00MHz (phys).
+clocksource arch_sys_counter: mask: 0xffffffffffffff max_cycles: 0xb8812736b, max_idle_ns: 440795202655 ns
+sched_clock: 56 bits at 50MHz, resolution 20ns, wraps every 4398046511100ns
+BRCM Legacy Drivers' Helper, all legacy drivers' IO memories/interrupts should be remapped here
+     Remapping interrupts...
+             hwirq      virq
+               50         5
+               61         6
+               64         7
+               65         8
+              125         9
+               43        10
+               44        11
+               45        12
+               46        13
+              213        14
+              214        15
+              215        16
+              216        17
+              217        18
+              218        19
+              219        20
+              220        21
+               70        22
+              116        23
+              131        24
+              130        25
+              137        26
+              138        27
+              139        28
+              160        29
+              161        30
+              162        31
+              163        32
+              164        33
+              165        34
+              166        35
+              167        36
+              168        37
+              169        38
+              170        39
+              171        40
+              172        41
+              173        42
+              174        43
+              175        44
+              176        45
+              177        46
+              178        47
+              179        48
+              180        49
+              181        50
+              182        51
+              183        52
+              184        53
+              185        54
+              186        55
+              187        56
+              188        57
+              189        58
+              190        59
+              191        60
+              192        61
+              146        62
+              153        63
+              156        64
+              157        65
+              154        66
+              155        67
+     Remapping IO memories...
+             phys              virt          size
+       0000000080180000  ffffff8000040000  00024000
+       00000000ffb00000  ffffff8000008000  00006000
+       00000000ffb20000  ffffff8000002000  00001000
+       0000000082000000  ffffff8000080000  01000000
+       0000000083000000  ffffff8000010000  00001000
+       00000000ff800000  ffffff8000014000  00003000
+       00000000ff854000  ffffff8000012000  00001000
+       00000000ff858000  ffffff8000018000  00004000
+       00000000ffe00000  ffffff8001100000  00100000
+       00000000ff860000  ffffff8000020000  00002000
+       0000000083058600  ffffff800001e600  00000100
+       0000000082db2000  ffffff8000024000  00001000
+       0000000082db4000  ffffff8000030000  0000e000
+       000000008000c000  ffffff8000028000  00003fff
+       000000008300c000  ffffff8000026000  00001000
+       0000000083028000  ffffff800002e000  00001000
+       0000000083020000  ffffff8000066000  00001000
+       0000000083038000  ffffff8000068000  00001000
+       0000000083058000  ffffff800006a000  00001000
+       0000000083064000  ffffff800006c000  00001000
+       0000000083068000  ffffff800006e000  00001000
+       0000000083080000  ffffff8000070000  00001000
+       0000000083088000  ffffff8000072000  00001000
+       00000000830a0000  ffffff8000074000  00001000
+       00000000830a4000  ffffff8000076000  00001000
+       00000000830ac000  ffffff8000078000  00001000
+       00000000810a0000  ffffff800007a000  00001000
+       0000000081060000  ffffff800007c000  00003000
+SC WDT GPIO timer init.
+console [ttyS0] enabled
+Calibrating delay loop (skipped), value calculated using timer frequency.. 100.00 BogoMIPS (lpj=500000)
+pid_max: default: 32768 minimum: 301
+Mount-cache hash table entries: 1024 (order: 1, 8192 bytes)
+Mountpoint-cache hash table entries: 1024 (order: 1, 8192 bytes)
+--Kernel Config--
+  SMP=1
+  PREEMPT=1
+  DEBUG_SPINLOCK=0
+  DEBUG_MUTEXES=0
+Initializing cgroup subsys blkio
+Initializing cgroup subsys memory
+Initializing cgroup subsys devices
+Initializing cgroup subsys freezer
+creating mapping for reserved memory phys 0x0000000002000000 virt 0xffffffc002000000 size 0x04000000 for rdp1
+creating mapping for reserved memory phys 0x0000000001800000 virt 0xffffffc001800000 size 0x00800000 for rdp2
+creating mapping for reserved memory phys 0x000000000f400000 virt 0xffffffc00f400000 size 0x00b00000 for dhd0
+creating mapping for reserved memory phys 0x000000000e800000 virt 0xffffffc00e800000 size 0x00b00000 for dhd1
+creating a MT_MEMORY_NONCACHED device at physical address of 0x03000000 to virtual address at 0xffffffc003000000 with size of 0x10000 byte for Kernel Crash
+pmc_init:PMC using DQM mode
+Successfully retrieved NVRAM data from dtb
+����������: 255.255.255-255.255
+CPU1: Booted secondary processor
+Detected VIPT I-cache on CPU1
+Brought up 2 CPUs
+SMP: Total of 2 processors activated.
+CPU: All CPU(s) started at EL2
+alternatives: patching kernel code
+devtmpfs: initialized
+clocksource jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 19112604462750000 ns
+futex hash table entries: 512 (order: 3, 32768 bytes)
+NET: Registered protocol family 16
+cpuidle: using governor ladder
+cpuidle: using governor menu
+Toggle reset of XRDP core...
+Toggle reset of XRDP core...
+vdso: 2 pages (1 code @ ffffffc000831000, 1 data @ ffffffc000830000)
+DMA: preallocated 4096 KiB pool for atomic allocations
+Error no gpio number defined for external interrupt 24579!
+Broadcom Logger v0.1
+ACPI: Interpreter disabled.
+SCSI subsystem initialized
+usbcore: registered new interface driver usbfs
+usbcore: registered new interface driver hub
+usbcore: registered new device driver usb
+bcmhs_spi bcmhs_spi.1: master is unqueued, this is deprecated
+skb_free_task created successfully with start budget 256
+[0;34mBLOG v3.0 Initialized[0m
+BLOG Rule v1.0 Initialized
+Broadcom IQoS v1.0 initialized
+NET: Registered protocol family 8
+NET: Registered protocol family 20
+Switched to clocksource arch_sys_counter
+pnp: PnP ACPI: disabled
+NET: Registered protocol family 2
+IP idents hash table entries: 8192 (order: 4, 65536 bytes)
+TCP established hash table entries: 4096 (order: 3, 32768 bytes)
+TCP bind hash table entries: 4096 (order: 4, 65536 bytes)
+TCP: Hash tables configured (established 4096 bind 4096)
+UDP hash table entries: 256 (order: 1, 8192 bytes)
+UDP-Lite hash table entries: 256 (order: 1, 8192 bytes)
+NET: Registered protocol family 1
+PCI: CLS 0 bytes, default 64
+squashfs: version 4.0 (2009/01/31) Phillip Lougher
+ntfs: driver 2.1.32 [Flags: R/W].
+jffs2: version 2.2. (NAND) (SUMMARY)  © 2001-2006 Red Hat, Inc.
+fuse init (API version 7.23)
+io scheduler noop registered (default)
+brd: module loaded
+loop: module loaded
+nand: device found, Manufacturer ID: 0xc2, Chip ID: 0xdc
+nand: Macronix MX30LF4G28AD
+nand: 512 MiB, SLC, erase size: 256 KiB, page size: 4096, OOB size: 256
+bcXXXxx_nand ff801800.nand: Adjust timing_1 to 0x6532845b timing_2 to 0x00091e94
+bcXXXxx_nand ff801800.nand: detected 512MiB total, 256KiB blocks, 4KiB pages, 27B OOB, 8-bit, BCH-8
+Bad block table found at page 131008, version 0x01
+Bad block table found at page 130944, version 0x01
+nand_read_bbt: bad block at 0x000005200000
+nand_read_bbt: bad block at 0x000010040000
+sercomm : mtd setup!
+Kernel boot magic : 0;2;2
+Creating 20 MTD partitions on "brcmnand.0":
+0x000000000000-0x000000400000 : "CfeROM"
+0x000000400000-0x000000e00000 : "CfeRAM1"
+0x000000e00000-0x000001800000 : "CfeRAM2"
+0x000001800000-0x000001940000 : "FlashMAP"
+0x000001940000-0x000001a80000 : "SN"
+0x000001a80000-0x000001bc0000 : "Protect"
+0x000001bc0000-0x000004dc0000 : "Rootfs1"
+0x000004dc0000-0x000005d00000 : "Lib1"
+0x000005d00000-0x000008f00000 : "Rootfs2"
+0x000008f00000-0x000009e00000 : "Lib2"
+0x000009e00000-0x000009f40000 : "Bootflg"
+0x000009f40000-0x00000a080000 : "Rootfs1_Info"
+0x00000a080000-0x00000a1c0000 : "Lib1_Info"
+0x00000a1c0000-0x00000a300000 : "Rootfs2_Info"
+0x00000a300000-0x00000a440000 : "Lib2_Info"
+0x00000a440000-0x00000a940000 : "XMLConfig"
+0x00000a940000-0x00000ae40000 : "Erasable_XML_CFG"
+0x00000ae40000-0x00000b840000 : "AppData"
+0x00000b840000-0x00001ce80000 : "Yaffs"
+0x00001ce80000-0x000020000000 : "Reserve"
+tun: Universal TUN/TAP device driver, 1.6
+tun: (C) 1999-2004 Max Krasnyansky <XXXX@qualcomm.com>
+PPP generic driver version 2.4.2
+PPP BSD Compression module registered
+PPP Deflate Compression module registered
+PPP MPPE Compression module registered
+NET: Registered protocol family 24
+usbcore: registered new interface driver asix
+usbcore: registered new interface driver ax88179_178a
+usbcore: registered new interface driver cdc_ether
+usbcore: registered new interface driver cdc_eem
+usbcore: registered new interface driver net1080
+usbcore: registered new interface driver rndis_host
+usbcore: registered new interface driver cdc_subset
+usbcore: registered new interface driver zaurus
+usbcore: registered new interface driver cdc_ncm
+usbcore: registered new interface driver cdc_acm
+cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
+i2c /dev entries driver
+sdhci: Secure Digital Host Controller Interface driver
+sdhci: Copyright(c) Pierre Ossman
+sdhci-pltfm: SDHCI platform and OF driver helper
+sdhci-bcXXXxx ff858000.sdhci: No vmmc regulator found
+sdhci-bcXXXxx ff858000.sdhci: No vqmmc regulator found
+mmc0: SDHCI controller on ff858000.sdhci [ff858000.sdhci] using ADMA
+brcmboard registered
+brcmboard: brcm_board_init entry
+print_rst_status: Last RESET due to SW reset
+print_rst_status: RESET reason: 0x00000000
+DYING GASP IRQ Initialized and Enabled
+map_hw_timer_interrupt,130: interrupt_id 10
+map_hw_timer_interrupt,130: interrupt_id 11
+map_hw_timer_interrupt,130: interrupt_id 12
+map_hw_timer_interrupt,130: interrupt_id 13
+Serial: BCXXXXX driver $Revision: 3.00 $
+ttyS0 at MMIO 0xff800640 (irq = 7, base_baud = 921600) is a BCXXXXX
+ttyS1 at MMIO 0xff800660 (irq = 8, base_baud = 921600) is a BCXXXXX
+i2c-bcm63000 ff802100.i2c: Broadcom BCM96xxx I2C driver
+bcm_i2c: i2c bus 0 PON optical interface soldered on board
+bcm_i2c: bus 0: module inserted
+
+Optical detection module loaded.
+Netfilter messages via NETLINK v0.30.
+nf_conntrack version 0.5.0 (3126 buckets, 12504 max)
+ctnetlink v0.93: registering with nfnetlink.
+nf_tables: (c) 2007-2009 Patrick McHardy <XXXXX@trash.net>
+nf_tables_compat: (c) 2012 Pablo Neira Ayuso <XXXXX@netfilter.org>
+gre: GRE over IPv4 demultiplexor driver
+ip_gre: GRE over IPv4 tunneling driver
+ip_tables: (C) 2000-2006 Netfilter Core Team
+ipt_CLUSTERIP: ClusterIP Version 0.8 loaded successfully
+NET: Registered protocol family 10
+ip6_tables: (C) 2000-2006 Netfilter Core Team
+sit: IPv6 over IPv4 tunneling driver
+NET: Registered protocol family 17
+bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+Bridge firewalling registered
+Ebtables v2.0 registered
+ebt_time registered
+ebt_ftos registered
+ebt_wmm_mark registered
+L2TP core: blog_l2tp_rcv_check 
+l2tp_core: L2TP core driver, V2.0
+l2tp_ppp: PPPoL2TP kernel driver, V2.0
+8021q: 802.1Q VLAN Support v1.8
+ubi0: attaching mtd8
+ubi0: scanning is finished
+ubi0: attached mtd8 (name "Rootfs2", size 50 MiB)
+ubi0: PEB size: 262144 bytes (256 KiB), LEB size: 253952 bytes
+ubi0: min./max. I/O unit sizes: 4096/4096, sub-page size 4096
+ubi0: VID header offset: 4096 (aligned 4096), data offset: 8192
+ubi0: good PEBs: 200, bad PEBs: 0, corrupted PEBs: 0
+ubi0: user volume: 2, internal volumes: 1, max. volumes count: 128
+ubi0: max/mean erase counter: 1/0, WL threshold: 4096, image sequence number: 779634332
+ubi0: available PEBs: 46, total reserved PEBs: 154, PEBs reserved for bad PEB handling: 4
+ubi0: background thread "ubi_bgt0d" started, PID 470
+ubi1: attaching mtd9
+ubi1: scanning is finished
+ubi1: attached mtd9 (name "Lib2", size 15 MiB)
+ubi1: PEB size: 262144 bytes (256 KiB), LEB size: 253952 bytes
+ubi1: min./max. I/O unit sizes: 4096/4096, sub-page size 4096
+ubi1: VID header offset: 4096 (aligned 4096), data offset: 8192
+ubi1: good PEBs: 60, bad PEBs: 0, corrupted PEBs: 0
+ubi1: user volume: 1, internal volumes: 1, max. volumes count: 128
+ubi1: max/mean erase counter: 1/0, WL threshold: 4096, image sequence number: 528464670
+ubi1: available PEBs: 19, total reserved PEBs: 41, PEBs reserved for bad PEB handling: 4
+ubi1: background thread "ubi_bgt1d" started, PID 485
+bcm_i2c: sfp i2c device found registered for bus 0 address 0xa0
+bcm_i2c: sfp i2c device found registered for bus 0 address 0xa2
+Opticaldet: optical module detected on i2c bus 0:
+Opticaldet Unknown Transceiver
+Module Form Factor: SFF
+Module Type       : xPON
+Vendor Name       : SERCOMM_B+_G    
+Part Number       : GN25L95         
+Part REV          : 1.0 
+************************************************************************
+* Opticaldet: Unknown optical module - using default configuration     *
+* Please make sure the optical module is correct for your connection   *
+************************************************************************
+block ubiblock0_0: created from ubi0:0(rootfs_ubifs)
+VFS: Mounted root (squashfs filesystem) readonly on device 254:0.
+devtmpfs: mounted
+SC: mount libs(/dev/mtdblock22) to /mnt/rootfs, ret=0
+Freeing unused kernel memory: 232K
+==read_crash_mesg_from_ram=*head_ptr =111 = = 
+==read_call_trace_from_ram=*head_ptr = = = 
+jffs2: notice: (575) jffs2_build_xattr_subsystem: complete building xattr subsystem, 0 of xdatum (0 unchecked, 0 orphan) and 0 of xref (0 dead, 0 orphan) found.
+jffs2: notice: (576) jffs2_build_xattr_subsystem: complete building xattr subsystem, 0 of xdatum (0 unchecked, 0 orphan) and 0 of xref (0 dead, 0 orphan) found.
+jffs2: notice: (579) jffs2_build_xattr_subsystem: complete building xattr subsystem, 0 of xdatum (0 unchecked, 0 orphan) and 0 of xref (0 dead, 0 orphan) found.
+jffs2: notice: (581) jffs2_build_xattr_subsystem: complete building xattr subsystem, 0 of xdatum (0 unchecked, 0 orphan) and 0 of xref (0 dead, 0 orphan) found.
+detect_link: loading out-of-tree module taints kernel.
+bcmlibs: module license 'Proprietary' taints kernel.
+Disabling lock debugging due to kernel taint
+BCMLIBS loaded...
+Initializing WLCSM Module
+WLCSM Module loaded successfully 
+Broadcom 802.1Q VLAN Interface, v0.1
+RDPA_MW: scratchpad get_or_init: RdpaWanType - GPON 
+RDPA_MW: scratchpad get_or_init: GbeWanEMac - NONE 
+Creating CPU ring for queue number 17 with 16384 packets descriptor=0xffffffbffc59fb80, size_of_entry 8
+Done initializing Ring 17 Base=0xffffffc01dbc0000 num of entries= 16384 RDD Base=1dbc0000 descriptor=0xffffffbffc59fb80
+Creating CPU ring for queue number 18 with 16384 packets descriptor=0xffffffbffc59fc00, size_of_entry 8
+Done initializing Ring 18 Base=0xffffffc01ac80000 num of entries= 16384 RDD Base=1ac80000 descriptor=0xffffffbffc59fc00
+Creating CPU ring for queue number 16 with 2048 packets descriptor=0xffffffbffc59fb00, size_of_entry 8
+Done initializing Ring 16 Base=0xffffffc01db90000 num of entries= 2048 RDD Base=1db90000 descriptor=0xffffffbffc59fb00
+Creating CPU ring for queue number 19 with 2048 packets descriptor=0xffffffbffc59fc80, size_of_entry 16
+Done initializing Ring 19 Base=0xffffffc01a460000 num of entries= 2048 RDD Base=1a460000 descriptor=0xffffffbffc59fc80
+Creating CPU ring for queue number 20 with 2048 packets descriptor=0xffffffbffc59fd00, size_of_entry 16
+Done initializing Ring 20 Base=0xffffffc01a470000 num of entries= 2048 RDD Base=1a470000 descriptor=0xffffffbffc59fd00
+Bridge fastpath module
+brcmchipinfo: brcm_chipinfo_init entry
+Broadcom Ingress QoS Module  Char Driver v1.0 Registered<303>[0m
+
+Broadcom Ingress QoS v1.0 initialized
+[0;36;44mBroadcom Packet Flow Cache [0m
+FCACHE_CONFIG_MAX_FLOW_ENTRIES<16384>
+FCACHE_CONFIG_MAX_FDB_ENTRIES<1024>
+FCACHE_CONFIG_MAX_HOST_DEV_ENTRIES<64>
+FCACHE_CONFIG_MAX_HOST_MAC_ENTRIES<32>
+npe_max_entries<32768>
+Bind blog_notify_evt_enqueue_fn[<ffffffbffc8300b0>]
+fc_evt task created successfully
+max_ent = 16384 intvl_msec = 10000 num_slices = 1000 num_ent = 17 period_msec = 10 
+NBUFF v1.0 Initialized
+[0;36;44mTotal # of labels = 81[0m
+[0;36;44mInitialized fcache state[0m
+	Pkt HW acceleration is disabled/unavailable.
+[0;36;44mBroadcom Packet Flow Cache  Char Driver v4.0 Registered<302>[0m
+fc_timer_task created successfully
+	Pkt HW acceleration is disabled/unavailable.
+Created Proc FS /procfs/fcache
+[0;36;44mBroadcom Packet Flow Cache registered with netdev chain[0m
+[0;36;44mBroadcom Packet Flow Cache learning via BLOG enabled.[0m
+[0;35m[FHW]  pktDbgLvl[0xffffffbffc84a888]=0[0m
+[0;34m[FHW]  fhw_construct: [0m
+[0;36;44mInitialized Fcache HW accelerator layer state[0m
+flwStatsThread created. numFlwsPerPoll 546 maxFlwIdx 16383
+[0;36;44mFcache Pathstats created[0m
+[0;36;44mConstructed Broadcom Packet Flow Cache v4.0[0m
+ERR: rdpa_if_to_rdd_vport#2522: Can't map rdpa_if 30 to rdd vport
+51F1: CORE_SHD1C_09: 0x118 CORE_SHD1C_0D: 0xa0 CORE_SHD1C_0E: 0x3 CORE_EXP04: 0x500
+51F1: CORE_SHD1C_09: 0x118 CORE_SHD1C_0D: 0xa0 CORE_SHD1C_0E: 0x3 CORE_EXP04: 0x500
+51F1: CORE_SHD1C_09: 0x118 CORE_SHD1C_0D: 0xa0 CORE_SHD1C_0E: 0x3 CORE_EXP04: 0x500
+51F1: CORE_SHD1C_09: 0x118 CORE_SHD1C_0D: 0xa0 CORE_SHD1C_0E: 0x3 CORE_EXP04: 0x500
+Creating CPU ring for queue number 4 with 1024 packets descriptor=0xffffffbffc59f500, size_of_entry 16
+Done initializing Ring 4 Base=0xffffffc018790000 num of entries= 1024 RDD Base=18790000 descriptor=0xffffffbffc59f500
+Creating CPU ring for queue number 3 with 1024 packets descriptor=0xffffffbffc59f480, size_of_entry 16
+Done initializing Ring 3 Base=0xffffffc018678000 num of entries= 1024 RDD Base=18678000 descriptor=0xffffffbffc59f480
+Creating dynamic meter on cpu/index=0 queue 3
+dgasp: kerSysRegisterDyingGaspHandler: bcmsw registered 
+[0;34m[NTC bitpool] idx_pool_init: 551:L2L3-class:Create Index Pool_Size = 16384[0m
+IPTV ddr base addr: 0x0000000018000000
+IPTV virtual ddr base addr: ffffffc018000000
+[0;34m[NTC bitpool] idx_pool_init: 551:PktRnr[0]:Create Index Pool_Size = 16384[0m
+[0;34m[NTC bitpool] idx_pool_init: 551:PktRnr[1]:Create Index Pool_Size = 1024[0m
+[0;34m[NTC bitpool] idx_pool_init: 551:FHW[0]:Create Index Pool_Size = 16384[0m
+Retrieve num_fhw_path=32
+[0;36;44mPathstats allocated 1024 bytes[0m
+[0;36;44mBroadcom Packet Flow Cache HW acceleration enabled.[0m
+[0;34m[NTC bitpool] idx_pool_init: 551:FHW[1]:Create Index Pool_Size = 1024[0m
+Retrieve num_fhw_path=32
+[0;36;44mPathstats allocated 1024 bytes[0m
+[0;36;44mBroadcom Packet Flow Cache HW acceleration enabled.[0m
+Broadcom Runner Blog Driver Char Driver v0.1 Registered <309>
+PCIe HCD (impl1)
+  bcm963xx-pcie: [0] DT node available: /pcie@80040000
+  bcm963xx-pcie: found port [0] GEN2 Core Rev [3.21] with 2 Lanes
+  bcm963xx-pcie: core [0] Link UP - [2] lanes, [GEN2] speed
+bcm963xx-pcie 80040000.pcie: PCI host bridge to bus 0000:00
+pci_bus 0000:00: root bus resource [mem 0x90000000-0x9fffffff]
+pci_bus 0000:00: root bus resource [bus 00-ff]
+  bcm963xx-pcie: Core [0] Enabled PCIE/UBUS Error Interrupts
+  bcm963xx-pcie: Core [0] UBUS Intr [UBUS_LINKUP]
+pci 0000:00:00.0: [14e4:6836] type 01 class 0x060400
+pci 0000:00:00.0: PME# supported from D0 D3hot
+pci 0000:00:00.0: bridge configuration invalid ([bus 00-00]), reconfiguring
+pci 0000:01:00.0: [14e4:aaa4] type 00 class 0x028000
+pci 0000:01:00.0: reg 0x10: [mem 0x00000000-0x0000ffff 64bit]
+pci 0000:01:00.0: reg 0x18: [mem 0x00000000-0x007fffff 64bit]
+pci 0000:01:00.0: reg 0x20: [mem 0x00000000-0x000fffff 64bit pref]
+pci 0000:01:00.0: supports D1 D2
+pci 0000:00:00.0: Checking PCIe ASPM for vendor 14e4 device aaa4
+pci 0000:00:00.0: Disabling PCIe ASPM for vendor 14e4 device aaa4
+pci_bus 0000:01: busn_res: [bus 01-ff] end is updated to 01
+pci 0000:00:00.0: BAR 8: assigned [mem 0x90000000-0x90bfffff]
+pci 0000:00:00.0: BAR 9: assigned [mem 0x90c00000-0x90cfffff 64bit pref]
+pci 0000:01:00.0: BAR 2: assigned [mem 0x90000000-0x907fffff 64bit]
+pci 0000:01:00.0: BAR 4: assigned [mem 0x90c00000-0x90cfffff 64bit pref]
+pci 0000:01:00.0: BAR 0: assigned [mem 0x90800000-0x9080ffff 64bit]
+pci 0000:00:00.0: PCI bridge to [bus 01]
+pci 0000:00:00.0:   bridge window [mem 0x90000000-0x90bfffff]
+pci 0000:00:00.0:   bridge window [mem 0x90c00000-0x90cfffff 64bit pref]
+pcieport 0000:00:00.0: enabling device (0000 -> 0002)
+pcieport 0000:00:00.0: Max Payload Size set to  512/ 512 (was  128), Max Read Rq  512
+pci 0000:01:00.0: Max Payload Size set to  512/ 512 (was  128), Max Read Rq  512
+  bcm963xx-pcie: core [1] disabled
+  bcm963xx-pcie: [2] DT node available: /pcie@80060000
+  bcm963xx-pcie: found port [2] GEN2 Core Rev [3.21] with 1 Lanes
+  bcm963xx-pcie: core [2] Link UP - [1] lanes, [GEN2] speed
+bcm963xx-pcie 80060000.pcie: PCI host bridge to bus 0001:00
+pci_bus 0001:00: root bus resource [mem 0xb0000000-0xbfffffff]
+pci_bus 0001:00: root bus resource [bus 00-ff]
+  bcm963xx-pcie: Core [2] Enabled PCIE/UBUS Error Interrupts
+  bcm963xx-pcie: Core [2] UBUS Intr [UBUS_LINKUP]
+pci 0001:00:00.0: [14e4:6836] type 01 class 0x060400
+pci 0001:00:00.0: PME# supported from D0 D3hot
+pci 0001:00:00.0: bridge configuration invalid ([bus 00-00]), reconfiguring
+pci 0001:01:00.0: [14e4:aaa4] type 00 class 0x028000
+pci 0001:01:00.0: reg 0x10: [mem 0x00000000-0x0000ffff 64bit]
+pci 0001:01:00.0: reg 0x18: [mem 0x00000000-0x007fffff 64bit]
+pci 0001:01:00.0: reg 0x20: [mem 0x00000000-0x000fffff 64bit pref]
+pci 0001:01:00.0: supports D1 D2
+pci 0001:00:00.0: Checking PCIe ASPM for vendor 14e4 device aaa4
+pci 0001:00:00.0: Disabling PCIe ASPM for vendor 14e4 device aaa4
+pci_bus 0001:01: busn_res: [bus 01-ff] end is updated to 01
+pci 0001:00:00.0: BAR 8: assigned [mem 0xb0000000-0xb0bfffff]
+pci 0001:00:00.0: BAR 9: assigned [mem 0xb0c00000-0xb0cfffff 64bit pref]
+pci 0001:01:00.0: BAR 2: assigned [mem 0xb0000000-0xb07fffff 64bit]
+pci 0001:01:00.0: BAR 4: assigned [mem 0xb0c00000-0xb0cfffff 64bit pref]
+pci 0001:01:00.0: BAR 0: assigned [mem 0xb0800000-0xb080ffff 64bit]
+pci 0001:00:00.0: PCI bridge to [bus 01]
+pci 0001:00:00.0:   bridge window [mem 0xb0000000-0xb0bfffff]
+pci 0001:00:00.0:   bridge window [mem 0xb0c00000-0xb0cfffff 64bit pref]
+pcieport 0001:00:00.0: enabling device (0000 -> 0002)
+pcieport 0001:00:00.0: Max Payload Size set to  512/ 512 (was  128), Max Read Rq  512
+pci 0001:01:00.0: Max Payload Size set to  512/ 512 (was  128), Max Read Rq  512
+[1m[34mWifi Forwarding Driver is initialized![0m
+[0;36m[DSPHAL] [0mdsphal_init: Starting DSPHAL driver.
+Configuring PCM bus mux
+[0;35m[DSPHAL] [0mpcm_clk_init: starting PCM clock
+[0;36m[DSPHAL] [0mpcm_nco_init: PCM clock in ZSI mode
+[0;32m[DSPHAL] [0mpcm_nco_init: loading MISC FCW to PCM NCO: 0xa7c5ac47
+[0;35m[DSPHAL] [0mdh_configure_channel: device 0, channel 0, id 0, devType 46, intfType 0, status 0, chanType 0, rate 8000 Hz, comp 0
+[0;32m[DSPHAL] [0mpcm_config_channel: channel 0
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 0 ts16 0 updated offset = 0
+[0;35m[DSPHAL] [0mpcm_ts_alloc: DMA timeslot [8-bit 0, 16-bit 0] assigned to PCM channel 0
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 0 ts16 0 updated offset = 0
+[0;35m[DSPHAL] [0mpcm_ts_alloc: DMA timeslot [8-bit 1, 16-bit 0] assigned to PCM channel 0
+[0;35m[DSPHAL] [0mdh_configure_channel: device 0, channel 1, id 1, devType 46, intfType 0, status 0, chanType 0, rate 8000 Hz, comp 0
+[0;32m[DSPHAL] [0mpcm_config_channel: channel 1
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 0 ts16 0 updated offset = 0
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 1 ts16 1 updated offset = 1
+[0;35m[DSPHAL] [0mpcm_ts_alloc: DMA timeslot [8-bit 2, 16-bit 1] assigned to PCM channel 1
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 0 ts16 0 updated offset = 0
+[0;32m[DSPHAL] [0mpcm_ts_alloc: Chan 1 ts16 1 updated offset = 1
+[0;35m[DSPHAL] [0mpcm_ts_alloc: DMA timeslot [8-bit 3, 16-bit 1] assigned to PCM channel 1
+[0;36m[SLICSLAC] [0mslicslac_init: Starting SLIC/SLAC driver.
+random: nvram urandom read with 2 bits of entropy available
+cfg80211: Calling CRDA to update world regulatory domain
+Loading HND Module
+igs_module_init:840:	 IGS 29 create network socket successful
+dhd_module_init in
+DHD_FKB_POOL size is:1280 and entry size:2816
+DHD_PKTTAG POOL size is:2592 and entry size:128
+dhd_queue_budget = 256
+dhd_sta_threshold = 2048
+dhd_if_threshold = 65536
+no wifi platform data, skip
+PCI_PROBE:  bus 1, slot 0,vendor 14E4, device AAA4(good PCI location)
+dhdpcie_init: can't find adapter info for this chip
+pcieh 0000:01:00.0: enabling device (0000 -> 0002)
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00070040), force BP on ALP clock
+dhdpcie_bus_switch_ht_alp: BP is on ALP clock now (0x00010041)
+DHD: dongle ram size is set to 6291456(orig 6291456) at 0x0
+WET:wet_maxip_per_sta=2
+dhd:0: fw path:/etc/wlan/dhd nv path:(null)
+dor0: runner supported ring format types TxP 0x5, RxP 0x3 TxC 0x3 RxC 0x3
+
+dhd_runner_attach: Tx Offload - Enabled, Ring Size = 1024
+dhd_runner_attach: Rx Offload - Enabled, Ring Size = 1024
+TX wakeup info: reg = <0x82d04004>, val = <0x00000000>
+RX wakeup info: reg = <0x82d04004>, val = <0x00000003>
+CFG80211-ERROR) wl_setup_wiphy : Registering Vendor80211
+dhd_attach(): thread:dhd_watchdog_thread:38e started
+dhd_deferred_work_init: work queue initialized 
+Creating CPU ring for queue number 7 with 1024 packets descriptor=0xffffffbffc59f680, size_of_entry 16
+Done initializing Ring 7 Base=0xffffffc017b80000 num of entries= 1024 RDD Base=17b80000 descriptor=0xffffffbffc59f680
+Creating CPU ring for queue number 8 with 1024 packets descriptor=0xffffffbffc59f700, size_of_entry 16
+Done initializing Ring 8 Base=0xffffffc017b88000 num of entries= 1024 RDD Base=17b88000 descriptor=0xffffffbffc59f700
+[1m[34m wfd_bind: Dev wl0 wfd_idx 0 wl_radio_idx 0 Type fkb:def configured WFD thread wfd0-thrd minQId/maxQId (0/1), status (0) qmask 0x3[0m
+Instantiating WFD 0 thread
+dhdpcie_irq_enabled: depth:0
+dhd:0: fw path:/etc/wlan/dhd nv path:(null)
+dhd_bus_start download fw /etc/wlan/dhd, nv 
+DHD  concate_extfdimg_name: Final FW path is /etc/wlan/dhd/43684b0/rtecdc.bin 
+dhd_bus_download_firmware: firmware path=/etc/wlan/dhd/43684b0/rtecdc.bin, nvram path=
+dhdpcie_ramsize_adj: Enter
+dhdpcie_ramsize_adj: Adjust dongle RAMSIZE to 0x580000
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00010040), force BP on ALP clock
+dhdpcie_bus_switch_ht_alp: BP is on ALP clock now (0x00050041)
+dhdpcie_download_code_file: download firmware /etc/wlan/dhd/43684b0/rtecdc.bin
+dhdpcie_bus_write_vars: Download, Upload and compare of NVRAM succeeded.
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00050041), force BP on HT clock
+dhdpcie_bus_switch_ht_alp: BP is on HT clock now (0x000b0042)
+
+PCIe IPC Host Dongle Training Commences ...
+
+PCIe IPC UPLOAD COMMENCE
+PCIe IPC LOCATED: read_u32 daddr32 0x00181e94 took 46383 usec. ram[0x00000000,0x0057fffc]
+PCIe IPC HEADER: daddr32 0x00181e94 size 128 revision: host 0x85 dngl 0x85
+	 FWID 0x0024a900, flags 0x10b10085, dcap1 0x2f8f0000 dcap2 0x00000001
+	 trap 0x00000000 assrt 0x00000000,0x00000000,0 cons 0x00275808
+	 mbox H2D 0x002983e8 D2H 0x002983ec rings 0x00295988
+PCIe IPC HEADER HME: version 6 users 9 size 160
+	 ID HMEUSR PAGES ALIGN   BOUNDARY  FLAGS
+	  0 SCRMEM     1   256 0x01ffffff 0x003c
+	  1 PKTPGR     0   256 0x01ffffff 0x003c
+	  2 MACIFS     0   256 0x01ffffff 0x003c
+	  3 LCLPKT     0   256 0x01ffffff 0x003c
+	  4 PSQPKT     0   256 0x01ffffff 0x003c
+	  5 CSIMON    33    64 0x01ffffff 0x003c
+	  6 HMOSWP     0   256 0x01ffffff 0x003c
+	  7 MBXPGR    64   256 0x01ffffff 0x003c
+	  8 AIR_IQ     0   256 0x01ffffff 0x003c
+PCIe IPC RINGS: size 128 Ring Mem daddr32 0x00295a08
+	 H2D Indices Array daddr32: WR 0x00297b88 RD 0x00297fac
+	 D2H Indices Array daddr32: WR 0x002983d0 RD 0x002983dc
+	 Total: H2D rings 530 D2H rings 6 flowrings 528 interfaces 16
+PCIe IPC UPLOAD COMPLETED
+
+PCIe IPC REVISION 133 Configuration and Features
+	 Config  : D2H Sync Mode: 0x00000000
+	 Config  : Max Rings H2D 530 D2H 6
+	 Config  : Ring Index Size 2 bytes
+	 Feature : Host iDMA
+	 Config  : Flowring per TID
+	 Feature : Dongle DMA Indices H2D 1 D2H 1
+	 Protocol: H2D WR Indices Array: DMA Buf va ffffff8002d36000 pa hi 0x00000000 lo 0x17c28000 len    1088 = 2 *  530
+	 Protocol: D2H RD Indices Array: DMA Buf va ffffff8002d36800 pa hi 0x00000000 lo 0x17c28800 len      64 = 2 *    6
+	 Protocol: D2H WR Indices Array: DMA Buf va ffffff8002d36c00 pa hi 0x00000000 lo 0x17c28c00 len      64 = 2 *    6
+	 Protocol: H2D RD Indices Array: DMA Buf va ffffff8002d37000 pa hi 0x00000000 lo 0x17c29000 len    1088 = 2 *  530
+	 Feature : SFH Insertion 1
+	 Feature : CSI Monitor
+	 Feature : Fast Delete Ring
+	 Feature : Fast Delete Ring disabled
+	 Config  : WI Formats TxP 1 RxP 1 TxC 1 RxC 1
+	 Feature : HWA iDMA RxPost
+	 Feature : HWA iDMA TxCpl
+	 Feature : HWA iDMA RxCpl
+	 Feature : HWA TxPost
+	 Protocol: H2D TxPost  : format 1 [type 2 size 32 max 2560 hdr_off 16]
+dor0: MSG Ring format set to 1
+	 Protocol: H2D RxPost 1: format 1 [type 1 size  8 max 1024 shift 0]
+	 Protocol: D2H TxCpln 3: format 1 [type 1 size  8 max 1024]
+	 Protocol: H2D RxCpln 4: format 1 [type 1 size  8 max 1024 offset 0]
+	 Config  : RxPost Data buffer length 1836
+	 Config  : Host PhysAddr hi32 0
+	 Protocol: HME Haddr64 Table users 9 DMA Buf va ffffffc018255000 pa hi 0x00000000 lo 0x18255000 len      72
+	 Protocol: HME user 0 DMA Buf va ffffffc01a5a0000 pa hi 0x00000000 lo 0x1a5a0000 len    4096
+	 Protocol: HME user 5 DMA Buf va ffffffc017bc0000 pa hi 0x00000000 lo 0x17bc0000 len  135168
+	 Protocol: HME user 7 DMA Buf va ffffffc017600000 pa hi 0x00000000 lo 0x17600000 len  262144
+PCIe IPC Host Dongle Training Completed!
+
+dhd_bus_start: Initializing 530 h2drings
+dhd_runner_flowmgr_init: dhd0_rnr bootmem addr<ffffffc00f400000> size<11534336>
+dhd_runner_profile_init: profile = 3 1024/0512 2048/1024 1024/0512 0512/0512 0512/0512
+Attach flowrings pool for 528 rings
+iDMA enabled PCIEControl = 1083839a
+Config doorbell for d2h_rings <3>
+[0;33;40mRunner DHD PCIE: vendor<0x14e4> device<0xaaa4> bus<1> slot<0>[0m
+
+Initial configuration
+	===== host_radio_idx : 0, rnr_radio_idx : 0 =====
+	rx_post_flow_ring_base_addr : ffffffc017b98000
+	tx_post_flow_ring_base_addr : ffffffc00f3d8000
+	rx_complete_flow_ring_base_addr : ffffffc017b9c000
+	tx_complete_flow_ring_base_addr : ffffffc017b9a000
+
+	r2d_wr_arr_base_addr : ffffff8002d36000, phys_addr : 0000000017c28000
+	d2r_rd_arr_base_addr : ffffff8002d36802, phys_addr : 0000000017c28802
+	r2d_rd_arr_base_addr : ffffff8002d37000, phys_addr : 0000000017c29000
+	d2r_wr_arr_base_addr : ffffff8002d36c02, phys_addr : 0000000017c28c02
+	tx_post_mgmt_arr_base_addr : ffffff8002d37800, phys_addr : 0000000017c29800
+
+	Doorbell Post Wakeup register : phy_addr: 0x90802160, virt_addr: ffffff8002d42160
+	Doorbell Complete Wakeup register : phy_addr: 0x90802164, virt_addr: ffffff8002d42164
+	Doorbell ISR : ffffffbffcacf648
+	Doorbell CTX : ffffffc0180f8800
+	add_llcsnap_header : 1
+	flow_ring_format : 1
+	idma_active : 1
+
+Backup queue configuration:
+========================================
+Base virt address = ffffffc001da1000, physical address = 0000000001da1000
+Index fifo virt address = ffffffc001ea1000, physical address = 0000000001ea1000
+FPM group configuration set:  DS = 7930, US = 23790, WLAN_Tx = (low:27234, high:27234, excl:27234) for 1 radios
+Creating CPU ring for queue number 9 with 128 packets descriptor=0xffffffbffc59f780, size_of_entry 16
+Done initializing Ring 9 Base=0xffffffc017aa0000 num of entries= 128 RDD Base=17aa0000 descriptor=0xffffffbffc59f780
+rdpa_dhd_helper_dhd_complete_ring_create(0, 1024) returned 0
+dhd_helper_cpu_exception_rxq_set_ex: cpu_port = 4, hw_queue = 9
+[0;33;40mRunner DHD Offload initialization complete[0m
+
+Created netlink: radio unit idx 0, nl_id 23
+CSIMON: HOST CSIMON[1.1.0]
+CUR_ETHERADDR : 6 
+00 90 4c 2b f0 82 
+dhd_sync_with_dongle: GET_REVINFO device 0x442b, vendor 0x14e4, chipnum 0xaaa4, corerev 129
+Dongle Host Driver, version 17.10.XXX.XX (r811021)
+Compiled in drivers/net/wireless/bcmdhd
+wfd_registerdevice Successfully registered dev wl0 ifidx 0 wfd_idx 0
+Register interface [wl0]  MAC: 00:90:4c:XX:XX:XX
+
+PCI_PROBE:  bus 1, slot 0,vendor 14E4, device AAA4(good PCI location)
+dhdpcie_init: can't find adapter info for this chip
+pcieh 0001:01:00.0: enabling device (0000 -> 0002)
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00070040), force BP on ALP clock
+dhdpcie_bus_switch_ht_alp: BP is on ALP clock now (0x00010041)
+DHD: dongle ram size is set to 6291456(orig 6291456) at 0x0
+WET:wet_maxip_per_sta=2
+dhd:1: fw path:/etc/wlan/dhd nv path:(null)
+dor1: runner supported ring format types TxP 0x5, RxP 0x3 TxC 0x3 RxC 0x3
+
+dhd_runner_attach: Tx Offload - Enabled, Ring Size = 1024
+dhd_runner_attach: Rx Offload - Enabled, Ring Size = 1024
+TX wakeup info: reg = <0x82d04004>, val = <0x00000001>
+RX wakeup info: reg = <0x82d04004>, val = <0x00000004>
+CFG80211-ERROR) wl_setup_wiphy : Registering Vendor80211
+dhd_attach(): thread:dhd_watchdog_thread:394 started
+dhd_deferred_work_init: work queue initialized 
+Creating CPU ring for queue number 10 with 1024 packets descriptor=0xffffffbffc59f800, size_of_entry 16
+Done initializing Ring 10 Base=0xffffffc017728000 num of entries= 1024 RDD Base=17728000 descriptor=0xffffffbffc59f800
+Creating CPU ring for queue number 11 with 1024 packets descriptor=0xffffffbffc59f880, size_of_entry 16
+Done initializing Ring 11 Base=0xffffffc017730000 num of entries= 1024 RDD Base=17730000 descriptor=0xffffffbffc59f880
+[1m[34m wfd_bind: Dev wl1 wfd_idx 1 wl_radio_idx 1 Type fkb:def configured WFD thread wfd1-thrd minQId/maxQId (0/1), status (0) qmask 0x3[0m
+Instantiating WFD 1 thread
+dhdpcie_irq_enabled: depth:0
+dhd:1: fw path:/etc/wlan/dhd nv path:(null)
+dhd_bus_start download fw /etc/wlan/dhd, nv 
+DHD  concate_extfdimg_name: Final FW path is /etc/wlan/dhd/43684b0/rtecdc.bin 
+dhd_bus_download_firmware: firmware path=/etc/wlan/dhd/43684b0/rtecdc.bin, nvram path=
+dhdpcie_ramsize_adj: Enter
+dhdpcie_ramsize_adj: Adjust dongle RAMSIZE to 0x580000
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00010040), force BP on ALP clock
+dhdpcie_bus_switch_ht_alp: BP is on ALP clock now (0x00050041)
+dhdpcie_download_code_file: download firmware /etc/wlan/dhd/43684b0/rtecdc.bin
+dhdpcie_bus_write_vars: Download, Upload and compare of NVRAM succeeded.
+dhdpcie_bus_switch_ht_alp: BP is currently on ALP clock (0x00050041), force BP on HT clock
+dhdpcie_bus_switch_ht_alp: BP is on HT clock now (0x000b0042)
+
+PCIe IPC Host Dongle Training Commences ...
+
+PCIe IPC UPLOAD COMMENCE
+PCIe IPC LOCATED: read_u32 daddr32 0x00181e94 took 46383 usec. ram[0x00000000,0x0057fffc]
+PCIe IPC HEADER: daddr32 0x00181e94 size 128 revision: host 0x85 dngl 0x85
+	 FWID 0x001d4000, flags 0x10b10085, dcap1 0x2f8f0000 dcap2 0x00000001
+	 trap 0x00000000 assrt 0x00000000,0x00000000,0 cons 0x00275808
+	 mbox H2D 0x002983e8 D2H 0x002983ec rings 0x00295988
+PCIe IPC HEADER HME: version 6 users 9 size 160
+	 ID HMEUSR PAGES ALIGN   BOUNDARY  FLAGS
+	  0 SCRMEM     1   256 0x01ffffff 0x003c
+	  1 PKTPGR     0   256 0x01ffffff 0x003c
+	  2 MACIFS     0   256 0x01ffffff 0x003c
+	  3 LCLPKT     0   256 0x01ffffff 0x003c
+	  4 PSQPKT     0   256 0x01ffffff 0x003c
+	  5 CSIMON    33    64 0x01ffffff 0x003c
+	  6 HMOSWP     0   256 0x01ffffff 0x003c
+	  7 MBXPGR    64   256 0x01ffffff 0x003c
+	  8 AIR_IQ     0   256 0x01ffffff 0x003c
+PCIe IPC RINGS: size 128 Ring Mem daddr32 0x00295a08
+	 H2D Indices Array daddr32: WR 0x00297b88 RD 0x00297fac
+	 D2H Indices Array daddr32: WR 0x002983d0 RD 0x002983dc
+	 Total: H2D rings 530 D2H rings 6 flowrings 528 interfaces 16
+PCIe IPC UPLOAD COMPLETED
+
+PCIe IPC REVISION 133 Configuration and Features
+	 Config  : D2H Sync Mode: 0x00000000
+	 Config  : Max Rings H2D 530 D2H 6
+	 Config  : Ring Index Size 2 bytes
+	 Feature : Host iDMA
+	 Config  : Flowring per TID
+	 Feature : Dongle DMA Indices H2D 1 D2H 1
+	 Protocol: H2D WR Indices Array: DMA Buf va ffffff8002d59000 pa hi 0x00000000 lo 0x17700000 len    1088 = 2 *  530
+	 Protocol: D2H RD Indices Array: DMA Buf va ffffff8002d59800 pa hi 0x00000000 lo 0x17700800 len      64 = 2 *    6
+	 Protocol: D2H WR Indices Array: DMA Buf va ffffff8002d59c00 pa hi 0x00000000 lo 0x17700c00 len      64 = 2 *    6
+	 Protocol: H2D RD Indices Array: DMA Buf va ffffff8002d5a000 pa hi 0x00000000 lo 0x17701000 len    1088 = 2 *  530
+	 Feature : SFH Insertion 1
+	 Feature : CSI Monitor
+	 Feature : Fast Delete Ring
+	 Feature : Fast Delete Ring disabled
+	 Config  : WI Formats TxP 1 RxP 1 TxC 1 RxC 1
+	 Feature : HWA iDMA RxPost
+	 Feature : HWA iDMA TxCpl
+	 Feature : HWA iDMA RxCpl
+	 Feature : HWA TxPost
+	 Protocol: H2D TxPost  : format 1 [type 2 size 32 max 2560 hdr_off 16]
+dor1: MSG Ring format set to 1
+	 Protocol: H2D RxPost 1: format 1 [type 1 size  8 max 1024 shift 0]
+	 Protocol: D2H TxCpln 3: format 1 [type 1 size  8 max 1024]
+	 Protocol: H2D RxCpln 4: format 1 [type 1 size  8 max 1024 offset 0]
+	 Config  : RxPost Data buffer length 1836
+	 Config  : Host PhysAddr hi32 0
+	 Protocol: HME Haddr64 Table users 9 DMA Buf va ffffffc01824f800 pa hi 0x00000000 lo 0x1824f800 len      72
+	 Protocol: HME user 0 DMA Buf va ffffffc0187c3000 pa hi 0x00000000 lo 0x187c3000 len    4096
+	 Protocol: HME user 5 DMA Buf va ffffffc0177c0000 pa hi 0x00000000 lo 0x177c0000 len  135168
+	 Protocol: HME user 7 DMA Buf va ffffffc017200000 pa hi 0x00000000 lo 0x17200000 len  262144
+PCIe IPC Host Dongle Training Completed!
+
+dhd_bus_start: Initializing 530 h2drings
+dhd_runner_flowmgr_init: dhd1_rnr bootmem addr<ffffffc00e800000> size<11534336>
+dhd_runner_profile_init: profile = 3 1024/0512 2048/1024 1024/0512 0512/0512 0512/0512
+Attach flowrings pool for 528 rings
+iDMA enabled PCIEControl = 1083839a
+Config doorbell for d2h_rings <3>
+[0;33;40mRunner DHD PCIE: vendor<0x14e4> device<0xaaa4> bus<1> slot<0>[0m
+
+Initial configuration
+	===== host_radio_idx : 1, rnr_radio_idx : 1 =====
+	rx_post_flow_ring_base_addr : ffffffc0176c6000
+	tx_post_flow_ring_base_addr : ffffffc00e7d8000
+	rx_complete_flow_ring_base_addr : ffffffc0177aa000
+	tx_complete_flow_ring_base_addr : ffffffc0177a8000
+
+	r2d_wr_arr_base_addr : ffffff8002d59000, phys_addr : 0000000017700000
+	d2r_rd_arr_base_addr : ffffff8002d59802, phys_addr : 0000000017700802
+	r2d_rd_arr_base_addr : ffffff8002d5a000, phys_addr : 0000000017701000
+	d2r_wr_arr_base_addr : ffffff8002d59c02, phys_addr : 0000000017700c02
+	tx_post_mgmt_arr_base_addr : ffffff8002d5a800, phys_addr : 0000000017701800
+
+	Doorbell Post Wakeup register : phy_addr: 0xb0802160, virt_addr: ffffff8002d52160
+	Doorbell Complete Wakeup register : phy_addr: 0xb0802164, virt_addr: ffffff8002d52164
+	Doorbell ISR : ffffffbffcacf648
+	Doorbell CTX : ffffffc01834c000
+	add_llcsnap_header : 1
+	flow_ring_format : 1
+	idma_active : 1
+
+Backup queue configuration:
+========================================
+Base virt address = ffffffc001da1000, physical address = 0000000001da1000
+Index fifo virt address = ffffffc001eac000, physical address = 0000000001eac000
+FPM group configuration set:  DS = 7930, US = 23790, WLAN_Tx = (low:25188, high:25188, excl:25188) for 2 radios
+Creating CPU ring for queue number 12 with 128 packets descriptor=0xffffffbffc59f900, size_of_entry 16
+Done initializing Ring 12 Base=0xffffffc01dd06000 num of entries= 128 RDD Base=1dd06000 descriptor=0xffffffbffc59f900
+rdpa_dhd_helper_dhd_complete_ring_create(1, 1024) returned 0
+dhd_helper_cpu_exception_rxq_set_ex: cpu_port = 5, hw_queue = 12
+[0;33;40mRunner DHD Offload initialization complete[0m
+
+Created netlink: radio unit idx 1, nl_id 22
+CSIMON: HOST CSIMON[1.1.0]
+CUR_ETHERADDR : 6 
+00 90 4c 1f d0 75 
+dhd_sync_with_dongle: GET_REVINFO device 0x442a, vendor 0x14e4, chipnum 0xaaa4, corerev 129
+Dongle Host Driver, version 17.10.XXX.XX (r811021)
+Compiled in drivers/net/wireless/bcmdhd
+wfd_registerdevice Successfully registered dev wl1 ifidx 0 wfd_idx 1
+Register interface [wl1]  MAC: 00:90:4c:XX:XX:XX
+
+dhd_module_init out
+osl_skb_audit: PASS 
+wl_module_init: passivemode set to 0x1
+wl_module_init: txworkq set to 0x0
+cfg80211: Calling CRDA to update world regulatory domain
+sc_gpio init...
+push_button init...
+sc_gpio_init successfully
+sc_led init...
+IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+IPv6: ADDRCONF(NETDEV_UP): eth1: link is not ready
+IPv6: ADDRCONF(NETDEV_UP): eth2: link is not ready
+IPv6: ADDRCONF(NETDEV_UP): eth3: link is not ready
+device eth0 entered promiscuous mode
+device eth1 entered promiscuous mode
+device eth2 entered promiscuous mode
+device eth3 entered promiscuous mode
+Initializing IGMP Module
+app_whitelist module init success
+Board not populated with PMD
+LOGGER driver Init Done: 0
+port_init:L330 port object already initialized: port_0:0
+port_init:L330 port object already initialized: port_0:1
+port_init:L330 port object already initialized: port_0:2
+port_init:L330 port object already initialized: port_0:3
+port_init:L330 port object already initialized: port_0:5
+FPM group configuration set:  DS = 7930, US = 23790, WLAN_Tx = (low:25188, high:25188, excl:25188) for 2 radios
+[0;32m[INF gponSerdes] wan_serdes_config: SERDES: Wan type: GPON[0m
+[0;32m[INF gponSerdes] wan_serdes_config: SERDES: Configured with 50 Mhz PLL[0m
+[0;32m[INF gponSerdes] pon_drv_gpon_init: SERDES: 
+
+serdes initialization: GPON Start
+[0m
+[0;32m[INF gponSerdes] sgb_rescal_init: SERDES: 
+ WAN_TOP_RESCAL_STATUS_0 =0x6400013[0m
+[0;32m[INF gponSerdes] pon_drv_gpon_init: SERDES: 
+serdes initialization: Done[0m
+[0;34m[NTC pon_pwm] api_pwm_init: [10999624]api_pwm_init Done[0m
+Creating CPU ring for queue number 6 with 512 packets descriptor=0xffffffbffc59f600, size_of_entry 16
+Done initializing Ring 6 Base=0xffffffc0172f4000 num of entries= 512 RDD Base=172f4000 descriptor=0xffffffbffc59f600
+[0;34m[NTC ploamFsm] printSerialPasswd: XXXXXXXXXXXXXXXXXXXXXXXXXXX[0m
+[0;34m[NTC ploamFsm] printSerialPasswd: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX[0m
+dgasp: kerSysRegisterDyingGaspHandler: gpon0 registered 
+[0;34m[NTC ploamFsm] bcm_ploamCreate: ploam driver created.[0m
+Creating CPU ring for queue number 5 with 256 packets descriptor=0xffffffbffc59f580, size_of_entry 16
+Done initializing Ring 5 Base=0xffffffc01737a000 num of entries= 256 RDD Base=1737a000 descriptor=0xffffffbffc59f580
+[0;34m[NTC ploamFsm] printSerialPasswd: XXXXXXXXXXXXXXXXXXXXXXXXXXX[0m
+[0;34m[NTC ploamFsm] printSerialPasswd: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX[0m
+Init system monitor...
+--start kick watchdog--wd_kick_count 80 
+--start kick watchdog--cmdPath reboot 
+netdev path : gponif -> gpondef
+netdev path : gponwan -> gponif -> gpondef
+BCMVLAN : gpondef mode was set to RG
+BCMVLAN : gponif mode was set to RG
+wd.ko wd_get_reboot_reason = REBOOT_APP_HANGUP
+cfg80211: Calling CRDA to update world regulatory domain
+eth0 EGPHY:GMII:0x1 - Link Up 1000 Mbps Full duplex
+jffs2: warning: (1386) jffs2_sum_write_data: Summary too big (-32 data, -2019 pad) in eraseblock at 00440000
+wd.ko wd_get_reboot_reason = REBOOT_APP_HANGUP
+usbcore: registered new interface driver usbserial
+usbcore: registered new interface driver option
+usbserial: XXX Serial support registered for GSM modem (1-port)
+usbcore: registered new interface driver cp210x
+usbserial: XXX Serial support registered for cp210x
+usbserial: XXX Serial deregistering driver GSM modem (1-port)
+usbcore: deregistering interface driver option
+usbcore: registered new interface driver option
+usbserial: XXX Serial support registered for GSM modem (1-port)
+ubi2: attaching mtd18
+ubi2: scanning is finished
+ubi2: attached mtd18 (name "Yaffs", size 278 MiB)
+ubi2: PEB size: 262144 bytes (256 KiB), LEB size: 253952 bytes
+ubi2: min./max. I/O unit sizes: 4096/4096, sub-page size 4096
+ubi2: VID header offset: 4096 (aligned 4096), data offset: 8192
+ubi2: good PEBs: 1112, bad PEBs: 1, corrupted PEBs: 0
+ubi2: user volume: 1, internal volumes: 1, max. volumes count: 128
+ubi2: max/mean erase counter: 6/3, WL threshold: 4096, image sequence number: 296077927
+ubi2: available PEBs: 0, total reserved PEBs: 1112, PEBs reserved for bad PEB handling: 21
+ubi2: background thread "ubi_bgt2d" started, PID 1730
+cfg80211: Calling CRDA to update world regulatory domain
+UBIFS (ubi2:0): background thread "ubifs_bgt2_0" started, PID 1802
+UBIFS (ubi2:0): recovery needed
+UBIFS (ubi2:0): recovery completed
+UBIFS (ubi2:0): UBIFS: mounted UBI device 2, volume 0, name "container"
+UBIFS (ubi2:0): LEB size: 253952 bytes (248 KiB), min./max. I/O unit sizes: 4096 bytes/4096 bytes
+UBIFS (ubi2:0): FS size: 78725120 bytes (75 MiB, 310 LEBs), journal size 9404416 bytes (8 MiB, 38 LEBs)
+UBIFS (ubi2:0): reserved for root: 0 bytes (0 KiB)
+UBIFS (ubi2:0): media format: w4/r0 (latest is w4/r0), UUID 8C63280B-D37B-4F71-8AEC-F8723F9ED36E, small LPT model
